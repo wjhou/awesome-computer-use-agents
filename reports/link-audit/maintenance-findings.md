@@ -4,6 +4,26 @@ Audit date: 2026-03-27 (Asia/Tokyo)
 
 This file captures the highest-confidence link integrity issues found during the audit, plus a few freshness issues that make the repository harder to trust over time.
 
+## Visual Snapshot
+
+```mermaid
+pie showData
+    title Highest-Confidence Maintenance Problems
+    "Wrong paper mappings" : 3
+    "Broken or stale URLs" : 3
+    "Browser-only or script-blocked pages" : 7
+    "Major star-count freshness drift examples" : 5
+```
+
+```mermaid
+flowchart LR
+  Duplication[Repeated canonical links across files] --> Drift[Maintenance drift]
+  Drift --> WrongLinks[Wrong paper mappings]
+  Drift --> BrokenPages[Broken or stale URLs]
+  Drift --> StaleCounts[Stale GitHub star counts]
+  Drift --> HardValidation[Harder automated validation]
+```
+
 ## Confirmed Wrong Paper Mappings
 
 These are not just renamed papers. The current arXiv URLs resolve to different papers than the local entry titles describe.

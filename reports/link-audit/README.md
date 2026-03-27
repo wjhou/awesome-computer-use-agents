@@ -2,7 +2,28 @@
 
 Audit date: 2026-03-27 (Asia/Tokyo)
 
-This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md).
+This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md). The paper-by-paper dossier is in [per-paper-report.md](./per-paper-report.md).
+
+## Visual Snapshot
+
+```mermaid
+flowchart LR
+  Surveys[Surveys] --> Benchmarks[Benchmarks]
+  Benchmarks --> Methods[Methods]
+  Methods --> Models[Models]
+  Models --> Products[Products and Frameworks]
+  Safety[Safety and Security] --> Products
+  Benchmarks --> Safety
+```
+
+```mermaid
+pie showData
+    title What The Link Set Mostly Contains
+    "arXiv papers" : 50
+    "GitHub repositories" : 37
+    "Official docs and product pages" : 17
+    "Commentary, tutorials, and other resources" : 45
+```
 
 ## Scope
 

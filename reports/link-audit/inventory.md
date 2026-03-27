@@ -2,6 +2,32 @@
 
 Checked on 2026-03-27 (Asia/Tokyo). This inventory covers **149 unique URLs** across **290 total link occurrences** in the repository markdown files.
 
+## Visual Snapshot
+
+```mermaid
+pie showData
+    title Link Status Distribution
+    "ok-arxiv" : 50
+    "ok-github" : 36
+    "ok-meta" : 33
+    "error" : 9
+    "script-blocked" : 7
+    "browser-only" : 3
+    "partially-inaccessible" : 3
+    "broken-404" : 3
+    "other" : 5
+```
+
+```mermaid
+flowchart LR
+  arxiv["arxiv.org (50)"]
+  github["github.com (37)"]
+  hf["huggingface.co (5)"]
+  openai["openai.com (3)"]
+  aws["aws.amazon.com (3)"]
+  tail["All other domains (51)"]
+```
+
 ## Coverage Notes
 
 - `ok-arxiv`: resolved through the arXiv API with title and abstract.
