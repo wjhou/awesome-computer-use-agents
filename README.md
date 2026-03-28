@@ -36,7 +36,9 @@ The repository also includes generated audit artifacts so readers can move from 
 
 - [Link Audit Summary](reports/link-audit/README.md) - high-level findings, cross-link patterns, and audit insights across the repository.
 - [Per-Paper Report Portal](reports/link-audit/per-paper-report.md) - entry point to the full paper-level report set.
+- [Ecosystem Report Portal](reports/link-audit/ecosystem-report.md) - entry point to the non-paper reports covering products, frameworks, tools, and resources.
 - [Paper Reports Coverage Index](reports/link-audit/papers/README.md) - shows every paper entry and marks report availability with `[x]`; entries without reports are intentionally left blank.
+- [Ecosystem Reports Coverage Index](reports/link-audit/ecosystem/README.md) - shows every non-paper link-bearing entry and marks report availability with `[x]`; entries without reports are intentionally left blank.
 - [Link Inventory](reports/link-audit/inventory.md) - raw URL inventory and resolution status.
 - [Maintenance Findings](reports/link-audit/maintenance-findings.md) - confirmed link mismatches and follow-up fixes to make in the source lists.
 
@@ -141,107 +143,109 @@ See [papers/safety/](papers/safety/) for detailed information.
 
 ## Products & Commercial Solutions
 
+The non-paper tables below now include a `Report` column that links to the generated ecosystem dossier for each tracked entry.
+
 ### Major Tech Companies
 
-| Product | Company | Platform | Status | Tags | Link |
-|---------|---------|----------|--------|------|------|
-| Computer Use | Anthropic | Desktop/Web | GA (Mar 2025) | `desktop` `api` `claude` | [Docs](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool) |
-| Operator / CUA | OpenAI | Web | Preview (Jan 2025) | `web` `browser` `api` | [Product](https://openai.com/index/introducing-operator/) |
-| Project Mariner | Google DeepMind | Web/Chrome | Preview (May 2025) | `web` `chrome` `gemini` | [Product](https://deepmind.google/models/project-mariner/) |
-| Gemini 2.5 Computer Use | Google | Desktop/Web | Preview (2025) | `desktop` `gemini` | [Blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) |
-| Nova Act | Amazon AWS | Web | GA (2025) | `web` `enterprise` `aws` | [Product](https://aws.amazon.com/nova/act/) |
-| Apple Intelligence (Siri Agent) | Apple | iOS/macOS | Development | `mobile` `on-device` | [Info](https://www.apple.com/apple-intelligence/) |
+| Product | Company | Platform | Status | Tags | Link | Report |
+|---------|---------|----------|--------|------|------|--------|
+| Computer Use | Anthropic | Desktop/Web | GA (Mar 2025) | `desktop` `api` `claude` | [Docs](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool) | [Report](reports/link-audit/ecosystem/products-and-services/major-tech-companies-anthropic-claude-computer-use.md) |
+| Operator / CUA | OpenAI | Web | Preview (Jan 2025) | `web` `browser` `api` | [Product](https://openai.com/index/introducing-operator/) | [Report](reports/link-audit/ecosystem/products-and-services/major-tech-companies-openai-operator-cua.md) |
+| Project Mariner | Google DeepMind | Web/Chrome | Preview (May 2025) | `web` `chrome` `gemini` | [Product](https://deepmind.google/models/project-mariner/) | [Report](reports/link-audit/ecosystem/products-and-services/major-tech-companies-google-project-mariner.md) |
+| Gemini 2.5 Computer Use | Google | Desktop/Web | Preview (2025) | `desktop` `gemini` | [Blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) | [Report](reports/link-audit/ecosystem/resources-and-guides/key-blog-posts-and-announcements-google-gemini-2-5-computer-use.md) |
+| Nova Act | Amazon AWS | Web | GA (2025) | `web` `enterprise` `aws` | [Product](https://aws.amazon.com/nova/act/) | [Report](reports/link-audit/ecosystem/products-and-services/major-tech-companies-amazon-aws-nova-act.md) |
+| Apple Intelligence (Siri Agent) | Apple | iOS/macOS | Development | `mobile` `on-device` | [Info](https://www.apple.com/apple-intelligence/) | [Report](reports/link-audit/ecosystem/products-and-services/major-tech-companies-apple-siri-agent-apple-intelligence.md) |
 
 ### Startups & Products
 
-| Product | Company | Focus | Tags | Link |
-|---------|---------|-------|------|------|
-| Manus | Butterfly Effect | General-purpose Agent | `general` `multi-model` `acquired-meta` | [Website](https://manus.bot) |
-| Rabbit R1 | Rabbit Inc | Hardware Device + LAM | `hardware` `mobile` `lam` | [Website](https://www.rabbit.tech/rabbit-r1) |
-| Twin | Twin Labs | Workflow Automation | `enterprise` `workflow` `browser` | [Website](https://twin.so/) |
-| HyperWrite | HyperWrite AI | Browser Assistant | `browser` `personal-assistant` | [Website](https://www.hyperwriteai.com/personal-assistant) |
-| MultiOn | MultiOn | Browser Automation | `browser` `automation` `api` | [Website](https://www.multion.ai/) |
-| ACT-1 | Adept AI | Action Transformer | `enterprise` `acquired-amazon` | [Blog](https://www.adept.ai/blog/act-1/) |
-| Runner H | H Company | Real-world Applications | `enterprise` `web` | [Website](https://www.hcompany.ai/) |
+| Product | Company | Focus | Tags | Link | Report |
+|---------|---------|-------|------|------|--------|
+| Manus | Butterfly Effect | General-purpose Agent | `general` `multi-model` `acquired-meta` | [Website](https://manus.bot) | [Report](reports/link-audit/ecosystem/products-and-services/startups-manus-butterfly-effect.md) |
+| Rabbit R1 | Rabbit Inc | Hardware Device + LAM | `hardware` `mobile` `lam` | [Website](https://www.rabbit.tech/rabbit-r1) | [Report](reports/link-audit/ecosystem/products-and-services/startups-rabbit-inc-rabbit-r1.md) |
+| Twin | Twin Labs | Workflow Automation | `enterprise` `workflow` `browser` | [Website](https://twin.so/) | [Report](reports/link-audit/ecosystem/products-and-services/startups-twin-labs-twin.md) |
+| HyperWrite | HyperWrite AI | Browser Assistant | `browser` `personal-assistant` | [Website](https://www.hyperwriteai.com/personal-assistant) | [Report](reports/link-audit/ecosystem/products-and-services/startups-hyperwrite-personal-assistant.md) |
+| MultiOn | MultiOn | Browser Automation | `browser` `automation` `api` | [Website](https://www.multion.ai/) | [Report](reports/link-audit/ecosystem/products-and-services/startups-multion.md) |
+| ACT-1 | Adept AI | Action Transformer | `enterprise` `acquired-amazon` | [Blog](https://www.adept.ai/blog/act-1/) | [Report](reports/link-audit/ecosystem/products-and-services/startups-adept-ai-act-1.md) |
+| Runner H | H Company | Real-world Applications | `enterprise` `web` | [Website](https://www.hcompany.ai/) | [Report](reports/link-audit/ecosystem/products-and-services/startups-h-company-runner-h.md) |
 
 ### Browser Infrastructure
 
-| Product | Company | Focus | Tags | Link |
-|---------|---------|-------|------|------|
-| Browserbase | Browserbase | Cloud Browser for Agents | `infrastructure` `cloud` `api` | [Website](https://www.browserbase.com/) |
-| Browserless | Browserless | Headless Browser Service | `infrastructure` `cloud` `playwright` | [Website](https://www.browserless.io/) |
-| AgentCore Browser | Amazon AWS | Enterprise Browser Tool | `infrastructure` `enterprise` `aws` | [Docs](https://docs.aws.amazon.com/bedrock-agentcore/) |
+| Product | Company | Focus | Tags | Link | Report |
+|---------|---------|-------|------|------|--------|
+| Browserbase | Browserbase | Cloud Browser for Agents | `infrastructure` `cloud` `api` | [Website](https://www.browserbase.com/) | [Report](reports/link-audit/ecosystem/products-and-services/browser-infrastructure-services-browserbase.md) |
+| Browserless | Browserless | Headless Browser Service | `infrastructure` `cloud` `playwright` | [Website](https://www.browserless.io/) | [Report](reports/link-audit/ecosystem/products-and-services/browser-infrastructure-services-browserless.md) |
+| AgentCore Browser | Amazon AWS | Enterprise Browser Tool | `infrastructure` `enterprise` `aws` | [Docs](https://docs.aws.amazon.com/bedrock-agentcore/) | [Report](reports/link-audit/ecosystem/products-and-services/browser-infrastructure-services-amazon-bedrock-agentcore-browser.md) |
 
 ## Open Source Frameworks
 
 ### Agent Frameworks
 
-| Name | Organization | Focus | Stars | Tags | Link |
-|------|--------------|-------|-------|------|------|
-| UI-TARS Desktop | ByteDance | Desktop Agent Stack | 15k+ | `desktop` `multimodal` `sota` | [GitHub](https://github.com/bytedance/UI-TARS-desktop) |
-| Browser Use | Browser Use | Web Automation | 10k+ | `web` `python` `llm` | [GitHub](https://github.com/browser-use/browser-use) |
-| Stagehand | Browserbase | Web Agent Control | 5k+ | `web` `typescript` `playwright` | [GitHub](https://github.com/browserbase/stagehand) |
-| LaVague | LaVague | Modular Web Agent | 5k+ | `web` `modular` `python` | [GitHub](https://github.com/lavague-ai/lavague) |
-| Skyvern | Skyvern | Browser Workflow | 3k+ | `web` `vision` `automation` | [GitHub](https://github.com/Skyvern-AI/skyvern) |
-| OpenInterpreter | Open Interpreter | General Computer Control | 50k+ | `general` `code` `desktop` | [GitHub](https://github.com/OpenInterpreter/open-interpreter) |
-| OpenAdapt | OpenAdapt | Process Automation | 1k+ | `desktop` `rpa` `ai-first` | [GitHub](https://github.com/OpenAdaptAI/OpenAdapt) |
-| AutoGLM | Tsinghua/ChatGLM | Mobile Agent | 2k+ | `mobile` `android` `open-source` | [GitHub](https://github.com/THUDM/AutoGLM) |
-| AppAgent | Tencent | Smartphone Agent | 5k+ | `mobile` `android` `multimodal` | [GitHub](https://github.com/TencentQQGYLab/AppAgent) |
-| Mobile-Agent | Alibaba X-PLUG | Mobile GUI Family | 3k+ | `mobile` `multi-agent` | [GitHub](https://github.com/X-PLUG/MobileAgent) |
+| Name | Organization | Focus | Stars | Tags | Link | Report |
+|------|--------------|-------|-------|------|------|--------|
+| UI-TARS Desktop | ByteDance | Desktop Agent Stack | 15k+ | `desktop` `multimodal` `sota` | [GitHub](https://github.com/bytedance/UI-TARS-desktop) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/desktop-agent-frameworks-ui-tars-desktop.md) |
+| Browser Use | Browser Use | Web Automation | 10k+ | `web` `python` `llm` | [GitHub](https://github.com/browser-use/browser-use) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/web-browser-frameworks-browser-use.md) |
+| Stagehand | Browserbase | Web Agent Control | 5k+ | `web` `typescript` `playwright` | [GitHub](https://github.com/browserbase/stagehand) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/web-browser-frameworks-stagehand.md) |
+| LaVague | LaVague | Modular Web Agent | 5k+ | `web` `modular` `python` | [GitHub](https://github.com/lavague-ai/lavague) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/web-browser-frameworks-lavague.md) |
+| Skyvern | Skyvern | Browser Workflow | 3k+ | `web` `vision` `automation` | [GitHub](https://github.com/Skyvern-AI/skyvern) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/web-browser-frameworks-skyvern.md) |
+| OpenInterpreter | Open Interpreter | General Computer Control | 50k+ | `general` `code` `desktop` | [GitHub](https://github.com/OpenInterpreter/open-interpreter) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/desktop-agent-frameworks-openinterpreter.md) |
+| OpenAdapt | OpenAdapt | Process Automation | 1k+ | `desktop` `rpa` `ai-first` | [GitHub](https://github.com/OpenAdaptAI/OpenAdapt) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/desktop-agent-frameworks-openadapt.md) |
+| AutoGLM | Tsinghua/ChatGLM | Mobile Agent | 2k+ | `mobile` `android` `open-source` | [GitHub](https://github.com/THUDM/AutoGLM) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/mobile-agent-frameworks-autoglm.md) |
+| AppAgent | Tencent | Smartphone Agent | 5k+ | `mobile` `android` `multimodal` | [GitHub](https://github.com/TencentQQGYLab/AppAgent) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/mobile-agent-frameworks-appagent.md) |
+| Mobile-Agent | Alibaba X-PLUG | Mobile GUI Family | 3k+ | `mobile` `multi-agent` | [GitHub](https://github.com/X-PLUG/MobileAgent) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/mobile-agent-frameworks-mobile-agent.md) |
 
 ### Multi-Agent Frameworks
 
-| Name | Organization | Focus | Tags | Link |
-|------|--------------|-------|------|------|
-| AutoGen | Microsoft | Multi-Agent Systems | `multi-agent` `conversation` | [GitHub](https://github.com/microsoft/autogen) |
-| CrewAI | CrewAI | Team-based Agents | `multi-agent` `orchestration` | [GitHub](https://github.com/joaomdmoura/crewAI) |
-| LangGraph | LangChain | Graph-based Agents | `multi-agent` `workflow` | [GitHub](https://github.com/langchain-ai/langgraph) |
+| Name | Organization | Focus | Tags | Link | Report |
+|------|--------------|-------|------|------|--------|
+| AutoGen | Microsoft | Multi-Agent Systems | `multi-agent` `conversation` | [GitHub](https://github.com/microsoft/autogen) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/multi-agent-frameworks-autogen.md) |
+| CrewAI | CrewAI | Team-based Agents | `multi-agent` `orchestration` | [GitHub](https://github.com/joaomdmoura/crewAI) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/multi-agent-frameworks-crewai.md) |
+| LangGraph | LangChain | Graph-based Agents | `multi-agent` `workflow` | [GitHub](https://github.com/langchain-ai/langgraph) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/multi-agent-frameworks-langgraph.md) |
 
 ### Grounding & Parsing Tools
 
-| Name | Organization | Focus | Tags | Link |
-|------|--------------|-------|------|------|
-| OmniParser | Microsoft | Screen Parsing | `grounding` `yolo` `florence` | [GitHub](https://github.com/microsoft/OmniParser) |
-| SeeClick | Nanjing Univ | GUI Grounding | `grounding` `vlm` | [GitHub](https://github.com/njucckevin/SeeClick) |
+| Name | Organization | Focus | Tags | Link | Report |
+|------|--------------|-------|------|------|--------|
+| OmniParser | Microsoft | Screen Parsing | `grounding` `yolo` `florence` | [GitHub](https://github.com/microsoft/OmniParser) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/grounding-and-parsing-tools-omniparser.md) |
+| SeeClick | Nanjing Univ | GUI Grounding | `grounding` `vlm` | [GitHub](https://github.com/njucckevin/SeeClick) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/grounding-and-parsing-tools-seeclick.md) |
 
 ## Infrastructure & Tools
 
 ### Desktop Automation
 
-| Name | Language | Platform | Tags | Link |
-|------|----------|----------|------|------|
-| PyAutoGUI | Python | Cross-platform | `automation` `python` | [GitHub](https://github.com/asweigart/pyautogui) |
-| nut.js | TypeScript | Cross-platform | `automation` `nodejs` | [GitHub](https://github.com/nut-tree/nut.js) |
+| Name | Language | Platform | Tags | Link | Report |
+|------|----------|----------|------|------|--------|
+| PyAutoGUI | Python | Cross-platform | `automation` `python` | [GitHub](https://github.com/asweigart/pyautogui) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/desktop-automation-libraries-pyautogui.md) |
+| nut.js | TypeScript | Cross-platform | `automation` `nodejs` | [GitHub](https://github.com/nut-tree/nut.js) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/desktop-automation-libraries-nut-js.md) |
 
 ### Sandbox Environments
 
-| Name | Purpose | Tags | Link |
-|------|---------|------|------|
-| E2B Desktop Sandbox | Secure Agent Evaluation | `sandbox` `cloud` | [GitHub](https://github.com/e2b-dev/desktop) |
-| Windows in Docker | Windows VM Containers | `windows` `docker` | [GitHub](https://github.com/dockur/windows) |
+| Name | Purpose | Tags | Link | Report |
+|------|---------|------|------|--------|
+| E2B Desktop Sandbox | Secure Agent Evaluation | `sandbox` `cloud` | [GitHub](https://github.com/e2b-dev/desktop) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/sandbox-and-testing-environments-e2b-desktop-sandbox.md) |
+| Windows in Docker | Windows VM Containers | `windows` `docker` | [GitHub](https://github.com/dockur/windows) | [Report](reports/link-audit/ecosystem/frameworks-and-tools/sandbox-and-testing-environments-windows-in-docker.md) |
 
 ## Related Resources
 
 ### Curated Lists
 
-| Name | Focus | Link |
-|------|-------|------|
-| GUI-Agents-Paper-List | Comprehensive Paper Collection | [GitHub](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) |
-| Awesome-GUI-Agent | Showlab's Collection | [GitHub](https://github.com/showlab/Awesome-GUI-Agent) |
-| Awesome-GUI-Agents | ZJU Collection | [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) |
-| ACU (AI for Computer Use) | Papers, Projects, Tools | [GitHub](https://github.com/trycua/acu) |
-| ai-agent-papers | Biweekly Updated Papers | [GitHub](https://github.com/masamasa59/ai-agent-papers) |
-| awesome-mobile-agents | Mobile & PC GUI Agents | [GitHub](https://github.com/aialt/awesome-mobile-agents) |
+| Name | Focus | Link | Report |
+|------|-------|------|--------|
+| GUI-Agents-Paper-List | Comprehensive Paper Collection | [GitHub](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-gui-agents-paper-list-osu-nlp-group.md) |
+| Awesome-GUI-Agent | Showlab's Collection | [GitHub](https://github.com/showlab/Awesome-GUI-Agent) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-awesome-gui-agent-showlab.md) |
+| Awesome-GUI-Agents | ZJU Collection | [GitHub](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-awesome-gui-agents-zju-real.md) |
+| ACU (AI for Computer Use) | Papers, Projects, Tools | [GitHub](https://github.com/trycua/acu) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-acu-ai-for-computer-use.md) |
+| ai-agent-papers | Biweekly Updated Papers | [GitHub](https://github.com/masamasa59/ai-agent-papers) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-ai-agent-papers.md) |
+| awesome-mobile-agents | Mobile & PC GUI Agents | [GitHub](https://github.com/aialt/awesome-mobile-agents) | [Report](reports/link-audit/ecosystem/resources-and-guides/curated-paper-lists-awesome-mobile-agents.md) |
 
 ### Key Blog Posts & Articles
 
-| Title | Source | Date | Link |
-|-------|--------|------|------|
-| Introducing Computer Use | Anthropic | Oct 2024 | [Blog](https://www.anthropic.com/news/3-5-models-and-computer-use) |
-| Computer-Using Agent | OpenAI | Jan 2025 | [Blog](https://openai.com/index/computer-using-agent/) |
-| Operator System Card | OpenAI | Jan 2025 | [PDF](https://cdn.openai.com/operator_system_card.pdf) |
-| Introducing Gemini 2.5 Computer Use | Google | 2025 | [Blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) |
-| AI is about to completely change how you use computers | Bill Gates | Nov 2024 | [Blog](https://www.gatesnotes.com/AI-agents) |
+| Title | Source | Date | Link | Report |
+|-------|--------|------|------|--------|
+| Introducing Computer Use | Anthropic | Oct 2024 | [Blog](https://www.anthropic.com/news/3-5-models-and-computer-use) | [Report](reports/link-audit/ecosystem/resources-and-guides/key-blog-posts-and-announcements-anthropic-introducing-computer-use.md) |
+| Computer-Using Agent | OpenAI | Jan 2025 | [Blog](https://openai.com/index/computer-using-agent/) | [Report](reports/link-audit/ecosystem/resources-and-guides/key-blog-posts-and-announcements-openai-computer-using-agent.md) |
+| Operator System Card | OpenAI | Jan 2025 | [PDF](https://cdn.openai.com/operator_system_card.pdf) | [Report](reports/link-audit/ecosystem/resources-and-guides/key-blog-posts-and-announcements-openai-operator-system-card.md) |
+| Introducing Gemini 2.5 Computer Use | Google | 2025 | [Blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) | [Report](reports/link-audit/ecosystem/resources-and-guides/key-blog-posts-and-announcements-google-gemini-2-5-computer-use.md) |
+| AI is about to completely change how you use computers | Bill Gates | Nov 2024 | [Blog](https://www.gatesnotes.com/AI-agents) | [Report](reports/link-audit/ecosystem/resources-and-guides/industry-analysis-and-news-major-articles-ai-is-about-to-completely-change-how-you-use-computers.md) |
 
 ---
 
