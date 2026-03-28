@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | ACL 2024 |
 | Authors | Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu |
-| Focus tags | `model`, `grounding`, `screenspot` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Focus tags | `model` `grounding` `screenspot` |
+| Center of gravity | web, desktop, mobile |
 | Related assets | [GitHub](https://github.com/njucckevin/SeeClick) |
 
 ## Quick Read

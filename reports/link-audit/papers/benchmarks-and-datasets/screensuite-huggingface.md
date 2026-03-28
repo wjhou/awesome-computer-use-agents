@@ -9,12 +9,12 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | ScreenSuite (HuggingFace) |
 | Actual target | [ScreenSuite](https://github.com/huggingface/screensuite) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:231` |
+| Source location | `papers/benchmarks/README.md:232` |
 | Primary link type | `code` |
 | Audit status | `code-only` |
 | Date / venue | Not stated in local entry |
-| Focus tags | `benchmark`, `comprehensive`, `unified` |
-| Center of gravity | `grounding` |
+| Focus tags | `benchmark` `comprehensive` `unified` |
+| Center of gravity | grounding |
 
 ## Quick Read
 

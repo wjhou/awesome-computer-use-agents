@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | OmniACT |
 | Actual target | [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://arxiv.org/abs/2402.17553) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:222` |
+| Source location | `papers/benchmarks/README.md:223` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | February 2024 |
 | Authors | Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov |
-| Focus tags | `benchmark`, `desktop`, `web`, `cross-platform` |
-| Center of gravity | `web`, `desktop`, `grounding` |
+| Focus tags | `benchmark` `desktop` `web` `cross-platform` |
+| Center of gravity | web, desktop, grounding |
 
 ## Quick Read
 

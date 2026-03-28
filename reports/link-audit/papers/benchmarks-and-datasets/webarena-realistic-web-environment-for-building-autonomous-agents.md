@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | WebArena: Realistic Web Environment for Building Autonomous Agents |
 | Actual target | [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:62` |
+| Source location | `papers/benchmarks/README.md:63` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
-| Date / venue | 2023 |
-| Authors | Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou |
-| Focus tags | `benchmark`, `web`, `realistic` |
-| Center of gravity | `web` |
+| Date / venue | ICLR 2024 Poster |
+| Authors | Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig |
+| Focus tags | `benchmark` `web` `realistic` |
+| Center of gravity | web |
 | Related assets | [webarena.dev](https://webarena.dev/) |
 
 ## Quick Read

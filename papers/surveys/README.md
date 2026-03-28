@@ -55,7 +55,7 @@ Consolidates recent research on (M)LLM-based GUI agents, highlighting key innova
 
 ### LLM-Powered GUI Agents in Phone Automation
 - **Authors**: Various
-- **Date**: January 2025
+- **Venue**: TMLR 2025
 - **Link**: [arXiv:2504.19838](https://arxiv.org/abs/2504.19838)
 - **Tags**: `survey` `mobile` `phone` `automation`
 

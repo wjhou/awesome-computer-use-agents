@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | NeurIPS 2024 |
-| Authors | Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng |
-| Focus tags | `benchmark`, `desktop`, `multimodal`, `open-ended` |
-| Center of gravity | `web`, `desktop`, `grounding` |
+| Authors | Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu |
+| Focus tags | `benchmark` `desktop` `multimodal` `open-ended` |
+| Center of gravity | web, desktop, grounding |
 | Related assets | [os-world.github.io](https://os-world.github.io/); [GitHub](https://github.com/xlang-ai/OSWorld) |
 
 ## Quick Read

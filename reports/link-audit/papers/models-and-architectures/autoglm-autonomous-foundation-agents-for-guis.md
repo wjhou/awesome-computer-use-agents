@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | November 2024 |
-| Authors | Xiao Liu, Bo Qin, Dongzhu Liang, Guang Dong, Hanyu Lai, Hanchen Zhang, Hanlin Zhao, Iat Long Iong |
-| Focus tags | `model`, `mobile`, `chatglm`, `open-source` |
-| Center of gravity | `web`, `mobile`, `grounding` |
+| Authors | Xiao Liu, Bo Qin, Dongzhu Liang, Guang Dong, Hanyu Lai, Hanchen Zhang, Hanlin Zhao, Iat Long Iong, Jiadai Sun, Jiaqi Wang, Junjie Gao, Junjun Shan, Kangning Liu, Shudan Zhang, Shuntian Yao, Siyi Cheng, Wentao Yao, Wenyi Zhao, Xinghan Liu, Xinyi Liu, Xinying Chen, Xinyue Yang, Yang Yang, Yifan Xu, Yu Yang, Yujia Wang, Yulin Xu, Zehan Qi, Yuxiao Dong, Jie Tang |
+| Focus tags | `model` `mobile` `chatglm` `open-source` |
+| Center of gravity | web, mobile, grounding |
 | Related assets | [GitHub](https://github.com/THUDM/AutoGLM); [HuggingFace](https://huggingface.co/THUDM/AutoGLM-Phone-9B) |
 
 ## Quick Read

@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | November 2024 (Updated May 2025) |
-| Authors | Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Minghua Ma |
-| Focus tags | `survey`, `llm`, `gui`, `comprehensive` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Authors | Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Minghua Ma, Guyue Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang |
+| Focus tags | `survey` `llm` `gui` `comprehensive` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

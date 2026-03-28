@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Jaylen Jones, Zhehao Zhang, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun |
-| Focus tags | `security`, `unintended-behavior`, `red-team`, `elicitation` |
-| Center of gravity | `unintended-behavior`, `red-team`, `elicitation` |
+| Focus tags | `security` `unintended-behavior` `red-team` `elicitation` |
+| Center of gravity | unintended-behavior, red-team, elicitation |
 
 ## Quick Read
 

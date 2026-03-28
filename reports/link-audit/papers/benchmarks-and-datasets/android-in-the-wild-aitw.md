@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Android in the Wild (AitW) |
 | Actual target | [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:147` |
+| Source location | `papers/benchmarks/README.md:148` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | July 2023 |
+| Date / venue | NeurIPS 2023 D&B |
 | Authors | Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap |
-| Focus tags | `dataset`, `android`, `real-world` |
-| Center of gravity | `mobile`, `grounding` |
+| Focus tags | `dataset` `android` `real-world` |
+| Center of gravity | mobile, grounding |
 
 ## Quick Read
 

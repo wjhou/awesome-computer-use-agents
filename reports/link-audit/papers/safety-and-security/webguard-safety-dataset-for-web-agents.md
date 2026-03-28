@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | July 2025 |
-| Authors | Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng, Zifan Wang, Xiang Deng |
-| Focus tags | `safety`, `dataset`, `web` |
-| Center of gravity | `web`, `safety` |
+| Authors | Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng, Zifan Wang, Xiang Deng, Dawn Song, Huan Sun, Yu Su |
+| Focus tags | `safety` `dataset` `web` |
+| Center of gravity | web, safety |
 
 ## Quick Read
 

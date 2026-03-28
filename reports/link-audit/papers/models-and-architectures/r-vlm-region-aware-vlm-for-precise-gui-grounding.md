@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/models/README.md:218` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
-| Date / venue | July 2025 |
+| Date / venue | ACL 2025 |
 | Authors | Joonhyung Park, Peng Tang, Sagnik Das, Srikar Appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar |
-| Focus tags | `model`, `grounding`, `region-aware` |
-| Center of gravity | `web`, `grounding` |
+| Focus tags | `model` `grounding` `region-aware` |
+| Center of gravity | web, grounding |
 
 ## Quick Read
 

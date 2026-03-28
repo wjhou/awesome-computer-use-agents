@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:82` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | June 2025 |
+| Date / venue | NeurIPS 2025 D&B Spotlight |
 | Authors | Thomas Kuntz, Agatha Duzan, Hao Zhao, Francesco Croce, Zico Kolter, Nicolas Flammarion, Maksym Andriushchenko |
-| Focus tags | `safety`, `benchmark`, `desktop`, `prompt-injection` |
-| Center of gravity | `desktop`, `prompt-injection` |
+| Focus tags | `safety` `benchmark` `desktop` `prompt-injection` |
+| Center of gravity | desktop, prompt-injection |
 
 ## Quick Read
 

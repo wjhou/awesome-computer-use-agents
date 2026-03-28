@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/methods/README.md:21` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | November 2024 |
-| Authors | Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Wenyi Zhao, Yu Yang, Xinyue Yang |
-| Focus tags | `method`, `reinforcement-learning`, `web`, `curriculum` |
-| Center of gravity | `web` |
+| Date / venue | ICLR 2025 |
+| Authors | Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Wenyi Zhao, Yu Yang, Xinyue Yang, Jiadai Sun, Shuntian Yao, Tianjie Zhang, Wei Xu, Jie Tang, Yuxiao Dong |
+| Focus tags | `method` `reinforcement-learning` `web` `curriculum` |
+| Center of gravity | web |
 
 ## Quick Read
 

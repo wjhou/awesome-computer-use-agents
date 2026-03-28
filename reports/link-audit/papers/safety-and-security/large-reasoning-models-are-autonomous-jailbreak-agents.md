@@ -9,12 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Large Reasoning Models are Autonomous Jailbreak Agents |
 | Actual target | [Large Reasoning Models are Autonomous Jailbreak Agents](https://www.nature.com/articles/s41467-026-69010-1) |
 | Section | Safety and Security |
-| Source location | `papers/safety/README.md:84` |
+| Source location | `papers/safety/README.md:189` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | Nature Communications 2026 |
-| Focus tags | `security`, `jailbreak`, `lrm`, `autonomous` |
-| Center of gravity | `safety` |
+| Authors | Thilo Hagendorff, Erik Derner, Nuria Oliver |
+| Focus tags | `security` `jailbreak` `lrm` `autonomous` |
+| Center of gravity | safety |
 
 ## Quick Read
 

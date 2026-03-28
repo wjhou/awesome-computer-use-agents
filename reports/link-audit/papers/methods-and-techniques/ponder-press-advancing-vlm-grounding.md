@@ -9,16 +9,17 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Field | Detail |
 | --- | --- |
 | Repo entry | Ponder & Press: Advancing VLM Grounding |
-| Intended paper | [Ponder & Press: Advancing Visual GUI Agent towards General Computer Control](https://arxiv.org/abs/2412.01268) |
-| Current broken target | [Multipartite entanglement](https://arxiv.org/abs/2409.04566) |
+| Actual target | [arXiv:2409.04566](https://arxiv.org/abs/2409.04566) |
 | Section | Methods and Techniques |
 | Source location | `papers/methods/README.md:119` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | September 2024 |
 | Authors | Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang |
-| Focus tags | `method`, `grounding`, `dual-model` |
-| Center of gravity | `grounding` |
+| Focus tags | `method` `grounding` `dual-model` |
+| Center of gravity | grounding |
+| Intended paper | [Ponder & Press: Advancing Visual GUI Agent towards General Computer Control](https://arxiv.org/abs/2412.01268) |
+| Current broken target | [Multipartite entanglement](https://arxiv.org/abs/2409.04566) |
 
 ## Quick Read
 

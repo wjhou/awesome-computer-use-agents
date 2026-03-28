@@ -13,8 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `code` |
 | Audit status | `code-only` |
 | Date / venue | 2025 |
-| Focus tags | `model`, `mobile`, `on-device`, `8b` |
-| Center of gravity | `mobile` |
+| Authors | Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou |
+| Focus tags | `model` `mobile` `on-device` `8b` |
+| Center of gravity | mobile |
 
 ## Quick Read
 

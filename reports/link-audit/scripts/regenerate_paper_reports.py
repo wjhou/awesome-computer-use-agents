@@ -424,6 +424,45 @@ def markdown_cell_text(raw: str) -> str:
     return strip_md(raw).strip()
 
 
+def primary_link_markdown(entry: RepoEntry) -> str:
+    for key in ["Link", "Code", "Website", "Model"]:
+        link = entry.links.get(key)
+        if link:
+            label, url = link
+            return f"[{label}]({url})"
+    return ""
+
+
+def primary_link_type(entry: RepoEntry, snapshot: dict[str, str]) -> str:
+    existing = markdown_cell_text(snapshot.get("Primary link type", ""))
+    if existing:
+        return existing
+    for key, kind in [("Link", "link"), ("Code", "code"), ("Website", "website"), ("Model", "model")]:
+        if key in entry.links:
+            return kind
+    return "unknown"
+
+
+def date_or_venue(entry: RepoEntry) -> str:
+    return entry.meta.get("Venue") or entry.meta.get("Date") or "Not stated in local entry"
+
+
+def focus_tags(entry: RepoEntry) -> str:
+    if not entry.tags:
+        return "Not stated in local entry"
+    return " ".join(f"`{tag}`" for tag in entry.tags)
+
+
+def report_center_of_gravity(entry: RepoEntry, snapshot: dict[str, str]) -> str:
+    existing = markdown_cell_text(snapshot.get("Center of gravity", ""))
+    if existing:
+        return existing
+    terms = feature_terms(entry)
+    if terms:
+        return ", ".join(terms[:3])
+    return "repo-curated summary"
+
+
 def parse_readme_block(path: Path, section: str) -> list[RepoEntry]:
     lines = path.read_text().splitlines()
     entries: list[RepoEntry] = []
@@ -574,7 +613,6 @@ def load_current_reports() -> list[dict]:
                 "path": path,
                 "title": title_match.group(1).strip(),
                 "text": text,
-                "prefix": prefix,
                 "snapshot": parse_snapshot(text),
                 "mismatch_note": note_match.group(1).strip() if note_match else "",
             }
@@ -1308,6 +1346,46 @@ def generate_report_body(
     return "\n\n".join(section.rstrip() for section in sections).rstrip() + "\n"
 
 
+def build_report_prefix(report: dict, entry: RepoEntry, paper: dict) -> str:
+    snapshot = report["snapshot"]
+    rows: list[tuple[str, str]] = [
+        ("Repo entry", entry.title),
+        ("Actual target", snapshot.get("Actual target", "") or primary_link_markdown(entry)),
+        ("Section", entry.section),
+        ("Source location", f"`{entry.source_location}`"),
+        ("Primary link type", f"`{primary_link_type(entry, snapshot)}`"),
+    ]
+    if snapshot.get("Audit status"):
+        rows.append(("Audit status", snapshot["Audit status"]))
+    rows.append(("Date / venue", date_or_venue(entry)))
+
+    authors = ", ".join(paper.get("authors", [])) if paper.get("authors") else markdown_cell_text(snapshot.get("Authors", ""))
+    if authors:
+        rows.append(("Authors", authors))
+    rows.append(("Focus tags", focus_tags(entry)))
+    rows.append(("Center of gravity", report_center_of_gravity(entry, snapshot)))
+
+    seen = {key for key, _ in rows}
+    for key, value in snapshot.items():
+        if key in seen:
+            continue
+        rows.append((key, value))
+
+    snapshot_lines = ["## Snapshot", "", "| Field | Detail |", "| --- | --- |"]
+    snapshot_lines.extend([f"| {key} | {value} |" for key, value in rows if value])
+
+    lines = [
+        f"# {report['title']}",
+        "",
+        "Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the repository entry, linked source metadata, and audit-time cross-checks.",
+        "",
+    ]
+    if report["mismatch_note"]:
+        lines.extend([report["mismatch_note"], ""])
+    lines.extend(snapshot_lines)
+    return "\n".join(lines).rstrip() + "\n\n"
+
+
 def rewrite_reports() -> tuple[dict[str, Path], dict[str, dict], dict[str, RepoEntry]]:
     metadata = load_metadata()
     repo_entries = load_repo_entries()
@@ -1317,16 +1395,20 @@ def rewrite_reports() -> tuple[dict[str, Path], dict[str, dict], dict[str, RepoE
     report_snapshots_by_title = {report["title"]: report["snapshot"] for report in reports}
 
     for report in reports:
-        source_location = markdown_cell_text(report["snapshot"].get("Source location", ""))
-        entry = repo_entries.get(source_location)
+        entry = next((item for item in all_entries if item.title == report["title"]), None)
         if not entry:
-            # Fall back to title match only when the source-location lookup fails.
-            entry = next((item for item in all_entries if item.title == report["title"]), None)
+            source_location = markdown_cell_text(report["snapshot"].get("Source location", ""))
+            candidate = repo_entries.get(source_location)
+            if candidate and candidate.title == report["title"]:
+                entry = candidate
+            else:
+                entry = candidate
         if not entry:
             continue
         paper = pick_metadata(entry, report["title"], report["snapshot"], metadata)
         body = generate_report_body(report, entry, paper, all_entries, report_paths_by_title)
-        report["path"].write_text(report["prefix"] + body)
+        prefix = build_report_prefix(report, entry, paper)
+        report["path"].write_text(prefix + body)
     return report_paths_by_title, report_snapshots_by_title, repo_entries
 
 

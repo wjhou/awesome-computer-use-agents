@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Hongbin Zhong, Fazle Faisal, Luis França, Tanakorn Leesatapornwongsa, Adriana Szekeres, Kexin Rong, Suman Nath |
-| Focus tags | `method`, `program-synthesis`, `web`, `memory` |
-| Center of gravity | `program-synthesis`, `web`, `memory` |
+| Focus tags | `method` `program-synthesis` `web` `memory` |
+| Center of gravity | program-synthesis, web, memory |
 
 ## Quick Read
 

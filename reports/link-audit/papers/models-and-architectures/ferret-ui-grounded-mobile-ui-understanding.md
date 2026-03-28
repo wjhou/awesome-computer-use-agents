@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | April 2024 |
 | Authors | Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan |
-| Focus tags | `model`, `mobile`, `grounding`, `apple` |
-| Center of gravity | `mobile`, `grounding` |
+| Focus tags | `model` `mobile` `grounding` `apple` |
+| Center of gravity | mobile, grounding |
 
 ## Quick Read
 

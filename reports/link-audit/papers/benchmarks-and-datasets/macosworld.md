@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | macOSWorld |
 | Actual target | [macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](https://arxiv.org/abs/2506.04135) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:51` |
+| Source location | `papers/benchmarks/README.md:52` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | June 2025 |
 | Authors | Pei Yang, Hai Ci, Mike Zheng Shou |
-| Focus tags | `benchmark`, `macos`, `desktop` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Focus tags | `benchmark` `macos` `desktop` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | CHI 2025 |
 | Authors | Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu |
-| Focus tags | `model`, `mobile`, `android`, `learning` |
-| Center of gravity | `mobile` |
+| Focus tags | `model` `mobile` `android` `learning` |
+| Center of gravity | mobile |
 | Related assets | [GitHub](https://github.com/TencentQQGYLab/AppAgent) |
 
 ## Quick Read

@@ -9,16 +9,17 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Field | Detail |
 | --- | --- |
 | Repo entry | GUI Odyssey: Cross-app Mobile Navigation |
-| Intended paper | [GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://arxiv.org/abs/2406.08451) |
-| Current broken target | [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) |
+| Actual target | [arXiv:2411.00820](https://arxiv.org/abs/2411.00820) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:194` |
+| Source location | `papers/benchmarks/README.md:195` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | 2024 |
-| Authors | Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang |
-| Focus tags | `benchmark`, `mobile`, `cross-app`, `navigation` |
-| Center of gravity | `mobile`, `grounding` |
+| Authors | Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Ping Luo |
+| Focus tags | `benchmark` `mobile` `cross-app` `navigation` |
+| Center of gravity | mobile, grounding |
+| Intended paper | [GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://arxiv.org/abs/2406.08451) |
+| Current broken target | [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) |
 
 ## Quick Read
 

@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/models/README.md:204` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | December 2024 |
-| Authors | Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu |
-| Focus tags | `model`, `vision-only`, `unified`, `cross-platform` |
-| Center of gravity | `grounding` |
+| Date / venue | ICML 2025 Poster |
+| Authors | Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong |
+| Focus tags | `model` `vision-only` `unified` `cross-platform` |
+| Center of gravity | grounding |
 
 ## Quick Read
 

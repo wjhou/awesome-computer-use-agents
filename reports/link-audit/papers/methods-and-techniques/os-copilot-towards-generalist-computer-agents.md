@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2024 |
 | Authors | Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong |
-| Focus tags | `method`, `desktop`, `self-improvement` |
-| Center of gravity | `desktop`, `self-improvement` |
+| Focus tags | `method` `desktop` `self-improvement` |
+| Center of gravity | desktop, self-improvement |
 
 ## Quick Read
 

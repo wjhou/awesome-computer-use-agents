@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | GUICourse: Vision-Language to Agents |
 | Actual target | [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:355` |
+| Source location | `papers/benchmarks/README.md:356` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | 2024 |
 | Authors | Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun |
-| Focus tags | `benchmark`, `training`, `curriculum` |
-| Center of gravity | `training`, `curriculum` |
+| Focus tags | `benchmark` `training` `curriculum` |
+| Center of gravity | training, curriculum |
 
 ## Quick Read
 

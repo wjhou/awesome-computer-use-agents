@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Spider2-V: Data Science Workflows |
 | Actual target | [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:337` |
+| Source location | `papers/benchmarks/README.md:338` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | 2024 |
 | Authors | Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, Tao Yu |
-| Focus tags | `benchmark`, `data-science`, `specialized` |
-| Center of gravity | `data-science`, `specialized` |
+| Focus tags | `benchmark` `data-science` `specialized` |
+| Center of gravity | data-science, specialized |
 
 ## Quick Read
 

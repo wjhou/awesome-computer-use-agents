@@ -9,16 +9,17 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Field | Detail |
 | --- | --- |
 | Repo entry | EIA: Environmental Injection Attack |
-| Intended paper | [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295) |
-| Current broken target | [FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings](https://arxiv.org/abs/2409.02453) |
+| Actual target | [arXiv:2409.02453](https://arxiv.org/abs/2409.02453) |
 | Section | Safety and Security |
 | Source location | `papers/safety/README.md:73` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | September 2024 |
-| Authors | Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li |
-| Focus tags | `security`, `privacy`, `attack`, `injection` |
-| Center of gravity | `safety` |
+| Authors | Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun |
+| Focus tags | `security` `privacy` `attack` `injection` |
+| Center of gravity | safety |
+| Intended paper | [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295) |
+| Current broken target | [FrameCorr: Adaptive, Autoencoder-based Neural Compression for Video Reconstruction in Resource and Timing Constrained Network Settings](https://arxiv.org/abs/2409.02453) |
 
 ## Quick Read
 

@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents |
 | Actual target | [OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents](https://arxiv.org/abs/2510.24563) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:281` |
+| Source location | `papers/benchmarks/README.md:282` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | October 2025 |
 | Authors | Hongrui Jia, Jitong Liao, Xi Zhang, Haiyang Xu, Tianbao Xie, Chaoya Jiang, Ming Yan, Si Liu, Wei Ye, Fei Huang |
-| Focus tags | `benchmark`, `tool-calling`, `desktop`, `mcp` |
-| Center of gravity | `tool-calling`, `desktop`, `mcp` |
+| Focus tags | `benchmark` `tool-calling` `desktop` `mcp` |
+| Center of gravity | tool-calling, desktop, mcp |
 | Related assets | [osworld-mcp.github.io](https://osworld-mcp.github.io/) |
 
 ## Quick Read

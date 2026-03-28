@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/methods/README.md:7` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | August 2025 |
-| Authors | Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, Yanyu Ren, Shuntian Yao |
-| Focus tags | `method`, `reinforcement-learning`, `desktop`, `distributed` |
-| Center of gravity | `desktop` |
+| Date / venue | ICLR 2026 Poster |
+| Authors | Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, Yanyu Ren, Shuntian Yao, Yuxiao Dong, Jie Tang |
+| Focus tags | `method` `reinforcement-learning` `desktop` `distributed` |
+| Center of gravity | desktop |
 
 ## Quick Read
 

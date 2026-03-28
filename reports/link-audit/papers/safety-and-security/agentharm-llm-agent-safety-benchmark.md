@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:7` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | October 2024 |
-| Authors | Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, Derek Duenas, Maxwell Lin, Justin Wang, Dan Hendrycks, Andy Zou |
-| Focus tags | `safety`, `benchmark`, `jailbreak`, `multi-step` |
-| Center of gravity | `safety` |
+| Date / venue | ICLR 2025 |
+| Authors | Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, Derek Duenas, Maxwell Lin, Justin Wang, Dan Hendrycks, Andy Zou, Zico Kolter, Matt Fredrikson, Eric Winsor, Jerome Wynne, Yarin Gal, Xander Davies |
+| Focus tags | `safety` `benchmark` `jailbreak` `multi-step` |
+| Center of gravity | safety |
 
 ## Quick Read
 

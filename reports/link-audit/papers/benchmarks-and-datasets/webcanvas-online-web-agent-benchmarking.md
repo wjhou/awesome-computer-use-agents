@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | WebCanvas: Online Web Agent Benchmarking |
 | Actual target | [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2406.12373) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:123` |
+| Source location | `papers/benchmarks/README.md:124` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | June 2024 |
-| Authors | Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang |
-| Focus tags | `benchmark`, `web`, `online`, `dynamic` |
-| Center of gravity | `web` |
+| Authors | Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, Shuyan Zhou, Tongshuang Wu, Zhengyang Wu |
+| Focus tags | `benchmark` `web` `online` `dynamic` |
+| Center of gravity | web |
 
 ## Quick Read
 

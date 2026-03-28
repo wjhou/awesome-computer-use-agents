@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/surveys/README.md:56` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | January 2025 |
-| Authors | Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai |
-| Focus tags | `survey`, `mobile`, `phone`, `automation` |
-| Center of gravity | `mobile`, `safety` |
+| Date / venue | TMLR 2025 |
+| Authors | Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, Hao Wang, Xiaoyu Liang, WenHao Wang, Tianze Wu, Zhengxi Lu, Siheng Chen,  LiLinghao, Hao Wang, Guanjing Xiong, Yong Liu, Hongsheng Li |
+| Focus tags | `survey` `mobile` `phone` `automation` |
+| Center of gravity | mobile, safety |
 
 ## Quick Read
 

@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | January 2026 |
 | Authors | Le Zhang, Yixiong Xiao, Xinjiang Lu, Jingjia Cao, Yusai Zhao, Jingbo Zhou, Lang An, Zikan Feng, Wanxiang Sha, Yu Shi, Congxi Xiao, Jian Xiong, Yankai Zhang, Hua Wu, Haifeng Wang |
-| Focus tags | `model`, `moe`, `desktop`, `mobile` |
-| Center of gravity | `moe`, `desktop`, `mobile` |
+| Focus tags | `model` `moe` `desktop` `mobile` |
+| Center of gravity | moe, desktop, mobile |
 
 ## Quick Read
 

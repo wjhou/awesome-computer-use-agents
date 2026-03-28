@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | January 2026 |
 | Authors | Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, Jie Zhang, Qiannan Zhu, Yu Shi, Shuxin Zheng, Jiyan He |
-| Focus tags | `safety`, `privacy`, `benchmark`, `cross-platform` |
-| Center of gravity | `privacy`, `cross-platform` |
+| Focus tags | `safety` `privacy` `benchmark` `cross-platform` |
+| Center of gravity | privacy, cross-platform |
 
 ## Quick Read
 

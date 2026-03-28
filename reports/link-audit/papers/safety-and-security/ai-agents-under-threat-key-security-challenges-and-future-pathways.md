@@ -9,12 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | AI Agents Under Threat: Key Security Challenges and Future Pathways |
 | Actual target | [AI Agents Under Threat: Key Security Challenges and Future Pathways](https://dl.acm.org/doi/10.1145/3716628) |
 | Section | Safety and Security |
-| Source location | `papers/safety/README.md:107` |
+| Source location | `papers/safety/README.md:214` |
 | Primary link type | `link` |
 | Audit status | `script-blocked` |
 | Date / venue | ACM Computing Surveys 2025 |
-| Focus tags | `survey`, `security`, `comprehensive` |
-| Center of gravity | `safety` |
+| Authors | Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma, Junwu Xiong, Sheng Wen, Yang Xiang |
+| Focus tags | `survey` `security` `comprehensive` |
+| Center of gravity | safety |
 
 ## Quick Read
 

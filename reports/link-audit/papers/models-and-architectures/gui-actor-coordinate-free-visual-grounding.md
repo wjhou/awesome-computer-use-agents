@@ -13,8 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `project-page` |
 | Date / venue | June 2025 |
-| Focus tags | `model`, `grounding`, `coordinate-free`, `microsoft` |
-| Center of gravity | `grounding` |
+| Authors | Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden |
+| Focus tags | `model` `grounding` `coordinate-free` `microsoft` |
+| Center of gravity | grounding |
 
 ## Quick Read
 

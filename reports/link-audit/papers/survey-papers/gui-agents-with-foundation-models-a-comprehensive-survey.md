@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | November 2024 |
-| Authors | Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu |
-| Focus tags | `survey`, `foundation-models`, `framework` |
-| Center of gravity | `surveys` |
+| Authors | Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao |
+| Focus tags | `survey` `foundation-models` `framework` |
+| Center of gravity | surveys |
 
 ## Quick Read
 

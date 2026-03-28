@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | UFO: Windows OS UI Agent via GPT-4V |
 | Actual target | [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/abs/2402.07939) |
 | Section | Methods and Techniques |
-| Source location | `papers/methods/README.md:164` |
+| Source location | `papers/methods/README.md:215` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | February 2024 |
-| Authors | Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang |
-| Focus tags | `method`, `windows`, `gpt-4v`, `microsoft` |
-| Center of gravity | `desktop`, `grounding` |
+| Authors | Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang |
+| Focus tags | `method` `windows` `gpt-4v` `microsoft` |
+| Center of gravity | desktop, grounding |
 | Related assets | [GitHub](https://github.com/microsoft/UFO) |
 
 ## Quick Read

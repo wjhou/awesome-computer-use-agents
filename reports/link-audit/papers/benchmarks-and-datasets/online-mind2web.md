@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Online-Mind2Web |
 | Actual target | [An Illusion of Progress? Assessing the Current State of Web Agents](https://arxiv.org/abs/2504.01382) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:90` |
+| Source location | `papers/benchmarks/README.md:91` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | 2025 |
+| Date / venue | COLM 2025 |
 | Authors | Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, Yu Su |
-| Focus tags | `benchmark`, `web`, `live-sites` |
-| Center of gravity | `web` |
+| Focus tags | `benchmark` `web` `live-sites` |
+| Center of gravity | web |
 
 ## Quick Read
 

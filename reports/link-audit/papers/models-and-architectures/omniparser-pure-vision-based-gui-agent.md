@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | August 2024 |
 | Authors | Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah |
-| Focus tags | `model`, `grounding`, `microsoft`, `parsing` |
-| Center of gravity | `web`, `grounding` |
+| Focus tags | `model` `grounding` `microsoft` `parsing` |
+| Center of gravity | web, grounding |
 | Related assets | [GitHub](https://github.com/microsoft/OmniParser) |
 
 ## Quick Read

@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents |
 | Actual target | [Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents](https://openreview.net/forum?id=3x4SDbXbgl) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:298` |
+| Source location | `papers/benchmarks/README.md:299` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | ICLR 2026 Poster |
 | Authors | Ameesh Shah, Jiaxin Cui, Tianbao Xie, Ari Holtzman, Caiming Xiong, Mohit Bansal, Robin Jia |
-| Focus tags | `benchmark`, `human-centric`, `evaluation`, `preference` |
-| Center of gravity | `human-centric`, `preference` |
+| Focus tags | `benchmark` `human-centric` `evaluation` `preference` |
+| Center of gravity | human-centric, preference |
 
 ## Quick Read
 

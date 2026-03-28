@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:64` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | November 2024 |
+| Date / venue | ACL 2025 |
 | Authors | Yanzhe Zhang, Tao Yu, Diyi Yang |
-| Focus tags | `security`, `adversarial`, `vlm`, `pop-ups` |
-| Center of gravity | `web`, `desktop`, `safety` |
+| Focus tags | `security` `adversarial` `vlm` `pop-ups` |
+| Center of gravity | web, desktop, safety |
 
 ## Quick Read
 

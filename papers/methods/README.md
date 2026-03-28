@@ -5,7 +5,7 @@ Research on training methods, inference techniques, and architectural innovation
 ## Reinforcement Learning Methods
 
 ### ComputerRL: End-to-End Online RL for Computer Use Agents
-- **Date**: August 2025
+- **Venue**: ICLR 2026 Poster
 - **Link**: [arXiv:2508.14040](https://arxiv.org/abs/2508.14040)
 - **Tags**: `method` `reinforcement-learning` `desktop` `distributed`
 
@@ -19,7 +19,7 @@ Framework for autonomous desktop intelligence.
 ---
 
 ### WebRL: Self-Evolving Online Curriculum RL for Web Agents
-- **Date**: November 2024
+- **Venue**: ICLR 2025
 - **Link**: [arXiv:2411.02337](https://arxiv.org/abs/2411.02337)
 - **Tags**: `method` `reinforcement-learning` `web` `curriculum`
 
@@ -55,7 +55,7 @@ Autonomous RL for device-control agents.
 ## Data Synthesis Methods
 
 ### AgentTrek: Agent Trajectory Synthesis via Web Tutorials
-- **Date**: December 2024
+- **Venue**: ICLR 2025 Spotlight
 - **Link**: [arXiv:2412.09605](https://arxiv.org/abs/2412.09605)
 - **Website**: [agenttrek.github.io](https://agenttrek.github.io/)
 - **Tags**: `method` `data-synthesis` `trajectories` `web`
@@ -73,7 +73,7 @@ Scalable data synthesis pipeline using public tutorials.
 ---
 
 ### OS-Genesis: Automating GUI Agent Trajectory Construction
-- **Date**: December 2024
+- **Venue**: ACL 2025
 - **Link**: [arXiv:2412.19723](https://arxiv.org/abs/2412.19723)
 - **Website**: [Project](https://qiushisun.github.io/OS-Genesis-Home/)
 - **Tags**: `method` `data-synthesis` `reverse-task` `trajectories`
@@ -88,7 +88,7 @@ Novel reverse trajectory collection process.
 ---
 
 ### PC Agent-E: Efficient Agent Training for Computer Use
-- **Date**: May 2025
+- **Venue**: ICLR 2026
 - **Link**: [arXiv:2505.13909](https://arxiv.org/abs/2505.13909)
 - **Tags**: `method` `efficient-training` `data-efficient`
 

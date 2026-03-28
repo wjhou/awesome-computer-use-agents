@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | ScreenSpot / ScreenSpot-Pro |
 | Actual target | [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:205` |
+| Source location | `papers/benchmarks/README.md:206` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | 2024/2025 |
 | Authors | Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu |
-| Focus tags | `benchmark`, `grounding`, `high-res`, `professional` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Focus tags | `benchmark` `grounding` `high-res` `professional` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

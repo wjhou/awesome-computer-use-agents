@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/methods/README.md:90` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | May 2025 |
+| Date / venue | ICLR 2026 |
 | Authors | Yanheng He, Jiahe Jin, Pengfei Liu |
-| Focus tags | `method`, `efficient-training`, `data-efficient` |
-| Center of gravity | `desktop` |
+| Focus tags | `method` `efficient-training` `data-efficient` |
+| Center of gravity | desktop |
 
 ## Quick Read
 

@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/benchmarks/README.md:28` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | 2024-09-12 |
-| Authors | Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle |
-| Focus tags | `benchmark`, `windows`, `desktop`, `scalable` |
-| Center of gravity | `web`, `desktop`, `grounding` |
+| Date / venue | ICML 2025 Poster |
+| Authors | Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui |
+| Focus tags | `benchmark` `windows` `desktop` `scalable` |
+| Center of gravity | web, desktop, grounding |
 | Related assets | [microsoft.github.io/WindowsAgentArena](https://microsoft.github.io/WindowsAgentArena/); [GitHub](https://github.com/microsoft/WindowsAgentArena) |
 
 ## Quick Read

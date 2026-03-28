@@ -13,8 +13,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `script-blocked` |
 | Date / venue | 2025 |
-| Focus tags | `survey`, `benchmarks`, `evaluation` |
-| Center of gravity | `surveys` |
+| Focus tags | `survey` `benchmarks` `evaluation` |
+| Center of gravity | surveys |
 
 ## Quick Read
 

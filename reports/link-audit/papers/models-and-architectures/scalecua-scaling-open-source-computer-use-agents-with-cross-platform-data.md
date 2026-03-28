@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | September 2025 |
 | Authors | Zhaoyang Liu, Jingjing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Xuan Dong, Yue Yu, Chenyu Lu, YunXiang Mo, Yao Yan, Zeyue Tian, Xiao Zhang, Yuan Huang, Yiqian Liu, Weijie Su, Gen Luo, Xiangyu Yue, Biqing Qi, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang |
-| Focus tags | `model`, `data-scaling`, `cross-platform`, `open-source` |
-| Center of gravity | `data-scaling`, `cross-platform`, `open-source` |
+| Focus tags | `model` `data-scaling` `cross-platform` `open-source` |
+| Center of gravity | data-scaling, cross-platform, open-source |
 | Related assets | [GitHub](https://github.com/OpenGVLab/ScaleCUA) |
 
 ## Quick Read

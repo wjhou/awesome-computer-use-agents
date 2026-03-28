@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/models/README.md:37` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | December 2023 |
-| Authors | Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang |
-| Focus tags | `model`, `vlm`, `18b`, `cross-platform` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Date / venue | CVPR 2024 Highlight |
+| Authors | Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxuan Zhang, Juanzi Li, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang |
+| Focus tags | `model` `vlm` `18b` `cross-platform` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

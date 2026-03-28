@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/models/README.md:251` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | August 2025 |
+| Date / venue | NeurIPS 2025 Spotlight |
 | Authors | Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi Deng, Xiaole Guo, Yiheng Xu, Chen Henry Wu, Zhennan Shen, Zhuokai Li, Ryan Li, Xiaochuan Li, Junda Chen, Boyuan Zheng, Peihang Li, Fangyu Lei, Ruisheng Cao, Yeqiao Fu, Dongchan Shin, Martin Shin, Jiarui Hu, Yuyan Wang, Jixuan Chen, Yuxiao Ye, Danyang Zhang, Dikang Du, Hao Hu, Huarong Chen, Zaida Zhou, Haotian Yao, Ziwei Chen, Qizheng Gu, Yipu Wang, Heng Wang, Diyi Yang, Victor Zhong, Flood Sung, Y. Charles, Zhilin Yang, Tao Yu |
-| Focus tags | `model`, `open-source`, `foundation-model`, `desktop` |
-| Center of gravity | `open-source`, `foundation-model`, `desktop` |
+| Focus tags | `model` `open-source` `foundation-model` `desktop` |
+| Center of gravity | open-source, foundation-model, desktop |
 
 ## Quick Read
 

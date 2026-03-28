@@ -36,7 +36,7 @@ Extension using multi-turn reinforcement learning for improved performance.
 
 ### CogAgent: A Visual Language Model for GUI Agents
 - **Organization**: Tsinghua/Zhipu AI
-- **Date**: December 2023
+- **Venue**: CVPR 2024 Highlight
 - **Link**: [arXiv:2312.08914](https://arxiv.org/abs/2312.08914)
 - **Tags**: `model` `vlm` `18b` `cross-platform`
 
@@ -202,7 +202,7 @@ Visual agent capable of reasoning and dynamically directing tools.
 ---
 
 ### AGUVIS: Unified Pure Vision Agents for GUI Interaction
-- **Date**: December 2024
+- **Venue**: ICML 2025 Poster
 - **Link**: [arXiv:2412.04454](https://arxiv.org/abs/2412.04454)
 - **Tags**: `model` `vision-only` `unified` `cross-platform`
 
@@ -216,7 +216,7 @@ Pure vision-based framework for autonomous GUI agents.
 ---
 
 ### R-VLM: Region-Aware VLM for Precise GUI Grounding
-- **Date**: July 2025
+- **Venue**: ACL 2025
 - **Link**: [arXiv:2507.05673](https://arxiv.org/abs/2507.05673)
 - **Tags**: `model` `grounding` `region-aware`
 
@@ -249,7 +249,7 @@ Self-evolving GUI agent family with calibrated step rewards, GUI-MCP, and Androi
 ---
 
 ### OpenCUA: Open Foundations for Computer-Use Agents
-- **Date**: August 2025
+- **Venue**: NeurIPS 2025 Spotlight
 - **Link**: [arXiv:2508.09123](https://arxiv.org/abs/2508.09123)
 - **Tags**: `model` `open-source` `foundation-model` `desktop`
 

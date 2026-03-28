@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | AndroidWorld: Dynamic Benchmarking Environment |
 | Actual target | [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:134` |
+| Source location | `papers/benchmarks/README.md:135` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
-| Date / venue | May 2024 |
-| Authors | Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William Bishop |
-| Focus tags | `benchmark`, `android`, `mobile`, `dynamic` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Date / venue | ICLR 2025 Poster |
+| Authors | Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William Bishop, Wei Li, Folawiyo Campbell-Ajala, Daniel Toyama, Robert Berry, Divya Tyamagundlu, Timothy Lillicrap, Oriana Riva |
+| Focus tags | `benchmark` `android` `mobile` `dynamic` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

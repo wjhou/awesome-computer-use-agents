@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Mind2Web: Towards a Generalist Agent for the Web |
 | Actual target | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:73` |
+| Source location | `papers/benchmarks/README.md:74` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | NeurIPS 2023 Spotlight |
 | Authors | Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su |
-| Focus tags | `benchmark`, `dataset`, `web`, `generalist` |
-| Center of gravity | `web` |
+| Focus tags | `benchmark` `dataset` `web` `generalist` |
+| Center of gravity | web |
 | Related assets | [osu-nlp-group.github.io/Mind2Web](https://osu-nlp-group.github.io/Mind2Web/); [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) |
 
 ## Quick Read

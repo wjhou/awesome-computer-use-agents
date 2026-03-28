@@ -13,8 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `website` |
 | Audit status | `project-page` |
 | Date / venue | 2025 |
-| Focus tags | `method`, `self-reflection`, `error-correction` |
-| Center of gravity | `methods` |
+| Authors | Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu |
+| Focus tags | `method` `self-reflection` `error-correction` |
+| Center of gravity | methods |
 
 ## Quick Read
 

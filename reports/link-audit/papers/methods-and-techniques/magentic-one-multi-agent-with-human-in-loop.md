@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Magentic-One: Multi-Agent with Human-in-Loop |
 | Actual target | [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/abs/2411.04468) |
 | Section | Methods and Techniques |
-| Source location | `papers/methods/README.md:152` |
+| Source location | `papers/methods/README.md:203` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | November 2024 |
-| Authors | Adam Fourney, Gagan Bansal, Hussein Mozannar, Cheng Tan, Eduardo Salinas,  Erkang,  Zhu, Friederike Niedtner |
-| Focus tags | `method`, `multi-agent`, `human-in-loop`, `microsoft` |
-| Center of gravity | `web` |
+| Authors | Adam Fourney, Gagan Bansal, Hussein Mozannar, Cheng Tan, Eduardo Salinas,  Erkang,  Zhu, Friederike Niedtner, Grace Proebsting, Griffin Bassman, Jack Gerrits, Jacob Alber, Peter Chang, Ricky Loynd, Robert West, Victor Dibia, Ahmed Awadallah, Ece Kamar, Rafah Hosn, Saleema Amershi |
+| Focus tags | `method` `multi-agent` `human-in-loop` `microsoft` |
+| Center of gravity | web |
 
 ## Quick Read
 

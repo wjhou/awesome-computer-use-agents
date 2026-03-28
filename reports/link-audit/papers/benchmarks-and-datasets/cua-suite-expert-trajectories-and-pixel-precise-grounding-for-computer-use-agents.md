@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents |
 | Actual target | [CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents](https://openreview.net/forum?id=IgTUGrZfMr) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:314` |
+| Source location | `papers/benchmarks/README.md:315` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | LLA 2026 Poster |
 | Authors | Dongxu Li, Yizheng Pan, Guangchen Song, Yu-Qing Xie, Zeyi Li, Weixin Chen, Yizhe Yang, Tong Xiao, Jianmin Bao |
-| Focus tags | `dataset`, `grounding`, `desktop`, `human-demonstrations` |
-| Center of gravity | `grounding`, `desktop`, `human-demonstrations` |
+| Focus tags | `dataset` `grounding` `desktop` `human-demonstrations` |
+| Center of gravity | grounding, desktop, human-demonstrations |
 
 ## Quick Read
 

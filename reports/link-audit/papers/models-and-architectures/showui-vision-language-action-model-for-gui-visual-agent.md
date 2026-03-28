@@ -13,8 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `pdf-light-read` |
 | Date / venue | CVPR 2025 |
-| Focus tags | `model`, `vla`, `efficient` |
-| Center of gravity | `models` |
+| Authors | Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou |
+| Focus tags | `model` `vla` `efficient` |
+| Center of gravity | models |
 
 ## Quick Read
 

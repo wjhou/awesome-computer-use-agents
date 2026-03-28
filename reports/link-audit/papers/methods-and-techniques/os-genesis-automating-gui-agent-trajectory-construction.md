@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/methods/README.md:75` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | December 2024 |
-| Authors | Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia |
-| Focus tags | `method`, `data-synthesis`, `reverse-task`, `trajectories` |
-| Center of gravity | `desktop` |
+| Date / venue | ACL 2025 |
+| Authors | Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu |
+| Focus tags | `method` `data-synthesis` `reverse-task` `trajectories` |
+| Center of gravity | desktop |
 | Related assets | [Project](https://qiushisun.github.io/OS-Genesis-Home/) |
 
 ## Quick Read

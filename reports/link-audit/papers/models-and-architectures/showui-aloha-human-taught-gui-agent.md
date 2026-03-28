@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | January 2026 |
 | Authors | Yichun Zhang, Xiangwu Guo, Yauhong Goh, Jessica Hu, Zhiheng Chen, Xin Wang, Difei Gao, Mike Zheng Shou |
-| Focus tags | `model`, `human-demonstrations`, `desktop`, `data-pipeline` |
-| Center of gravity | `human-demonstrations`, `desktop`, `data-pipeline` |
+| Focus tags | `model` `human-demonstrations` `desktop` `data-pipeline` |
+| Center of gravity | human-demonstrations, desktop, data-pipeline |
 
 ## Quick Read
 

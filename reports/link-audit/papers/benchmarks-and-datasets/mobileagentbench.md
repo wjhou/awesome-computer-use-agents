@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | MobileAgentBench |
 | Actual target | [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:183` |
+| Source location | `papers/benchmarks/README.md:184` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | June 2024 |
 | Authors | Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei Chen, Shoufa Chen |
-| Focus tags | `benchmark`, `mobile`, `efficiency` |
-| Center of gravity | `web`, `mobile` |
+| Focus tags | `benchmark` `mobile` `efficiency` |
+| Center of gravity | web, mobile |
 
 ## Quick Read
 

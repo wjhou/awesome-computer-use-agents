@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth? |
 | Actual target | [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://arxiv.org/abs/2507.19132) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:264` |
+| Source location | `papers/benchmarks/README.md:265` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | July 2025 |
 | Authors | Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun, Biqing Qi, Bowen Zhou |
-| Focus tags | `benchmark`, `desktop`, `taxonomy`, `generalization` |
-| Center of gravity | `desktop`, `taxonomy`, `generalization` |
+| Focus tags | `benchmark` `desktop` `taxonomy` `generalization` |
+| Center of gravity | desktop, taxonomy, generalization |
 | Related assets | [GitHub](https://github.com/OS-Copilot/OS-Map) |
 
 ## Quick Read

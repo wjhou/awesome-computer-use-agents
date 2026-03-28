@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuhao Hu, Feiyu Gao, Junjie Cao, Zihua Wang, Zhiyuan Chen, Jitong Liao, Qi Zheng, Jiahui Zeng, Ze Xu, Shuai Bai, Junyang Lin, Jingren Zhou, Ming Yan |
-| Focus tags | `model`, `mobile`, `desktop`, `cross-platform` |
-| Center of gravity | `mobile`, `desktop`, `cross-platform` |
+| Focus tags | `model` `mobile` `desktop` `cross-platform` |
+| Center of gravity | mobile, desktop, cross-platform |
 | Related assets | [GitHub](https://github.com/X-PLUG/MobileAgent) |
 
 ## Quick Read

@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | IJCAI 2024 |
-| Authors | Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang |
-| Focus tags | `model`, `vlm`, `control`, `pipeline` |
-| Center of gravity | `desktop`, `grounding` |
+| Authors | Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang |
+| Focus tags | `model` `vlm` `control` `pipeline` |
+| Center of gravity | desktop, grounding |
 | Related assets | [GitHub](https://github.com/niuzaisheng/ScreenAgent) |
 
 ## Quick Read

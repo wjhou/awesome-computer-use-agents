@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | August 2025 |
-| Authors | Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao |
-| Focus tags | `model`, `mobile`, `multi-agent`, `sota` |
-| Center of gravity | `desktop`, `mobile`, `grounding` |
+| Authors | Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, Zhengxi Lu, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan |
+| Focus tags | `model` `mobile` `multi-agent` `sota` |
+| Center of gravity | desktop, mobile, grounding |
 | Related assets | [GitHub](https://github.com/X-PLUG/MobileAgent) |
 
 ## Quick Read

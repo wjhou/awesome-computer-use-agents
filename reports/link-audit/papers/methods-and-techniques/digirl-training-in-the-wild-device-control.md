@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | NeurIPS 2024 |
 | Authors | Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar |
-| Focus tags | `method`, `reinforcement-learning`, `mobile`, `android` |
-| Center of gravity | `mobile` |
+| Focus tags | `method` `reinforcement-learning` `mobile` `android` |
+| Center of gravity | mobile |
 
 ## Quick Read
 

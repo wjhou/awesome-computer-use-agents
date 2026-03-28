@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | VisualWebArena: Multimodal Web Tasks |
 | Actual target | [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:102` |
+| Source location | `papers/benchmarks/README.md:103` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | January 2024 |
-| Authors | Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou |
-| Focus tags | `benchmark`, `web`, `multimodal`, `visual` |
-| Center of gravity | `web`, `desktop` |
+| Date / venue | ACL 2024 |
+| Authors | Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried |
+| Focus tags | `benchmark` `web` `multimodal` `visual` |
+| Center of gravity | web, desktop |
 
 ## Quick Read
 

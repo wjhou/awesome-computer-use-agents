@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | May 2025 |
-| Authors | Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang |
-| Focus tags | `survey`, `safety`, `security`, `threats` |
-| Center of gravity | `web`, `desktop`, `mobile` |
+| Authors | Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang |
+| Focus tags | `survey` `safety` `security` `threats` |
+| Center of gravity | web, desktop, mobile |
 
 ## Quick Read
 

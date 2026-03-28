@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents |
 | Actual target | [MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents](https://arxiv.org/abs/2507.19478) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:244` |
+| Source location | `papers/benchmarks/README.md:245` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | July 2025 |
 | Authors | Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyang Liu, Qingyun Li, Xuan Dong, Zhe Chen, Weiyun Wang, Xiangyu Zhao, Jixuan Chen, Haodong Duan, Tianbao Xie, Chenyu Yang, Shiqian Su, Yue Yu, Yuan Huang, Yiqian Liu, Xiao Zhang, Yanting Zhang, Xiangyu Yue, Weijie Su, Xizhou Zhu, Wei Shen, Jifeng Dai, Wenhai Wang |
-| Focus tags | `benchmark`, `cross-platform`, `hierarchical`, `efficiency` |
-| Center of gravity | `cross-platform`, `hierarchical`, `efficiency` |
+| Focus tags | `benchmark` `cross-platform` `hierarchical` `efficiency` |
+| Center of gravity | cross-platform, hierarchical, efficiency |
 
 ## Quick Read
 

@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | Chain-of-Agents: Multi-Agent Collaboration |
 | Actual target | [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167) |
 | Section | Methods and Techniques |
-| Source location | `papers/methods/README.md:143` |
+| Source location | `papers/methods/README.md:194` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | August 2025 |
-| Authors | Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Zhenqiang Huang, Qianben Chen |
-| Focus tags | `method`, `multi-agent`, `collaboration` |
-| Center of gravity | `web` |
+| Authors | Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Zhenqiang Huang, Qianben Chen, Weichen Sun, Qiexiang Wang, Hongxuan Lu, Tianrui Qin, Chenghao Zhu, Yi Yao, Shuying Fan, Xiaowan Li, Tiannan Wang, Pai Liu, King Zhu, He Zhu, Dingfeng Shi, Piaohong Wang, Yeyi Guan, Xiangru Tang, Minghao Liu, Yuchen Eleanor Jiang, Jian Yang, Jiaheng Liu, Ge Zhang, Wangchunshu Zhou |
+| Focus tags | `method` `multi-agent` `collaboration` |
+| Center of gravity | web |
 
 ## Quick Read
 

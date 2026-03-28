@@ -27,6 +27,7 @@ First-of-its-kind scalable, real computer environment for multimodal agents.
 
 ### Windows Agent Arena (WAA)
 - **Organization**: Microsoft Research
+- **Venue**: ICML 2025 Poster
 - **Link**: [arXiv:2409.08264](https://arxiv.org/abs/2409.08264)
 - **Website**: [microsoft.github.io/WindowsAgentArena](https://microsoft.github.io/WindowsAgentArena/)
 - **Code**: [GitHub](https://github.com/microsoft/WindowsAgentArena)
@@ -60,7 +61,7 @@ Benchmark specifically for macOS desktop environment.
 ## Web Benchmarks
 
 ### WebArena: Realistic Web Environment for Building Autonomous Agents
-- **Date**: 2023
+- **Venue**: ICLR 2024 Poster
 - **Link**: [arXiv:2307.13854](https://arxiv.org/abs/2307.13854)
 - **Website**: [webarena.dev](https://webarena.dev/)
 - **Tags**: `benchmark` `web` `realistic`
@@ -88,7 +89,7 @@ First dataset for developing generalist web agents.
 ---
 
 ### Online-Mind2Web
-- **Date**: 2025
+- **Venue**: COLM 2025
 - **Link**: [arXiv:2504.01382](https://arxiv.org/abs/2504.01382)
 - **Tags**: `benchmark` `web` `live-sites`
 
@@ -100,7 +101,7 @@ First dataset for developing generalist web agents.
 ---
 
 ### VisualWebArena: Multimodal Web Tasks
-- **Date**: January 2024
+- **Venue**: ACL 2024
 - **Link**: [arXiv:2401.13649](https://arxiv.org/abs/2401.13649)
 - **Tags**: `benchmark` `web` `multimodal` `visual`
 
@@ -109,7 +110,7 @@ Extends WebArena with multimodal visual tasks.
 ---
 
 ### WebVoyager: End-to-End Web Agent with LMMs
-- **Date**: January 2024
+- **Venue**: ACL 2024
 - **Link**: [arXiv:2401.13919](https://arxiv.org/abs/2401.13919)
 - **Tags**: `benchmark` `web` `evaluation` `end-to-end`
 
@@ -132,7 +133,7 @@ Real-time web benchmarking with live sites.
 ## Mobile Benchmarks
 
 ### AndroidWorld: Dynamic Benchmarking Environment
-- **Date**: May 2024
+- **Venue**: ICLR 2025 Poster
 - **Link**: [arXiv:2405.14573](https://arxiv.org/abs/2405.14573)
 - **Tags**: `benchmark` `android` `mobile` `dynamic`
 
@@ -145,7 +146,7 @@ Dynamic benchmarking environment for Android agents.
 ---
 
 ### Android in the Wild (AitW)
-- **Date**: July 2023
+- **Venue**: NeurIPS 2023 D&B
 - **Link**: [arXiv:2307.10088](https://arxiv.org/abs/2307.10088)
 - **Tags**: `dataset` `android` `real-world`
 

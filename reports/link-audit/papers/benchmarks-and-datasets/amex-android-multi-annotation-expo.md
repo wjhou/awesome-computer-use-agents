@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | AMEX: Android Multi-annotation EXpo |
 | Actual target | [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](https://arxiv.org/abs/2407.17490) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:156` |
+| Source location | `papers/benchmarks/README.md:157` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | July 2024 |
 | Authors | Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Shuai Ren, Hongsheng Li |
-| Focus tags | `dataset`, `android`, `annotations`, `comprehensive` |
-| Center of gravity | `mobile`, `grounding` |
+| Focus tags | `dataset` `android` `annotations` `comprehensive` |
+| Center of gravity | mobile, grounding |
 
 ## Quick Read
 

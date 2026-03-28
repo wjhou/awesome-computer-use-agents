@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Sidong Feng, Chunyang Chen |
-| Focus tags | `survey`, `autonomy`, `framework`, `evaluation` |
-| Center of gravity | `autonomy`, `framework` |
+| Focus tags | `survey` `autonomy` `framework` `evaluation` |
+| Center of gravity | autonomy, framework |
 
 ## Quick Read
 

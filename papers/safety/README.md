@@ -5,7 +5,7 @@ Research on safety, security, adversarial attacks, and defensive measures.
 ## Safety Benchmarks
 
 ### AgentHarm: LLM Agent Safety Benchmark
-- **Date**: October 2024
+- **Venue**: ICLR 2025
 - **Link**: [arXiv:2410.09024](https://arxiv.org/abs/2410.09024)
 - **Tags**: `safety` `benchmark` `jailbreak` `multi-step`
 
@@ -53,7 +53,7 @@ Comprehensive survey on CUA-specific threats.
 ---
 
 ### RedTeamCUA: Security Testing for Computer Use Agents
-- **Date**: May 2025
+- **Venue**: ICLR 2026 Oral
 - **Link**: [arXiv:2505.21936](https://arxiv.org/abs/2505.21936)
 - **Tags**: `safety` `red-team` `testing`
 
@@ -62,7 +62,7 @@ Framework for red-teaming computer use agents.
 ---
 
 ### Attacking Vision-Language Computer Agents via Pop-ups
-- **Date**: November 2024
+- **Venue**: ACL 2025
 - **Link**: [arXiv:2411.02391](https://arxiv.org/abs/2411.02391)
 - **Tags**: `security` `adversarial` `vlm` `pop-ups`
 
@@ -80,7 +80,7 @@ Privacy leakage study through environmental injection.
 ---
 
 ### OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents
-- **Date**: June 2025
+- **Venue**: NeurIPS 2025 D&B Spotlight
 - **Link**: [arXiv:2506.14866](https://arxiv.org/abs/2506.14866)
 - **Tags**: `safety` `benchmark` `desktop` `prompt-injection`
 
@@ -98,7 +98,7 @@ Safety benchmark for computer-use agents built on top of the OSWorld environment
 ---
 
 ### VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents
-- **Date**: June 2025
+- **Venue**: ICLR 2026
 - **Link**: [arXiv:2506.02456](https://arxiv.org/abs/2506.02456)
 - **Tags**: `security` `prompt-injection` `visual` `benchmark`
 
@@ -201,6 +201,7 @@ Large reasoning models as jailbreak vectors.
 ---
 
 ### Infectious Jailbreaks in Multi-Agent Systems
+- **Venue**: ICML 2024
 - **Link**: [arXiv:2402.08567](https://arxiv.org/abs/2402.08567)
 - **Tags**: `security` `jailbreak` `multi-agent` `spreading`
 

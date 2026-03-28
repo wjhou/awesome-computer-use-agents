@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | November 2025 |
 | Authors | Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Spandana Gella, Sai Rajeswar |
-| Focus tags | `method`, `grounding`, `human-demonstrations`, `desktop` |
-| Center of gravity | `grounding`, `human-demonstrations`, `desktop` |
+| Focus tags | `method` `grounding` `human-demonstrations` `desktop` |
+| Center of gravity | grounding, human-demonstrations, desktop |
 
 ## Quick Read
 

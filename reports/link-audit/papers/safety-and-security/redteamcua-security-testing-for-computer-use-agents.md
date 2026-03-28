@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:55` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
-| Date / venue | May 2025 |
+| Date / venue | ICLR 2026 Oral |
 | Authors | Zeyi Liao, Jaylen Jones, Linxi Jiang, Yuting Ning, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun |
-| Focus tags | `safety`, `red-team`, `testing` |
-| Center of gravity | `web`, `desktop`, `safety` |
+| Focus tags | `safety` `red-team` `testing` |
+| Center of gravity | web, desktop, safety |
 
 ## Quick Read
 

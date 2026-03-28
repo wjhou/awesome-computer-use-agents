@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | March 2025 |
 | Authors | Naveen Krishnan |
-| Focus tags | `survey`, `architecture`, `applications` |
-| Center of gravity | `safety` |
+| Focus tags | `survey` `architecture` `applications` |
+| Center of gravity | safety |
 
 ## Quick Read
 

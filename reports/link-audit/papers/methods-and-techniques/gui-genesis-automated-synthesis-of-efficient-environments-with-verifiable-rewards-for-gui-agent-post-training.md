@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Yuan Cao, Dezhi Ran, Mengzhou Wu, Yuzhe Guo, Xin Chen, Ang Li, Gang Cao, Gong Zhi, Hao Yu, Linyi Li, Wei Yang, Tao Xie |
-| Focus tags | `method`, `data-synthesis`, `post-training`, `rl` |
-| Center of gravity | `data-synthesis`, `post-training`, `rl` |
+| Focus tags | `method` `data-synthesis` `post-training` `rl` |
+| Center of gravity | data-synthesis, post-training, rl |
 
 ## Quick Read
 

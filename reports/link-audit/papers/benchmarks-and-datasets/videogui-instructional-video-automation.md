@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | VideoGUI: Instructional Video Automation |
 | Actual target | [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:346` |
+| Source location | `papers/benchmarks/README.md:347` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | 2024 |
 | Authors | Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou |
-| Focus tags | `benchmark`, `video`, `instructions` |
-| Center of gravity | `video`, `instructions` |
+| Focus tags | `benchmark` `video` `instructions` |
+| Center of gravity | video, instructions |
 
 ## Quick Read
 

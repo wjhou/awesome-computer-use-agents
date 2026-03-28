@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | A3: Android Agent Arena |
 | Actual target | [A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:171` |
+| Source location | `papers/benchmarks/README.md:172` |
 | Primary link type | `link` |
 | Audit status | `ok` |
 | Date / venue | January 2025 |
-| Authors | Yuxiang Chai, Shunye Tang, Han Xiao, Weifeng Lin, Hanhao Li, Jiayu Zhang, Liang Liu, Pengxiang Zhao |
-| Focus tags | `benchmark`, `android`, `evaluation`, `practical` |
-| Center of gravity | `mobile` |
+| Authors | Yuxiang Chai, Shunye Tang, Han Xiao, Weifeng Lin, Hanhao Li, Jiayu Zhang, Liang Liu, Pengxiang Zhao, Guangyi Liu, Guozhi Wang, Shuai Ren, Rongduo Han, Haining Zhang, Siyuan Huang, Hongsheng Li |
+| Focus tags | `benchmark` `android` `evaluation` `practical` |
+| Center of gravity | mobile |
 
 ## Quick Read
 

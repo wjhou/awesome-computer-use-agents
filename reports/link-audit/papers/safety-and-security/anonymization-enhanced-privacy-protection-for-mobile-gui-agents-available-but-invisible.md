@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | February 2026 |
 | Authors | Lepeng Zhao, Zhenhua Zou, Shuo Li, Zhuotao Liu |
-| Focus tags | `privacy`, `mobile`, `defense`, `security` |
-| Center of gravity | `privacy`, `mobile`, `defense` |
+| Focus tags | `privacy` `mobile` `defense` `security` |
+| Center of gravity | privacy, mobile, defense |
 
 ## Quick Read
 

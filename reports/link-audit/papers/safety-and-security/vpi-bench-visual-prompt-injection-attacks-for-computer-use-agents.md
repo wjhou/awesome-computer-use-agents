@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:100` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | June 2025 |
+| Date / venue | ICLR 2026 |
 | Authors | Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi |
-| Focus tags | `security`, `prompt-injection`, `visual`, `benchmark` |
-| Center of gravity | `prompt-injection`, `visual` |
+| Focus tags | `security` `prompt-injection` `visual` `benchmark` |
+| Center of gravity | prompt-injection, visual |
 
 ## Quick Read
 

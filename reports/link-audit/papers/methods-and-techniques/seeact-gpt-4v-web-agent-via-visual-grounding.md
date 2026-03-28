@@ -14,8 +14,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Audit status | `ok` |
 | Date / venue | January 2024 |
 | Authors | Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su |
-| Focus tags | `method`, `grounding`, `web`, `gpt-4v` |
-| Center of gravity | `web`, `grounding` |
+| Focus tags | `method` `grounding` `web` `gpt-4v` |
+| Center of gravity | web, grounding |
 
 ## Quick Read
 

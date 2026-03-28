@@ -12,9 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/safety/README.md:203` |
 | Primary link type | `link` |
 | Audit status | `ok` |
+| Date / venue | ICML 2024 |
 | Authors | Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin |
-| Focus tags | `security`, `jailbreak`, `multi-agent`, `spreading` |
-| Center of gravity | `jailbreak`, `multi-agent`, `spreading` |
+| Focus tags | `security` `jailbreak` `multi-agent` `spreading` |
+| Center of gravity | jailbreak, multi-agent, spreading |
 
 ## Quick Read
 

@@ -9,13 +9,13 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | WebVoyager: End-to-End Web Agent with LMMs |
 | Actual target | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:111` |
+| Source location | `papers/benchmarks/README.md:112` |
 | Primary link type | `link` |
 | Audit status | `limited-access` |
-| Date / venue | January 2024 |
+| Date / venue | ACL 2024 |
 | Authors | Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu |
-| Focus tags | `benchmark`, `web`, `evaluation`, `end-to-end` |
-| Center of gravity | `web` |
+| Focus tags | `benchmark` `web` `evaluation` `end-to-end` |
+| Center of gravity | web |
 
 ## Quick Read
 

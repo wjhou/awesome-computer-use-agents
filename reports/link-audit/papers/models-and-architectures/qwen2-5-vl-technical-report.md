@@ -13,9 +13,9 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Primary link type | `link` |
 | Audit status | `limited-access` |
 | Date / venue | February 2025 |
-| Authors | Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang |
-| Focus tags | `model`, `vlm`, `agent-capable`, `reasoning` |
-| Center of gravity | `desktop`, `mobile` |
+| Authors | Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, Yuanzhi Zhu, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin |
+| Focus tags | `model` `vlm` `agent-capable` `reasoning` |
+| Center of gravity | desktop, mobile |
 | Related assets | [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) |
 
 ## Quick Read

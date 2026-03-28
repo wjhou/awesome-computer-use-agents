@@ -9,12 +9,12 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Repo entry | AgentTrek Trajectories |
 | Actual target | [AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](https://agenttrek.github.io/) |
 | Section | Benchmarks and Datasets |
-| Source location | `papers/benchmarks/README.md:273` |
+| Source location | `papers/benchmarks/README.md:367` |
 | Primary link type | `link` |
 | Audit status | `project-page` |
 | Date / venue | Not stated in local entry |
-| Focus tags | `dataset`, `trajectories`, `web` |
-| Center of gravity | `web` |
+| Focus tags | `dataset` `trajectories` `web` |
+| Center of gravity | web |
 
 ## Quick Read
 

@@ -12,10 +12,10 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Source location | `papers/methods/README.md:57` |
 | Primary link type | `link` |
 | Audit status | `ok` |
-| Date / venue | December 2024 |
+| Date / venue | ICLR 2025 Spotlight |
 | Authors | Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu |
-| Focus tags | `method`, `data-synthesis`, `trajectories`, `web` |
-| Center of gravity | `web`, `grounding` |
+| Focus tags | `method` `data-synthesis` `trajectories` `web` |
+| Center of gravity | web, grounding |
 | Related assets | [agenttrek.github.io](https://agenttrek.github.io/) |
 
 ## Quick Read
