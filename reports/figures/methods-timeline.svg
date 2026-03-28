@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2648" height="1404" viewBox="0 0 2648 1404" role="img" aria-labelledby="title desc">
+<title id="title">Computer-use agent methods timeline</title>
+<desc id="desc">Timeline of method papers in the repository, grouped by grounding, reinforcement learning, data synthesis, planning, and multi-agent orchestration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFF8EE" />
+    <stop offset="48%" stop-color="#F8FAFC" />
+    <stop offset="100%" stop-color="#ECFEFF" />
+  </linearGradient>
+  <linearGradient id="hero" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0F172A" />
+    <stop offset="55%" stop-color="#1D4ED8" />
+    <stop offset="100%" stop-color="#0F766E" />
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#94A3B8" flood-opacity="0.22" />
+  </filter>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#94A3B8" flood-opacity="0.18" />
+  </filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)" />
+<circle cx="2528" cy="110" r="120" fill="#DBEAFE" opacity="0.55" />
+<circle cx="120" cy="120" r="80" fill="#FDE68A" opacity="0.22" />
+<rect x="34" y="30" width="2580" height="112" rx="28" fill="url(#hero)" filter="url(#shadow)" />
+<text x="66" y="76" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="31" font-weight="700" fill="#F8FAFC">Computer-Use Agent Methods Timeline</text>
+<text x="66" y="104" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#DBEAFE">How the field moved from early grounding loops to curriculum RL, synthesis pipelines, structured planning, and multi-agent orchestration.</text>
+<rect x="66" y="118" width="188" height="30" rx="15" fill="#F8FAFC" opacity="0.16" />
+<text x="86" y="138" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC">Pressure source: 2023 benchmark wave</text>
+<line x1="244" y1="198" x2="244" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="428" y1="198" x2="428" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="612" y1="198" x2="612" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="796" y1="198" x2="796" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="980" y1="198" x2="980" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="1164" y1="198" x2="1164" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="1348" y1="198" x2="1348" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="1532" y1="198" x2="1532" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="1716" y1="198" x2="1716" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="1900" y1="198" x2="1900" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="2084" y1="198" x2="2084" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="2268" y1="198" x2="2268" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<line x1="2452" y1="198" x2="2452" y2="1328" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 8" />
+<rect x="282.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="336.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2024 Q1</text>
+<rect x="466.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="520.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2024 Q2</text>
+<rect x="650.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="704.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2024 Q3</text>
+<rect x="834.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="888.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2024 Q4</text>
+<rect x="1018.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1072.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2025 Q1</text>
+<rect x="1202.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1256.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2025 Q2</text>
+<rect x="1386.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1440.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2025 Q3</text>
+<rect x="1570.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1624.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2025 Q4</text>
+<rect x="1754.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1808.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2026 Q1</text>
+<rect x="1938.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="1992.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2026 Q2</text>
+<rect x="2122.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="2176.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2026 Q3</text>
+<rect x="2306.0" y="162" width="108" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" />
+<text x="2360.0" y="181" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F172A">2026 Q4</text>
+<rect x="2170" y="138" width="414" height="192" rx="22" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<text x="2196" y="160" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Method family lanes</text>
+<rect x="2198" y="157" width="18" height="18" rx="5" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5" />
+<text x="2228" y="171" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">Grounding &amp; Action Translation</text>
+<rect x="2198" y="181" width="18" height="18" rx="5" fill="#DCFCE7" stroke="#16A34A" stroke-width="1.5" />
+<text x="2228" y="195" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#14532D">RL &amp; Post-Training</text>
+<rect x="2198" y="205" width="18" height="18" rx="5" fill="#FEF3C7" stroke="#D97706" stroke-width="1.5" />
+<text x="2228" y="219" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#78350F">Data &amp; Environment Synthesis</text>
+<rect x="2198" y="229" width="18" height="18" rx="5" fill="#FCE7F3" stroke="#DB2777" stroke-width="1.5" />
+<text x="2228" y="243" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#831843">Memory, Reflection &amp; Programmatic Planning</text>
+<rect x="2198" y="253" width="18" height="18" rx="5" fill="#EDE9FE" stroke="#7C3AED" stroke-width="1.5" />
+<text x="2228" y="267" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#4C1D95">Multi-Agent Orchestration</text>
+<text x="2196" y="292" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#334155">Surface badge</text>
+<rect x="2198" y="301" width="54" height="20" rx="10" fill="#F8FAFC" stroke="#CBD5E1" />
+<text x="2225.0" y="315" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#0F172A">WEB</text>
+<rect x="2262" y="301" width="60.8" height="20" rx="10" fill="#F8FAFC" stroke="#CBD5E1" />
+<text x="2292.4" y="315" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#0F172A">MOBILE</text>
+<rect x="2332.8" y="301" width="67.6" height="20" rx="10" fill="#F8FAFC" stroke="#CBD5E1" />
+<text x="2366.6000000000004" y="315" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#0F172A">DESKTOP</text>
+<rect x="2410.4" y="301" width="108.39999999999999" height="20" rx="10" fill="#F8FAFC" stroke="#CBD5E1" />
+<text x="2464.6" y="315" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#0F172A">CROSS-SURFACE</text>
+<rect x="30" y="206" width="2588" height="208" rx="26" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<rect x="52" y="226" width="222" height="30" rx="15" fill="#DBEAFE" stroke="#2563EB" />
+<text x="68" y="246" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1E3A8A">Grounding &amp; Action Translation</text>
+<g>
+<title>SeeAct: GPT-4V Web Agent via Visual Grounding | Jan 2024 | January 2024 | Generates action descriptions from screenshots</title>
+<rect x="256" y="266" width="168" height="74" rx="18" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" />
+<rect x="256" y="266" width="7" height="74" rx="3.5" fill="#2563EB" opacity="0.88" />
+<rect x="268" y="276" width="54" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="295.0" y="289.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#1E3A8A">WEB</text>
+<text x="340.0" y="312" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">SeeAct</text>
+<text x="340.0" y="330" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#1E3A8A">Jan 2024</text>
+</g>
+<g>
+<title>UFO: Windows OS UI Agent via GPT-4V | Feb 2024 | February 2024 | Dynamic task plan generation</title>
+<rect x="256" y="356" width="168" height="74" rx="18" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" />
+<rect x="256" y="356" width="7" height="74" rx="3.5" fill="#2563EB" opacity="0.88" />
+<rect x="268" y="366" width="67.6" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="301.8" y="379.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#1E3A8A">DESKTOP</text>
+<text x="340.0" y="402" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">UFO</text>
+<text x="340.0" y="420" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#1E3A8A">Feb 2024</text>
+</g>
+<g>
+<title>Ponder &amp; Press: Advancing VLM Grounding | Sep 2024 | September 2024 | Interpreter: General-purpose MLLM for high-level instruction translation</title>
+<rect x="624" y="266" width="168" height="74" rx="18" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" />
+<rect x="624" y="266" width="7" height="74" rx="3.5" fill="#2563EB" opacity="0.88" />
+<rect x="636" y="276" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="690.2" y="289.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#1E3A8A">CROSS-SURFACE</text>
+<text x="708.0" y="312" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">Ponder &amp; Press</text>
+<text x="708.0" y="330" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#1E3A8A">Sep 2024</text>
+</g>
+<g>
+<title>Grounding Computer Use Agents on Human Demonstrations | Nov 2025 | November 2025 | Covers 87 applications with 56K screenshots and more than 3.56M human-verified annotations.</title>
+<rect x="1544" y="266" width="168" height="74" rx="18" fill="#DBEAFE" stroke="#2563EB" stroke-width="2" />
+<rect x="1544" y="266" width="7" height="74" rx="3.5" fill="#2563EB" opacity="0.88" />
+<rect x="1556" y="276" width="67.6" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1589.8" y="289.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#1E3A8A">DESKTOP</text>
+<text x="1628.0" y="308" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">Human Demo</text>
+<text x="1628.0" y="322" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#1E3A8A">Grounding</text>
+<text x="1628.0" y="330" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#1E3A8A">Nov 2025</text>
+</g>
+<rect x="30" y="448" width="2588" height="208" rx="26" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<rect x="52" y="468" width="178" height="30" rx="15" fill="#DCFCE7" stroke="#16A34A" />
+<text x="68" y="488" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#14532D">RL &amp; Post-Training</text>
+<g>
+<title>DigiRL: Training In-The-Wild Device-Control | Jun 2024 | NeurIPS 2024 | Offline RL stage</title>
+<rect x="440" y="508" width="168" height="74" rx="18" fill="#DCFCE7" stroke="#16A34A" stroke-width="2" />
+<rect x="440" y="508" width="7" height="74" rx="3.5" fill="#16A34A" opacity="0.88" />
+<rect x="452" y="518" width="60.8" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="482.4" y="531.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#14532D">MOBILE</text>
+<text x="524.0" y="554" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#14532D">DigiRL</text>
+<text x="524.0" y="572" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#14532D">Jun 2024</text>
+</g>
+<g>
+<title>WebRL: Self-Evolving Online Curriculum RL for Web Agents | Nov 2024 | ICLR 2025 | Scarcity of training tasks</title>
+<rect x="808" y="508" width="168" height="74" rx="18" fill="#DCFCE7" stroke="#16A34A" stroke-width="2" />
+<rect x="808" y="508" width="7" height="74" rx="3.5" fill="#16A34A" opacity="0.88" />
+<rect x="820" y="518" width="54" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="847.0" y="531.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#14532D">WEB</text>
+<text x="892.0" y="554" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#14532D">WebRL</text>
+<text x="892.0" y="572" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#14532D">Nov 2024</text>
+</g>
+<g>
+<title>PC Agent-E: Efficient Agent Training for Computer Use | May 2025 | ICLR 2026 | Starting with 312 human-annotated trajectories</title>
+<rect x="1176" y="508" width="168" height="74" rx="18" fill="#DCFCE7" stroke="#16A34A" stroke-width="2" />
+<rect x="1176" y="508" width="7" height="74" rx="3.5" fill="#16A34A" opacity="0.88" />
+<rect x="1188" y="518" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1242.2" y="531.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#14532D">CROSS-SURFACE</text>
+<text x="1260.0" y="554" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#14532D">PC Agent-E</text>
+<text x="1260.0" y="572" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#14532D">May 2025</text>
+</g>
+<g>
+<title>ComputerRL: End-to-End Online RL for Computer Use Agents | Aug 2025 | ICLR 2026 Poster | API-GUI Paradigm: Unifies programmatic API calls and direct GUI interaction</title>
+<rect x="1360" y="598" width="168" height="74" rx="18" fill="#DCFCE7" stroke="#16A34A" stroke-width="2" />
+<rect x="1360" y="598" width="7" height="74" rx="3.5" fill="#16A34A" opacity="0.88" />
+<rect x="1372" y="608" width="67.6" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1405.8" y="621.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#14532D">DESKTOP</text>
+<text x="1444.0" y="644" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#14532D">ComputerRL</text>
+<text x="1444.0" y="662" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#14532D">Aug 2025</text>
+</g>
+<rect x="30" y="690" width="2588" height="208" rx="26" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<rect x="52" y="710" width="210" height="30" rx="15" fill="#FEF3C7" stroke="#D97706" />
+<text x="68" y="730" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#78350F">Data &amp; Environment Synthesis</text>
+<g>
+<title>AgentTrek: Agent Trajectory Synthesis via Web Tutorials | Dec 2024 | ICLR 2025 Spotlight | Harvest and filter tutorial texts from internet</title>
+<rect x="808" y="750" width="168" height="74" rx="18" fill="#FEF3C7" stroke="#D97706" stroke-width="2" />
+<rect x="808" y="750" width="7" height="74" rx="3.5" fill="#D97706" opacity="0.88" />
+<rect x="820" y="760" width="54" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="847.0" y="773.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#78350F">WEB</text>
+<text x="892.0" y="796" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#78350F">AgentTrek</text>
+<text x="892.0" y="814" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#78350F">Dec 2024</text>
+</g>
+<g>
+<title>OS-Genesis: Automating GUI Agent Trajectory Construction | Dec 2024 | ACL 2025 | Agents perceive environments and perform step-wise interactions</title>
+<rect x="808" y="840" width="168" height="74" rx="18" fill="#FEF3C7" stroke="#D97706" stroke-width="2" />
+<rect x="808" y="840" width="7" height="74" rx="3.5" fill="#D97706" opacity="0.88" />
+<rect x="820" y="850" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="874.2" y="863.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#78350F">CROSS-SURFACE</text>
+<text x="892.0" y="886" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#78350F">OS-Genesis</text>
+<text x="892.0" y="904" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#78350F">Dec 2024</text>
+</g>
+<g>
+<title>GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training | Feb 2026 | February 2026 | Reconstructs real applications into lightweight web environments using multimodal code models.</title>
+<rect x="1728" y="750" width="168" height="74" rx="18" fill="#FEF3C7" stroke="#D97706" stroke-width="2" />
+<rect x="1728" y="750" width="7" height="74" rx="3.5" fill="#D97706" opacity="0.88" />
+<rect x="1740" y="760" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1794.2" y="773.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#78350F">CROSS-SURFACE</text>
+<text x="1812.0" y="796" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#78350F">GUI-GENESIS</text>
+<text x="1812.0" y="814" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#78350F">Feb 2026</text>
+</g>
+<rect x="30" y="932" width="2588" height="118" rx="26" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<rect x="52" y="952" width="294" height="30" rx="15" fill="#FCE7F3" stroke="#DB2777" />
+<text x="68" y="972" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#831843">Memory, Reflection &amp; Programmatic Planning</text>
+<g>
+<title>OS-Copilot: Towards Generalist Computer Agents | Feb 2024 | February 2024 | PC interaction with self-improvement capabilities.</title>
+<rect x="256" y="992" width="168" height="74" rx="18" fill="#FCE7F3" stroke="#DB2777" stroke-width="2" />
+<rect x="256" y="992" width="7" height="74" rx="3.5" fill="#DB2777" opacity="0.88" />
+<rect x="268" y="1002" width="67.6" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="301.8" y="1015.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#831843">DESKTOP</text>
+<text x="340.0" y="1038" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#831843">OS-Copilot</text>
+<text x="340.0" y="1056" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#831843">Feb 2024</text>
+</g>
+<g>
+<title>GUI-Reflection: Self-Reflection for GUI Agents | Jun 2025 | 2025 | Self-reflection mechanism for GUI agents to improve performance.</title>
+<rect x="1176" y="992" width="168" height="74" rx="18" fill="#FCE7F3" stroke="#DB2777" stroke-width="2" />
+<rect x="1176" y="992" width="7" height="74" rx="3.5" fill="#DB2777" opacity="0.88" />
+<rect x="1188" y="1002" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1242.2" y="1015.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#831843">CROSS-SURFACE</text>
+<text x="1260.0" y="1038" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#831843">GUI-Reflection</text>
+<text x="1260.0" y="1056" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#831843">Jun 2025</text>
+</g>
+<g>
+<title>ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory | Feb 2026 | February 2026 | Crawling Agent constructs an updatable GUI state-machine memory through offline exploration.</title>
+<rect x="1728" y="992" width="168" height="74" rx="18" fill="#FCE7F3" stroke="#DB2777" stroke-width="2" />
+<rect x="1728" y="992" width="7" height="74" rx="3.5" fill="#DB2777" opacity="0.88" />
+<rect x="1740" y="1002" width="54" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1767.0" y="1015.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#831843">WEB</text>
+<text x="1812.0" y="1038" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#831843">ActionEngine</text>
+<text x="1812.0" y="1056" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#831843">Feb 2026</text>
+</g>
+<rect x="30" y="1084" width="2588" height="118" rx="26" fill="#FFFFFF" stroke="#E2E8F0" filter="url(#softShadow)" />
+<rect x="52" y="1104" width="192" height="30" rx="15" fill="#EDE9FE" stroke="#7C3AED" />
+<text x="68" y="1124" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#4C1D95">Multi-Agent Orchestration</text>
+<g>
+<title>Magentic-One: Multi-Agent with Human-in-Loop | Nov 2024 | November 2024 | Multi-agent orchestrator system with human oversight.</title>
+<rect x="808" y="1144" width="168" height="74" rx="18" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2" />
+<rect x="808" y="1144" width="7" height="74" rx="3.5" fill="#7C3AED" opacity="0.88" />
+<rect x="820" y="1154" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="874.2" y="1167.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#4C1D95">CROSS-SURFACE</text>
+<text x="892.0" y="1190" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#4C1D95">Magentic-One</text>
+<text x="892.0" y="1208" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#4C1D95">Nov 2024</text>
+</g>
+<g>
+<title>Chain-of-Agents: Multi-Agent Collaboration | Aug 2025 | August 2025 | Multi-agent collaboration for complex GUI tasks.</title>
+<rect x="1360" y="1144" width="168" height="74" rx="18" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2" />
+<rect x="1360" y="1144" width="7" height="74" rx="3.5" fill="#7C3AED" opacity="0.88" />
+<rect x="1372" y="1154" width="108.39999999999999" height="19" rx="9.5" fill="#FFFFFF" opacity="0.9" />
+<text x="1426.2" y="1167.5" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#4C1D95">CROSS-SURFACE</text>
+<text x="1444.0" y="1190" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#4C1D95">Chain-of-Agents</text>
+<text x="1444.0" y="1208" text-anchor="middle" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#4C1D95">Aug 2025</text>
+</g>
+<text x="42" y="1374" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#475569">Generated from tracked method entries in papers/methods/README.md and connected benchmark, model, and safety context already curated in this repo.</text>
+<text x="42" y="1396" font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#64748B">Quarter placement follows public release timing; card footer shows the chronology date instead of the later conference venue.</text>
+</svg>
