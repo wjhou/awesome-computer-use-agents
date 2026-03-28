@@ -68,6 +68,10 @@ flowchart TB
 
 AI agents have drawn increasing attention mostly on their ability to perceive environments, understand tasks, and autonomously achieve goals. To advance research on AI agents in mobile scenarios, we introduce the Android Multi-annotation EXpo (AMEX), a comprehensive, large-scale dataset designed for generalist mobile GUI-control agents which are capable of completing tasks by directly interacting with the graphical user interface (GUI) on mobile devices. AMEX comprises over 104K high-resolution screenshots from popular mobile applications, which are annotated at multiple levels. The benchmark or dataset is the main contribution rather than a new agent policy.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on android, annotations.

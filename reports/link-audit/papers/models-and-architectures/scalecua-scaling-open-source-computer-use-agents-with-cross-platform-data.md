@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Zhaoyang Liu, Jingjing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Xuan Dong, Yue Yu, Chenyu Lu, YunXiang Mo, Yao Yan, Zeyue Tian, Xiao Zhang, Yuan Huang, Yiqian Liu, Weijie Su, Gen Luo, Xiangyu Yue, Biqing Qi, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang |
 | Focus tags | `model` `data-scaling` `cross-platform` `open-source` |
 | Center of gravity | data-scaling, cross-platform, open-source |
-| Related assets | [GitHub](https://github.com/OpenGVLab/ScaleCUA) |
+| Code repo | [GitHub](https://github.com/OpenGVLab/ScaleCUA) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 Cross-platform open-source CUA trained on large-scale data spanning six operating systems. Vision-Language Models (VLMs) have enabled computer use agents (CUAs) that operate GUIs autonomously, showing great potential, yet progress is limited by the lack of large-scale, open-source computer use data and foundation models. In this work, we introduce ScaleCUA, a step toward scaling open-source CUAs. It offers a large-scale dataset spanning 6 operating systems and 3 task domains, built via a closed-loop pipeline uniting automated agents with human experts.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/OpenGVLab/ScaleCUA)
 
 ## Novelty
 

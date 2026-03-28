@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuhao Hu, Feiyu Gao, Junjie Cao, Zihua Wang, Zhiyuan Chen, Jitong Liao, Qi Zheng, Jiahui Zeng, Ze Xu, Shuai Bai, Junyang Lin, Jingren Zhou, Ming Yan |
 | Focus tags | `model` `mobile` `desktop` `cross-platform` |
 | Center of gravity | mobile, desktop, cross-platform |
-| Related assets | [GitHub](https://github.com/X-PLUG/MobileAgent) |
+| Code repo | [GitHub](https://github.com/X-PLUG/MobileAgent) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 GUI-Owl-1.5 native GUI agent family for desktop, browser, and mobile interaction. The paper introduces GUI-Owl-1.5, the latest native GUI agent model that features instruct/thinking variants in multiple sizes (2B/4B/8B/32B/235B) and supports a range of platforms (desktop, mobile, browser, and more) to enable cloud-edge collaboration and real-time interaction. GUI-Owl-1.5 achieves state-of-the-art results on more than 20+ GUI benchmarks on open-source models: (1) on GUI automation tasks, it obtains 56.5 on OSWorld, 71.6 on AndroidWorld, and 48.4 on WebArena; (2) on grounding tasks, it obtains 80.3 on ScreenSpotPro; (3) on tool-calling tasks, it obtains 47.6 on OSWorld-MCP, and 46.8 on MobileWorld; (4) on memory and knowledge tasks, it obtains 75.5 on GUI-Knowledge Bench. GUI-Owl-1.5 incorporates several key innovations: (1) Hybird Data Flywheel: we construct the data pipeline for UI understanding and trajectory generation based on a...
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/X-PLUG/MobileAgent)
 
 ## Novelty
 

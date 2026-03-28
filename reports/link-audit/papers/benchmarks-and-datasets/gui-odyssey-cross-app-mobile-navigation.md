@@ -72,6 +72,10 @@ flowchart TB
 
 Cross-application navigation benchmark for mobile. GUIOdyssey pushes mobile evaluation beyond single-app tasks by building a cross-app dataset with 8,334 episodes, 212 apps, 1,357 app combinations, and an average of 15.3 steps per episode. Each step includes semantic reasoning annotations to help agents learn long-horizon decision processes. The paper also introduces OdysseyAgent with a history resampler so the model can reuse prior screenshots and actions without letting context grow uncontrollably.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on mobile, cross-app, navigation.

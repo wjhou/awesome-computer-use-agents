@@ -16,6 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou |
 | Focus tags | `model` `mobile` `on-device` `8b` |
 | Center of gravity | mobile |
+| Code repo | [GitHub](https://github.com/OpenBMB/AgentCPM-GUI) |
 
 ## Quick Read
 
@@ -67,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 8B-parameter on-device GUI agent for Android. The paper targets practical on-device mobile control, where training data quality, cross-lingual diversity, and generalization remain major bottlenecks. It introduces an 8B mobile GUI agent trained with grounding-aware pre-training, supervised fine-tuning on curated Chinese and English trajectories, and reinforcement fine-tuning with GRPO. The design also uses a compact action space to keep output efficient on-device while aiming to improve planning and grounding in unfamiliar interfaces.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/OpenBMB/AgentCPM-GUI)
+- Primary source note: this repo entry points first to code rather than to a paper landing page.
 
 ## Novelty
 

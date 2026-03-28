@@ -68,6 +68,10 @@ flowchart TB
 
 Privacy-preserving GUI agent framework coupled with a benchmark for recognition, protection, and task completion. GUI agents enable end-to-end automation through direct perception of and interaction with on-screen interfaces. However, these agents frequently access interfaces containing sensitive personal information, and screenshots are often transmitted to remote models, creating substantial privacy risks. These risks are particularly severe in GUI workflows: GUIs expose richer, more accessible private information, and privacy risks depend on interaction trajectories across sequential scenes.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The paper turns general security concern into an operational agent-risk story centered on privacy, cross-platform, framework components.

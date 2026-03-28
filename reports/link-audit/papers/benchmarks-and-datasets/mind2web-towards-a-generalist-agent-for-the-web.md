@@ -16,7 +16,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su |
 | Focus tags | `benchmark` `dataset` `web` `generalist` |
 | Center of gravity | web |
-| Related assets | [osu-nlp-group.github.io/Mind2Web](https://osu-nlp-group.github.io/Mind2Web/); [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) |
+| Code repo | [GitHub](https://github.com/OSU-NLP-Group/Mind2Web) |
+| Project page | [osu-nlp-group.github.io/Mind2Web](https://osu-nlp-group.github.io/Mind2Web/) |
 
 ## Quick Read
 
@@ -68,6 +69,11 @@ flowchart TB
 ## Executive Summary
 
 First dataset for developing generalist web agents. We introduce Mind2Web, the first dataset for developing and evaluating generalist agents for the web that can follow language instructions to complete complex tasks on any website. Existing datasets for web agents either use simulated websites or only cover a limited set of websites and tasks, thus not suitable for generalist web agents. With over 2,000 open-ended tasks collected from 137 websites spanning 31 domains and crowdsourced action sequences for the tasks, Mind2Web provides three necessary ingredients for building generalist web agents: 1) diverse domains, websites, and tasks, 2) use of real-world websites instead of simulated and simplified ones, and 3) a broad spectrum of user interaction patterns. The benchmark or dataset is the main contribution rather than a new agent policy.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/OSU-NLP-Group/Mind2Web)
+- Project page or benchmark site: [osu-nlp-group.github.io/Mind2Web](https://osu-nlp-group.github.io/Mind2Web/)
 
 ## Novelty
 

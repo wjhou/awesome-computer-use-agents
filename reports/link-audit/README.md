@@ -2,7 +2,7 @@
 
 Audit date: 2026-03-27 (Asia/Tokyo)
 
-This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md). The paper-by-paper dossier is in [per-paper-report.md](./per-paper-report.md), the non-paper ecosystem dossier is in [ecosystem-report.md](./ecosystem-report.md), and the focused post-2024 research expansion is in [post-2024-research-refresh.md](./post-2024-research-refresh.md).
+This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md). The paper-by-paper dossier is in [per-paper-report.md](./per-paper-report.md), the generated methods chronology is in [methods-timeline.md](./methods-timeline.md), the non-paper ecosystem dossier is in [ecosystem-report.md](./ecosystem-report.md), and the focused post-2024 research expansion is in [post-2024-research-refresh.md](./post-2024-research-refresh.md).
 
 ## Visual Snapshot
 

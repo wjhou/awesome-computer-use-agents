@@ -68,6 +68,10 @@ flowchart TB
 
 Safety-focused dataset for web agent evaluation. The rapid development of autonomous web agents powered by Large Language Models (LLMs), while greatly elevating efficiency, exposes the frontier risk of taking unintended or harmful actions. This situation underscores an urgent need for effective safety measures, akin to access controls for human users. To address this critical challenge, we introduce WebGuard, the first comprehensive dataset designed to support the assessment of web agent action risks and facilitate the development of guardrails for real-world online environments.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The paper turns general security concern into an operational agent-risk story centered on web.

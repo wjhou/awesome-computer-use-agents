@@ -68,6 +68,10 @@ flowchart TB
 
 Real-world device control scenarios for Android. There is a growing interest in device-control systems that can interpret human natural language instructions and execute them on a digital device by directly controlling its user interface. The authors present a dataset for device-control research, Android in the Wild (AITW), which is orders of magnitude larger than current datasets. The dataset contains human demonstrations of device interactions, including the screens and actions, and corresponding natural language instructions. The benchmark or dataset is the main contribution rather than a new agent policy.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on android, real-world.

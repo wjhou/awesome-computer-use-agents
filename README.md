@@ -36,6 +36,7 @@ The repository also includes generated audit artifacts so readers can move from 
 
 - [Link Audit Summary](reports/link-audit/README.md) - high-level findings, cross-link patterns, and audit insights across the repository.
 - [Per-Paper Report Portal](reports/link-audit/per-paper-report.md) - entry point to the full paper-level report set.
+- [Methods Timeline](reports/link-audit/methods-timeline.md) - chronological map of the method wave, with family lanes, connected benchmark/model context, and a generated figure.
 - [Ecosystem Report Portal](reports/link-audit/ecosystem-report.md) - entry point to the non-paper reports covering products, frameworks, tools, and resources.
 - [Post-2024 Research Refresh](reports/link-audit/post-2024-research-refresh.md) - targeted 2025-2026 research expansion covering newly added papers and why they matter.
 - [Paper Reports Coverage Index](reports/link-audit/papers/README.md) - shows every paper entry and marks report availability with `[x]`; entries without reports are intentionally left blank.

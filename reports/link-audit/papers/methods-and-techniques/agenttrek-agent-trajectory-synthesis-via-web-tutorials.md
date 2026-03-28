@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu |
 | Focus tags | `method` `data-synthesis` `trajectories` `web` |
 | Center of gravity | web, grounding |
-| Related assets | [agenttrek.github.io](https://agenttrek.github.io/) |
+| Project page | [agenttrek.github.io](https://agenttrek.github.io/) |
 
 ## Quick Read
 
@@ -68,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 Scalable data synthesis pipeline using public tutorials. Graphical User Interface (GUI) agents can automate complex tasks across digital environments, but their development is hindered by the scarcity of high-quality trajectory data for training. Existing approaches rely on expensive human annotation, making them unsustainable at scale. The authors propose AgentTrek, a scalable data synthesis pipeline that generates web agent trajectories by leveraging publicly available tutorials.
+
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+- Project page or benchmark site: [agenttrek.github.io](https://agenttrek.github.io/)
 
 ## Novelty
 

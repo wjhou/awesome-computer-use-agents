@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah |
 | Focus tags | `model` `grounding` `microsoft` `parsing` |
 | Center of gravity | web, grounding |
-| Related assets | [GitHub](https://github.com/microsoft/OmniParser) |
+| Code repo | [GitHub](https://github.com/microsoft/OmniParser) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 Screen parsing tool that converts UI screenshots to structured format. The recent success of large vision language models shows great potential in driving the agent system operating on user interfaces. However, we argue that the power multimodal models like GPT-4V as a general agent on multiple operating systems across different applications is largely underestimated due to the lack of a robust screen parsing technique capable of: 1) reliably identifying interactable icons within the user interface, and 2) understanding the semantics of various elements in a screenshot and accurately associate the intended action with the corresponding region on the screen. To fill these gaps, we introduce \textsc{OmniParser}, a comprehensive method for parsing user interface screenshots into structured elements, which significantly enhances the ability of GPT-4V to generate actions that can be accurately grounded in the corresponding regions of the...
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/microsoft/OmniParser)
 
 ## Novelty
 

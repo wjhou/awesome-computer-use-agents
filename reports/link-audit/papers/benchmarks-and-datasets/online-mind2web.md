@@ -68,6 +68,10 @@ flowchart TB
 
 As digitalization and cloud technologies evolve, the web is becoming increasingly important in the modern society. Autonomous web agents based on large language models (LLMs) hold a great potential in work automation. It is therefore important to accurately measure and monitor the progression of their capabilities. The benchmark or dataset is the main contribution rather than a new agent policy.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on web, live-sites, improvements over mind2web.

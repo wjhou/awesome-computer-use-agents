@@ -68,6 +68,10 @@ flowchart TB
 
 Grounding pipeline and GroundNext model family built from expert human desktop demonstrations. Building reliable computer-use agents requires grounding: accurately connecting natural language instructions to the correct on-screen elements. While large datasets exist for web and mobile interactions, high-quality resources for desktop environments are limited. To address this gap, we introduce GroundCUA, a large-scale desktop grounding dataset built from expert human demonstrations.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The method's clearest new move is grounding pipeline and GroundNext model family built from expert human desktop demonstrations.

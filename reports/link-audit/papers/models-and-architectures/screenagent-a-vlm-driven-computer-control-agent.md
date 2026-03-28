@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang |
 | Focus tags | `model` `vlm` `control` `pipeline` |
 | Center of gravity | desktop, grounding |
-| Related assets | [GitHub](https://github.com/niuzaisheng/ScreenAgent) |
+| Code repo | [GitHub](https://github.com/niuzaisheng/ScreenAgent) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 Environment for VLM agent to interact with real computer screens. Existing Large Language Models (LLM) can invoke a variety of tools and APIs to complete complex tasks. The computer, as the most powerful and universal tool, could potentially be controlled directly by a trained LLM agent. Powered by the computer, we can hopefully build a more generalized agent to assist humans in various daily digital works.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/niuzaisheng/ScreenAgent)
 
 ## Novelty
 

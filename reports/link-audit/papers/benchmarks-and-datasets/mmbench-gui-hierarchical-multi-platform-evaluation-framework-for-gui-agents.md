@@ -68,6 +68,10 @@ flowchart TB
 
 Hierarchical benchmark for GUI agents spanning desktop, mobile, and web platforms. We introduce MMBench-GUI, a hierarchical benchmark for evaluating GUI automation agents across Windows, macOS, Linux, iOS, Android, and Web platforms. It comprises four levels: GUI Content Understanding, Element Grounding, Task Automation, and Task Collaboration, covering essential skills for GUI agents. In addition, we propose a novel Efficiency-Quality Area (EQA) metric to assess GUI agent execution efficiency in online automation scenarios.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on cross-platform, hierarchical, efficiency.

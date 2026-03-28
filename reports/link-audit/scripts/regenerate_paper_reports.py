@@ -424,12 +424,16 @@ def markdown_cell_text(raw: str) -> str:
     return strip_md(raw).strip()
 
 
+def link_markdown(link: tuple[str, str]) -> str:
+    label, url = link
+    return f"[{label}]({url})"
+
+
 def primary_link_markdown(entry: RepoEntry) -> str:
     for key in ["Link", "Code", "Website", "Model"]:
         link = entry.links.get(key)
         if link:
-            label, url = link
-            return f"[{label}]({url})"
+            return link_markdown(link)
     return ""
 
 
@@ -461,6 +465,56 @@ def report_center_of_gravity(entry: RepoEntry, snapshot: dict[str, str]) -> str:
     if terms:
         return ", ".join(terms[:3])
     return "repo-curated summary"
+
+
+def supporting_artifact_rows(entry: RepoEntry) -> list[tuple[str, str]]:
+    rows: list[tuple[str, str]] = []
+    if entry.links.get("Code"):
+        rows.append(("Code repo", link_markdown(entry.links["Code"])))
+    if entry.links.get("Website"):
+        rows.append(("Project page", link_markdown(entry.links["Website"])))
+    if entry.links.get("Model"):
+        rows.append(("Model hub", link_markdown(entry.links["Model"])))
+
+    extras = []
+    for key, link in entry.links.items():
+        if key in {"Link", "Code", "Website", "Model"}:
+            continue
+        extras.append(link_markdown(link))
+    if extras:
+        rows.append(("Related assets", "; ".join(extras[:6])))
+    return rows
+
+
+def build_artifact_section(entry: RepoEntry) -> str:
+    lines = ["## Code and Supporting Artifacts", ""]
+    code_link = entry.links.get("Code")
+    website_link = entry.links.get("Website")
+    model_link = entry.links.get("Model")
+
+    if code_link:
+        lines.append(f"- Code repository: {link_markdown(code_link)}")
+    else:
+        lines.append("- Code repository: no dedicated code link is currently tracked in the repo entry.")
+
+    if website_link:
+        lines.append(f"- Project page or benchmark site: {link_markdown(website_link)}")
+    if model_link:
+        lines.append(f"- Model weights or hub: {link_markdown(model_link)}")
+
+    extra_assets = []
+    for key, link in entry.links.items():
+        if key in {"Link", "Code", "Website", "Model"}:
+            continue
+        extra_assets.append(f"{key}: {link_markdown(link)}")
+    if extra_assets:
+        lines.append(f"- Other tracked assets: {'; '.join(extra_assets[:6])}")
+
+    primary_kind = primary_link_type(entry, {})
+    if primary_kind == "code":
+        lines.append("- Primary source note: this repo entry points first to code rather than to a paper landing page.")
+
+    return "\n".join(lines)
 
 
 def parse_readme_block(path: Path, section: str) -> list[RepoEntry]:
@@ -1333,6 +1387,7 @@ def generate_report_body(
         visual_frame,
         analysis_map,
         summary_section,
+        build_artifact_section(entry),
         bullet_section("Novelty", novelty),
         bullet_section("Core Contributions", contributions),
         bullet_section("Framework and Operating Logic", framework),
@@ -1364,10 +1419,12 @@ def build_report_prefix(report: dict, entry: RepoEntry, paper: dict) -> str:
         rows.append(("Authors", authors))
     rows.append(("Focus tags", focus_tags(entry)))
     rows.append(("Center of gravity", report_center_of_gravity(entry, snapshot)))
+    rows.extend(supporting_artifact_rows(entry))
 
     seen = {key for key, _ in rows}
+    stale_artifact_keys = {"Code repo", "Project page", "Model hub", "Related assets"}
     for key, value in snapshot.items():
-        if key in seen:
+        if key in seen or key in stale_artifact_keys:
             continue
         rows.append((key, value))
 
@@ -1504,13 +1561,15 @@ def rewrite_portal(repo_entries: dict[str, RepoEntry]) -> None:
                 "# Per-Paper Report Portal",
                 "",
                 "The comprehensive paper-level reports now live in [papers/README.md](./papers/README.md).",
+                "A generated methods chronology now lives in [methods-timeline.md](./methods-timeline.md).",
                 "",
                 "## What Is New",
                 "",
                 "- One dedicated markdown report per entry in `papers/*/README.md`.",
                 "- The index now shows a `Report Included` checkbox for every source entry, so future papers without reports stay visible but unmarked.",
-                "- Every report now includes a `Quick Read`, two Mermaid figures, and paper-level sections for `novelty`, `core contributions`, `framework and operating logic`, `evidence`, `gaps and limitations`, `how to improve`, and `connections`.",
+                "- Every report now includes a `Quick Read`, two Mermaid figures, and paper-level sections for `code and supporting artifacts`, `novelty`, `core contributions`, `framework and operating logic`, `evidence`, `gaps and limitations`, `how to improve`, and `connections`.",
                 "- Confirmed link mismatches are called out inside the affected entry reports as well as in [maintenance-findings.md](./maintenance-findings.md).",
+                "- The methods timeline organizes the method wave by grounding, RL/post-training, data synthesis, memory/planning, and multi-agent orchestration.",
                 "",
                 "```mermaid",
                 "flowchart LR",
@@ -1519,6 +1578,7 @@ def rewrite_portal(repo_entries: dict[str, RepoEntry]) -> None:
                 "  Index --> Benchmarks[benchmarks-and-datasets/]",
                 "  Index --> Methods[methods-and-techniques/]",
                 "  Index --> Safety[safety-and-security/]",
+                "  Methods --> Timeline[methods-timeline.md]",
                 "```",
                 "",
                 "## Counts",

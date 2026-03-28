@@ -68,6 +68,10 @@ flowchart TB
 
 Open-source framework for scaling computer-use-agent data, models, and annotation infrastructure. Vision-language models have demonstrated impressive capabilities as computer-use agents (CUAs) capable of automating diverse computer tasks. As their commercial potential grows, critical details of the most capable CUA systems remain closed. As these agents will increasingly mediate digital interactions and execute consequential decisions on our behalf, the research community needs access to open CUA frameworks to study their capabilities, limitations, and risks.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The architecture-level novelty is most visible in agentNet spans 3 operating systems and 200+ applications and websites.

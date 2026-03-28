@@ -68,6 +68,10 @@ flowchart TB
 
 Vision-Language-Action model with novel UI-guided visual token selection strategy. The paper argues that GUI assistants need a visual-first action model rather than a language-only layer on top of HTML or accessibility trees. ShowUI introduces three core ideas: UI-guided visual token selection to cut compute by exploiting screen structure, interleaved vision-language-action streaming to manage action history, and a carefully curated GUI instruction-following dataset with resampling to handle data imbalance. The overall goal is a single model that can perceive, reason, and act across GUI tasks with lower cost.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The architecture-level novelty is most visible in efficient visual modeling through UI-guided token selection.

@@ -68,6 +68,10 @@ flowchart TB
 
 Provides a comprehensive overview that categorizes benchmarks, evaluation metrics, architectures, and training methods for GUI agents. Graphical User Interface (GUI) agents, powered by Large Foundation Models, have emerged as a transformative approach to automating human-computer interaction. These agents autonomously interact with digital systems or software applications via GUIs, emulating human actions such as clicking, typing, and navigating visual elements across diverse platforms. Motivated by the growing interest and fundamental importance of GUI agents, we provide a comprehensive survey that categorizes their benchmarks, evaluation metrics, architectures, and training methods.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The novelty is synthetic rather than model-side: the paper tries to stabilize a fast-moving literature around taxonomy, key contributions.

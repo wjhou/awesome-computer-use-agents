@@ -72,6 +72,10 @@ flowchart TB
 
 Privacy leakage study through environmental injection. EIA studies privacy leakage in generalist web agents when they interact with compromised websites. The paper defines a realistic threat model with two attacker goals, stealing specific personally identifiable information or exfiltrating the entire user request, and introduces an environmental injection attack tailored to the agent's visual and behavioral context. On realistic web tasks involving 177 PII-relevant steps, the paper reports up to 70 percent attack success for targeted PII leakage and 16 percent for leaking the full user request.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The paper turns general security concern into an operational agent-risk story centered on privacy, attack, injection.

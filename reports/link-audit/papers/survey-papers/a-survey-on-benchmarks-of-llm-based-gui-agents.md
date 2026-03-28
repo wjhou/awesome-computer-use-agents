@@ -67,6 +67,10 @@ flowchart TB
 
 Provides overview of benchmarks covering three major categories: 1. Grounding and QA tasks 2. Navigation and multi-step reasoning tasks 3. Open-world environments This survey narrows in on benchmark design rather than the full GUI-agent stack. It organizes evaluation resources into three major families: grounding and question answering tasks, navigation and multi-step reasoning tasks, and open-world computer environments. That focus makes it a useful companion to broader surveys because it surfaces how different benchmarks reward different capabilities and where current evaluation still misses real deployment complexity.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The novelty is synthetic rather than model-side: the paper tries to stabilize a fast-moving literature around benchmarks.

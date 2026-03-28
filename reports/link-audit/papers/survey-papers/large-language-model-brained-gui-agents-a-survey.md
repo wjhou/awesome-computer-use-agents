@@ -68,6 +68,10 @@ flowchart TB
 
 This comprehensive survey explores the historical evolution, core components, and advanced techniques of LLM-brained GUI agents. These agents can interpret complex GUI elements and autonomously execute actions based on natural language instructions. GUIs have long been central to human-computer interaction, providing an intuitive and visually-driven way to access and interact with digital systems. The advent of LLMs, particularly multimodal models, has ushered in a new era of GUI automation. They have demonstrated exceptional capabilities in natural language understanding, code generation, and visual processing.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The novelty is synthetic rather than model-side: the paper tries to stabilize a fast-moving literature around llm, gui, key topics covered.

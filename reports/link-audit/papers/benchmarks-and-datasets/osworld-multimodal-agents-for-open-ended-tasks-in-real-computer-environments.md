@@ -16,7 +16,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu |
 | Focus tags | `benchmark` `desktop` `multimodal` `open-ended` |
 | Center of gravity | web, desktop, grounding |
-| Related assets | [os-world.github.io](https://os-world.github.io/); [GitHub](https://github.com/xlang-ai/OSWorld) |
+| Code repo | [GitHub](https://github.com/xlang-ai/OSWorld) |
+| Project page | [os-world.github.io](https://os-world.github.io/) |
 
 ## Quick Read
 
@@ -68,6 +69,11 @@ flowchart TB
 ## Executive Summary
 
 First-of-its-kind scalable, real computer environment for multimodal agents. Autonomous agents that accomplish complex computer tasks with minimal human interventions have the potential to transform human-computer interaction, significantly enhancing accessibility and productivity. However, existing benchmarks either lack an interactive environment or are limited to environments specific to certain applications or domains, failing to reflect the diverse and complex nature of real-world computer use, thereby limiting the scope of tasks and agent scalability. To address this issue, we introduce OSWorld, the first-of-its-kind scalable, real computer environment for multimodal agents, supporting task setup, execution-based evaluation, and interactive learning across various operating systems such as Ubuntu, Windows, and macOS.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/xlang-ai/OSWorld)
+- Project page or benchmark site: [os-world.github.io](https://os-world.github.io/)
 
 ## Novelty
 

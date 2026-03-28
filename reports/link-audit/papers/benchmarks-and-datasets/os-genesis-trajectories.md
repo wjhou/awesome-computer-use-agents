@@ -67,6 +67,10 @@ flowchart TB
 
 Reverse task synthesis for trajectory generation. The linked artifact is the trajectory set produced by OS-Genesis. The paired method paper introduces reverse task synthesis, where agents first interact with the environment and only then derive high-quality task descriptions retrospectively. That reversal makes the data pipeline more scalable because it avoids depending on humans to author tasks before every trajectory is collected. The benchmark or dataset is the main contribution rather than a new agent policy.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on trajectories, reverse-synthesis.

@@ -68,6 +68,10 @@ flowchart TB
 
 Novel approach to GUI grounding without explicit coordinates. The paper focuses on GUI grounding, a core weak point for VLM-based agents. Instead of predicting screen coordinates as text, GUI-Actor introduces a coordinate-free action head that aligns a dedicated ACTOR token with relevant visual patch tokens, allowing the model to propose one or more action regions in one pass. A grounding verifier then scores the candidates and selects the most plausible region for execution.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The architecture-level novelty is most visible in grounding.

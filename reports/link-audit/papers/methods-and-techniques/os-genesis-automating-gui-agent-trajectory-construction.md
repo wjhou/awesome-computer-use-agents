@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu |
 | Focus tags | `method` `data-synthesis` `reverse-task` `trajectories` |
 | Center of gravity | desktop |
-| Related assets | [Project](https://qiushisun.github.io/OS-Genesis-Home/) |
+| Project page | [Project](https://qiushisun.github.io/OS-Genesis-Home/) |
 
 ## Quick Read
 
@@ -68,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 Novel reverse trajectory collection process. Graphical User Interface (GUI) agents powered by Vision-Language Models (VLMs) have demonstrated human-like computer control capability. Despite their utility in advancing digital automation, a critical bottleneck persists: collecting high-quality trajectory data for training. Common practices for collecting such data rely on human supervision or synthetic data generation through executing pre-defined tasks, which are either resource-intensive or unable to guarantee data quality.
+
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+- Project page or benchmark site: [Project](https://qiushisun.github.io/OS-Genesis-Home/)
 
 ## Novelty
 

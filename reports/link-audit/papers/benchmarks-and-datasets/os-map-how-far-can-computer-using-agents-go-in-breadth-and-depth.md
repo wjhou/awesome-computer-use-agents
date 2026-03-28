@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun, Biqing Qi, Bowen Zhou |
 | Focus tags | `benchmark` `desktop` `taxonomy` `generalization` |
 | Center of gravity | desktop, taxonomy, generalization |
-| Related assets | [GitHub](https://github.com/OS-Copilot/OS-Map) |
+| Code repo | [GitHub](https://github.com/OS-Copilot/OS-Map) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 Benchmark for daily computer-use automation organized by autonomy level and generalization scope. Computer-using agents have shown strong potential to boost human productivity and enable new application forms across platforms. While recent advances have led to usable applications, existing benchmarks fail to account for the internal task heterogeneity and the corresponding agent capabilities, as well as their alignment with actual user demands-hindering both targeted capability development and the reliable transition of research progress into practical deployment. To bridge the gap, we present OS-MAP, a benchmark for daily computer-using automation that organizes its 416 realistic tasks across 15 applications along two key dimensions: a five-level taxonomy of automation and a generalization scope derived from a real-world user demand hierarchy.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/OS-Copilot/OS-Map)
 
 ## Novelty
 

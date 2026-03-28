@@ -68,6 +68,10 @@ flowchart TB
 
 Desktop CUA benchmark and training suite built from expert trajectories and dense grounding annotations. CUA-Suite packages dense desktop supervision for computer-use agents by combining UI understanding, grounding, and trajectory data into one suite. It spans 87 applications, 56K screenshots, and more than 5 million UI-element annotations, plus roughly 10,000 expert-demonstrated tasks with detailed reasoning traces. The paper positions this expert-driven corpus as a way to push current action models beyond consumer-style interfaces toward professional desktop software.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on grounding, desktop, human-demonstrations.

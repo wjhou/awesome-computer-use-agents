@@ -72,6 +72,10 @@ flowchart TB
 
 Dual-model approach for GUI automation. Ponder & Press splits visual GUI control into two roles: an interpreter that turns user intent into a detailed action description and a GUI-specific locator that grounds the action precisely on screen. The framework is fully visual, avoiding HTML or accessibility-tree dependence, and it is positioned as a general computer control method across web, desktop, and mobile. The paper reports a 22.5 percent gain on ScreenSpot for the locator and strong results across offline and interactive GUI benchmarks.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The method's clearest new move is interpreter: General-purpose MLLM for high-level instruction translation.

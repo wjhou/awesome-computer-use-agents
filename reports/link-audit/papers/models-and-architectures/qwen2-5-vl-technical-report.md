@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, Yuanzhi Zhu, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin |
 | Focus tags | `model` `vlm` `agent-capable` `reasoning` |
 | Center of gravity | desktop, mobile |
-| Related assets | [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) |
+| Model hub | [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) |
 
 ## Quick Read
 
@@ -68,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 Visual agent capable of reasoning and dynamically directing tools. We introduce Qwen2.5-VL, the latest flagship model of Qwen vision-language series, which demonstrates significant advancements in both foundational capabilities and innovative functionalities. Qwen2.5-VL achieves a major leap forward in understanding and interacting with the world through enhanced visual recognition, precise object localization, robust document parsing, and long-video comprehension. A standout feature of Qwen2.5-VL is its ability to localize objects using bounding boxes or points accurately.
+
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+- Model weights or hub: [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct)
 
 ## Novelty
 

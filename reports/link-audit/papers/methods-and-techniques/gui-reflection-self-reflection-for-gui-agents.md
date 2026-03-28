@@ -16,6 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu |
 | Focus tags | `method` `self-reflection` `error-correction` |
 | Center of gravity | methods |
+| Project page | [Project](https://penghao-wu.github.io/GUI_Reflection) |
 
 ## Quick Read
 
@@ -67,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 Self-reflection mechanism for GUI agents to improve performance. GUI-Reflection addresses a training blind spot in GUI automation: most multimodal GUI models learn from nearly error-free traces and therefore rarely learn recovery behavior. The framework adds explicit self-reflection and error-correction behavior across GUI-specific pre-training, supervised fine-tuning, and online reflection tuning. It also builds automated reflection data pipelines and a task suite aimed at reflection-oriented abilities rather than only grounding accuracy.
+
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+- Project page or benchmark site: [Project](https://penghao-wu.github.io/GUI_Reflection)
 
 ## Novelty
 

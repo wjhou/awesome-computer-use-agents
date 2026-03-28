@@ -68,6 +68,10 @@ flowchart TB
 
 Conceptual framework that introduces GUI Agent Autonomy Levels (GAL) for computer-use systems. GUI agents are rapidly becoming a new interaction to software, allowing people to navigate web, desktop and mobile rather than execute them click by click. Yet ``agent'' is described with radically different degrees of autonomy, obscuring capability, responsibility and risk. We call for conceptual clarity through GUI Agent Autonomy Levels (GAL), a six-level framework that makes autonomy explicit and helps benchmark progress toward trustworthy software interaction. Its main contribution is a field map, taxonomy, and synthesis rather than a new model.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The novelty is synthetic rather than model-side: the paper tries to stabilize a fast-moving literature around autonomy, framework, key contributions.

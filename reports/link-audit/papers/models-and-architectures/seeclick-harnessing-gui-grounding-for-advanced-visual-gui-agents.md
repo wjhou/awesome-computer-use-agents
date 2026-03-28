@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu |
 | Focus tags | `model` `grounding` `screenspot` |
 | Center of gravity | web, desktop, mobile |
-| Related assets | [GitHub](https://github.com/njucckevin/SeeClick) |
+| Code repo | [GitHub](https://github.com/njucckevin/SeeClick) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 Visual GUI agent with GUI grounding pre-training. Graphical User Interface (GUI) agents are designed to automate complex tasks on digital devices, such as smartphones and desktops. Most existing GUI agents interact with the environment through extracted structured data, which can be notably lengthy (e.g., HTML) and occasionally inaccessible (e.g., on desktops). To alleviate this issue, we propose a novel visual GUI agent -- SeeClick, which only relies on screenshots for task automation.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/njucckevin/SeeClick)
 
 ## Novelty
 

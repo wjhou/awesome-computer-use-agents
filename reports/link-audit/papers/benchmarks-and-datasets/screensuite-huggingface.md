@@ -15,6 +15,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Date / venue | Not stated in local entry |
 | Focus tags | `benchmark` `comprehensive` `unified` |
 | Center of gravity | grounding |
+| Code repo | [GitHub](https://github.com/huggingface/screensuite) |
 
 ## Quick Read
 
@@ -66,6 +67,11 @@ flowchart TB
 ## Executive Summary
 
 Most comprehensive benchmarking suite for GUI agents. ScreenSuite positions itself as a unified benchmark suite rather than a single new dataset. Its value comes from packaging major GUI evaluation assets, including ScreenSpot variants and OSWorld, into one maintained interface so model and method papers can compare against a broader spread of tasks without assembling every benchmark by hand.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/huggingface/screensuite)
+- Primary source note: this repo entry points first to code rather than to a paper landing page.
 
 ## Novelty
 

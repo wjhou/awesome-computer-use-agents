@@ -16,7 +16,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Xiao Liu, Bo Qin, Dongzhu Liang, Guang Dong, Hanyu Lai, Hanchen Zhang, Hanlin Zhao, Iat Long Iong, Jiadai Sun, Jiaqi Wang, Junjie Gao, Junjun Shan, Kangning Liu, Shudan Zhang, Shuntian Yao, Siyi Cheng, Wentao Yao, Wenyi Zhao, Xinghan Liu, Xinyi Liu, Xinying Chen, Xinyue Yang, Yang Yang, Yifan Xu, Yu Yang, Yujia Wang, Yulin Xu, Zehan Qi, Yuxiao Dong, Jie Tang |
 | Focus tags | `model` `mobile` `chatglm` `open-source` |
 | Center of gravity | web, mobile, grounding |
-| Related assets | [GitHub](https://github.com/THUDM/AutoGLM); [HuggingFace](https://huggingface.co/THUDM/AutoGLM-Phone-9B) |
+| Code repo | [GitHub](https://github.com/THUDM/AutoGLM) |
+| Model hub | [HuggingFace](https://huggingface.co/THUDM/AutoGLM-Phone-9B) |
 
 ## Quick Read
 
@@ -68,6 +69,11 @@ flowchart TB
 ## Executive Summary
 
 Open-source phone agent framework built on ChatGLM family. The authors present AutoGLM, a new series in the ChatGLM family, designed to serve as foundation agents for autonomous control of digital devices through Graphical User Interfaces (GUIs). While foundation models excel at acquiring human knowledge, they often struggle with decision-making in dynamic real-world environments, limiting their progress toward artificial general intelligence. This limitation underscores the importance of developing foundation agents capable of learning through autonomous environmental interactions by reinforcing existing models.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/THUDM/AutoGLM)
+- Model weights or hub: [HuggingFace](https://huggingface.co/THUDM/AutoGLM-Phone-9B)
 
 ## Novelty
 

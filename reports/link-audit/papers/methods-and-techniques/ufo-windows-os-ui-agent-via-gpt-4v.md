@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang |
 | Focus tags | `method` `windows` `gpt-4v` `microsoft` |
 | Center of gravity | desktop, grounding |
-| Related assets | [GitHub](https://github.com/microsoft/UFO) |
+| Code repo | [GitHub](https://github.com/microsoft/UFO) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 First system to leverage GPT-4V for Windows environment interaction. We introduce UFO, an innovative UI-Focused agent to fulfill user requests tailored to applications on Windows OS, harnessing the capabilities of GPT-Vision. UFO employs a dual-agent framework to meticulously observe and analyze the graphical user interface (GUI) and control information of Windows applications. This enables the agent to seamlessly navigate and operate within individual applications and across them to fulfill user requests, even when spanning multiple applications.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/microsoft/UFO)
 
 ## Novelty
 

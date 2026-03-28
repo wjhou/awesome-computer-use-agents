@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, Zhengxi Lu, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan |
 | Focus tags | `model` `mobile` `multi-agent` `sota` |
 | Center of gravity | desktop, mobile, grounding |
-| Related assets | [GitHub](https://github.com/X-PLUG/MobileAgent) |
+| Code repo | [GitHub](https://github.com/X-PLUG/MobileAgent) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 GUI-Owl foundational model achieving SOTA among open-source models. The paper introduces GUI-Owl, a foundational GUI agent model that achieves state-of-the-art performance among open-source end-to-end models on ten GUI benchmarks across desktop and mobile environments, covering grounding, question answering, planning, decision-making, and procedural knowledge. GUI-Owl-7B achieves 66.4 on AndroidWorld and 29.4 on OSWorld. Building on this, we propose Mobile-Agent-v3, a general-purpose GUI agent framework that further improves performance to 73.3 on AndroidWorld and 37.7 on OSWorld, setting a new state-of-the-art for open-source GUI agent frameworks.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/X-PLUG/MobileAgent)
 
 ## Novelty
 

@@ -67,6 +67,10 @@ flowchart TB
 
 Cost: $0.55 per high-quality trajectory (fully automated). The linked artifact is the trajectory dataset side of AgentTrek. The paired method paper uses public web tutorials to synthesize high-quality trajectories by harvesting tutorial text, converting it into structured tasks, replaying the tasks in real environments with a VLM agent, and verifying outputs with a VLM evaluator. The dataset matters because it turns tutorial-like procedural knowledge into reusable training traces at low cost. The benchmark or dataset is the main contribution rather than a new agent policy.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on trajectories, web.

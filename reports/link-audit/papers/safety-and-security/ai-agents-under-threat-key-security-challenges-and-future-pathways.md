@@ -68,6 +68,10 @@ flowchart TB
 
 Comprehensive survey on AI agent security challenges. This survey studies AI-agent security through four knowledge gaps: unpredictable multi-step inputs, opaque internal execution, variable operating environments, and interaction with untrusted external entities. Its value is not a new defense but a structured threat map that explains why agent security is harder than single-turn LLM safety. The survey also highlights how existing defenses remain incomplete once agents begin planning, tool use, and long-horizon interaction.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The paper turns general security concern into an operational agent-risk story centered on agent threat models and misuse evaluation.

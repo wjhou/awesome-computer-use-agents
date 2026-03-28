@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu |
 | Focus tags | `model` `mobile` `android` `learning` |
 | Center of gravity | mobile |
-| Related assets | [GitHub](https://github.com/TencentQQGYLab/AppAgent) |
+| Code repo | [GitHub](https://github.com/TencentQQGYLab/AppAgent) |
 
 ## Quick Read
 
@@ -68,6 +68,10 @@ flowchart TB
 ## Executive Summary
 
 LLM-based multimodal agent for smartphone operation. Recent advancements in large language models (LLMs) have led to the creation of intelligent agents capable of performing complex tasks. The paper introduces a novel LLM-based multimodal agent framework designed to operate smartphone applications. Our framework enables the agent to operate smartphone applications through a simplified action space, mimicking human-like interactions such as tapping and swiping.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/TencentQQGYLab/AppAgent)
 
 ## Novelty
 

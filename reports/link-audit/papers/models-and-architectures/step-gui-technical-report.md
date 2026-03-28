@@ -68,6 +68,10 @@ flowchart TB
 
 Self-evolving GUI agent family with calibrated step rewards, GUI-MCP, and AndroidDaily. Recent advances in multimodal large language models unlock unprecedented opportunities for GUI automation. However, a fundamental challenge remains: how to efficiently acquire high-quality training data while maintaining annotation reliability? We introduce a self-evolving training pipeline powered by the Calibrated Step Reward System, which converts model-generated trajectories into reliable training signals through trajectory-level calibration, achieving >90% annotation accuracy with 10-100x lower cost.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The architecture-level novelty is most visible in calibrated Step Reward System reports over 90% annotation accuracy with 10-100x lower labeling cost.

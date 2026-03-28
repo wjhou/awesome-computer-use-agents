@@ -16,7 +16,7 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig |
 | Focus tags | `benchmark` `web` `realistic` |
 | Center of gravity | web |
-| Related assets | [webarena.dev](https://webarena.dev/) |
+| Project page | [webarena.dev](https://webarena.dev/) |
 
 ## Quick Read
 
@@ -68,6 +68,11 @@ flowchart TB
 ## Executive Summary
 
 With advances in generative AI, there is now potential for autonomous agents to manage daily tasks via natural language commands. However, current agents are primarily created and tested in simplified synthetic environments, leading to a disconnect with real-world scenarios. In this paper, we build an environment for language-guided agents that is highly realistic and reproducible. The benchmark or dataset is the main contribution rather than a new agent policy.
+
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+- Project page or benchmark site: [webarena.dev](https://webarena.dev/)
 
 ## Novelty
 

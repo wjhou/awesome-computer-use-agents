@@ -68,6 +68,10 @@ flowchart TB
 
 Human-preference arena for measuring how computer-use agents actually feel in realistic use. Computer Agent Arena studies the gap between benchmark scores and actual user preference by building a human-centric evaluation arena for computer-use agents. The benchmark collects 2,201 high-quality human votes comparing 12 agents and shows that rankings based on user preference can differ sharply from rankings on static capability benchmarks. The paper argues that correctness dominates preference, but self-correction behavior and the quality of agent-human interaction materially shape which agent people would actually choose.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The main novelty sits in the evaluation surface itself, especially its emphasis on human-centric, preference, key findings.

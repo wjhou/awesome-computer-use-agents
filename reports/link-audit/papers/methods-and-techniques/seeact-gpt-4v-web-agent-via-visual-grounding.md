@@ -68,6 +68,10 @@ flowchart TB
 
 GPT-4V-based generalist web agent with visual grounding. The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering. In this work, we explore the potential of LMMs like GPT-4V as a generalist web agent that can follow natural language instructions to complete tasks on any given website. The authors propose SEEACT, a generalist web agent that harnesses the power of LMMs for integrated visual understanding and acting on the web.
 
+## Code and Supporting Artifacts
+
+- Code repository: no dedicated code link is currently tracked in the repo entry.
+
 ## Novelty
 
 - The method's clearest new move is generates action descriptions from screenshots.

@@ -16,7 +16,8 @@ Entry report generated on 2026-03-28 (Asia/Tokyo). This report is based on the r
 | Authors | Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui |
 | Focus tags | `benchmark` `windows` `desktop` `scalable` |
 | Center of gravity | web, desktop, grounding |
-| Related assets | [microsoft.github.io/WindowsAgentArena](https://microsoft.github.io/WindowsAgentArena/); [GitHub](https://github.com/microsoft/WindowsAgentArena) |
+| Code repo | [GitHub](https://github.com/microsoft/WindowsAgentArena) |
+| Project page | [microsoft.github.io/WindowsAgentArena](https://microsoft.github.io/WindowsAgentArena/) |
 
 ## Quick Read
 
@@ -68,6 +69,11 @@ flowchart TB
 ## Executive Summary
 
 Reproducible environment focusing on Windows OS. Large language models (LLMs) show remarkable potential to act as computer agents, enhancing human productivity and software accessibility in multi-modal tasks that require planning and reasoning. However, measuring agent performance in realistic environments remains a challenge since: (i) most benchmarks are limited to specific modalities or domains (e.g. text-only, web navigation, Q&A, coding) and (ii) full benchmark evaluations are slow (on order of magnitude of days) given the multi-step sequential nature of tasks. To address these challenges, we introduce the Windows Agent Arena: a reproducible, general environment focusing exclusively on the Windows operating system (OS) where agents can operate freely within a real Windows OS and use the same wide range of applications, tools, and web browsers available to human users when solving tasks.
+
+## Code and Supporting Artifacts
+
+- Code repository: [GitHub](https://github.com/microsoft/WindowsAgentArena)
+- Project page or benchmark site: [microsoft.github.io/WindowsAgentArena](https://microsoft.github.io/WindowsAgentArena/)
 
 ## Novelty
 
