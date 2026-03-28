@@ -114,9 +114,9 @@ Novel reverse trajectory collection process. Graphical User Interface (GUI) agen
 ## Connections In This Repo
 
 - [AgentTrek: Agent Trajectory Synthesis via Web Tutorials](agenttrek-agent-trajectory-synthesis-via-web-tutorials.md) - neighbor entry in the same methods and techniques cluster.
+- [GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](gui-genesis-automated-synthesis-of-efficient-environments-with-verifiable-rewards-for-gui-agent-post-training.md) - neighbor entry in the same methods and techniques cluster.
 - [AgentTrek Trajectories](../benchmarks-and-datasets/agenttrek-trajectories.md) - the method complements the model or benchmark side of the same research cluster.
 - [OS-Genesis Trajectories](../benchmarks-and-datasets/os-genesis-trajectories.md) - the method complements the model or benchmark side of the same research cluster.
-- [ComputerRL: End-to-End Online RL for Computer Use Agents](computerrl-end-to-end-online-rl-for-computer-use-agents.md) - neighbor entry in the same methods and techniques cluster.
 
 ## Source Basis
 

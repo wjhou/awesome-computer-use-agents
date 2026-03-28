@@ -115,8 +115,8 @@ Self-evolving online curriculum RL framework for web agents. Large language mode
 
 - [AgentTrek: Agent Trajectory Synthesis via Web Tutorials](agenttrek-agent-trajectory-synthesis-via-web-tutorials.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [SeeAct: GPT-4V Web Agent via Visual Grounding](seeact-gpt-4v-web-agent-via-visual-grounding.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
+- [ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory](actionengine-from-reactive-to-programmatic-gui-agents-via-state-machine-memory.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [WebArena: Realistic Web Environment for Building Autonomous Agents](../benchmarks-and-datasets/webarena-realistic-web-environment-for-building-autonomous-agents.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
-- [Mind2Web: Towards a Generalist Agent for the Web](../benchmarks-and-datasets/mind2web-towards-a-generalist-agent-for-the-web.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 
 ## Source Basis
 

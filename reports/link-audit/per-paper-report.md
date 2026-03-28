@@ -22,8 +22,8 @@ flowchart LR
 
 | Section | Count |
 | --- | --- |
-| Survey Papers | 7 |
-| Models and Architectures | 16 |
-| Benchmarks and Datasets | 20 |
-| Methods and Techniques | 12 |
-| Safety and Security | 8 |
+| Survey Papers | 8 |
+| Models and Architectures | 22 |
+| Benchmarks and Datasets | 28 |
+| Methods and Techniques | 16 |
+| Safety and Security | 15 |

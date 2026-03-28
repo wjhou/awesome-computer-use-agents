@@ -109,6 +109,21 @@ Broader survey on AI agents including computer use agents as a key application a
 
 ---
 
+### How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction
+- **Authors**: Various
+- **Date**: February 2026
+- **Link**: [arXiv:2602.11514](https://arxiv.org/abs/2602.11514)
+- **Tags**: `survey` `autonomy` `framework` `evaluation`
+
+Conceptual framework that introduces GUI Agent Autonomy Levels (GAL) for computer-use systems.
+
+**Key Contributions**:
+- Defines six GUI Agent Autonomy Levels to separate capability, responsibility, and risk.
+- Makes autonomy explicit across web, desktop, and mobile software interaction.
+- Reframes benchmark design and deployment trust as autonomy-level questions, not only model-quality questions.
+
+---
+
 ## Additional Resources
 
 ### Curated Paper Lists

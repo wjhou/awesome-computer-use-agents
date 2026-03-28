@@ -14,11 +14,11 @@ flowchart LR
 ```mermaid
 pie showData
     title Report Coverage
-    "Reports present" : 63
-    "Reports missing" : 5
+    "Reports present" : 89
+    "Reports missing" : 0
 ```
 
-Coverage: `63/68` entries currently have a paper report.
+Coverage: `89/89` entries currently have a paper report.
 
 ## Survey Papers
 
@@ -31,6 +31,7 @@ Coverage: `63/68` entries currently have a paper report.
 | JARVIS or Ultron? Safety and Security Threats of Computer-Using Agents | [x] | [Open](survey-papers/jarvis-or-ultron-safety-and-security-threats-of-computer-using-agents.md) | [Source](https://arxiv.org/abs/2505.10924) | `ok` | - |
 | A Survey on Benchmarks of LLM-based GUI Agents | [x] | [Open](survey-papers/a-survey-on-benchmarks-of-llm-based-gui-agents.md) | [Source](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176591818.87526814) | `script-blocked` | - |
 | AI Agents: Evolution, Architecture, and Real-World Applications | [x] | [Open](survey-papers/ai-agents-evolution-architecture-and-real-world-applications.md) | [Source](https://arxiv.org/abs/2503.12687) | `ok` | - |
+| How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction | [x] | [Open](survey-papers/how-smart-is-your-gui-agent-a-framework-for-the-future-of-software-interaction.md) | [Source](https://arxiv.org/abs/2602.11514) | `ok` | - |
 
 ## Models and Architectures
 
@@ -52,6 +53,12 @@ Coverage: `63/68` entries currently have a paper report.
 | AGUVIS: Unified Pure Vision Agents for GUI Interaction | [x] | [Open](models-and-architectures/aguvis-unified-pure-vision-agents-for-gui-interaction.md) | [Source](https://arxiv.org/abs/2412.04454) | `ok` | - |
 | R-VLM: Region-Aware VLM for Precise GUI Grounding | [x] | [Open](models-and-architectures/r-vlm-region-aware-vlm-for-precise-gui-grounding.md) | [Source](https://arxiv.org/abs/2507.05673) | `limited-access` | - |
 | GUI-Actor: Coordinate-Free Visual Grounding | [x] | [Open](models-and-architectures/gui-actor-coordinate-free-visual-grounding.md) | [Source](https://microsoft.github.io/GUI-Actor/) | `project-page` | - |
+| Step-GUI Technical Report | [x] | [Open](models-and-architectures/step-gui-technical-report.md) | [Source](https://arxiv.org/abs/2512.15431) | `ok` | - |
+| OpenCUA: Open Foundations for Computer-Use Agents | [x] | [Open](models-and-architectures/opencua-open-foundations-for-computer-use-agents.md) | [Source](https://arxiv.org/abs/2508.09123) | `ok` | - |
+| ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data | [x] | [Open](models-and-architectures/scalecua-scaling-open-source-computer-use-agents-with-cross-platform-data.md) | [Source](https://arxiv.org/abs/2509.15221) | `ok` | - |
+| Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents | [x] | [Open](models-and-architectures/mobile-agent-v3-5-multi-platform-fundamental-gui-agents.md) | [Source](https://arxiv.org/abs/2602.16855) | `ok` | - |
+| ShowUI-Aloha: Human-Taught GUI Agent | [x] | [Open](models-and-architectures/showui-aloha-human-taught-gui-agent.md) | [Source](https://arxiv.org/abs/2601.07181) | `ok` | - |
+| OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution | [x] | [Open](models-and-architectures/omegause-building-a-general-purpose-gui-agent-for-autonomous-task-execution.md) | [Source](https://arxiv.org/abs/2601.20380) | `ok` | - |
 
 ## Benchmarks and Datasets
 
@@ -75,9 +82,14 @@ Coverage: `63/68` entries currently have a paper report.
 | ScreenSpot / ScreenSpot-Pro | [x] | [Open](benchmarks-and-datasets/screenspot-screenspot-pro.md) | [Source](https://arxiv.org/abs/2401.10935) | `ok` | - |
 | OmniACT | [x] | [Open](benchmarks-and-datasets/omniact.md) | [Source](https://arxiv.org/abs/2402.17553) | `limited-access` | - |
 | ScreenSuite (HuggingFace) | [x] | [Open](benchmarks-and-datasets/screensuite-huggingface.md) | [Source](https://github.com/huggingface/screensuite) | `code-only` | Primary source is `code`. |
-| Spider2-V: Data Science Workflows |  |  |  |  | - |
-| VideoGUI: Instructional Video Automation |  |  |  |  | - |
-| GUICourse: Vision-Language to Agents |  |  |  |  | - |
+| MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents | [x] | [Open](benchmarks-and-datasets/mmbench-gui-hierarchical-multi-platform-evaluation-framework-for-gui-agents.md) | [Source](https://arxiv.org/abs/2507.19478) | `ok` | - |
+| OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth? | [x] | [Open](benchmarks-and-datasets/os-map-how-far-can-computer-using-agents-go-in-breadth-and-depth.md) | [Source](https://arxiv.org/abs/2507.19132) | `ok` | - |
+| OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents | [x] | [Open](benchmarks-and-datasets/osworld-mcp-benchmarking-mcp-tool-invocation-in-computer-use-agents.md) | [Source](https://arxiv.org/abs/2510.24563) | `ok` | - |
+| Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents | [x] | [Open](benchmarks-and-datasets/computer-agent-arena-toward-human-centric-evaluation-and-analysis-of-computer-use-agents.md) | [Source](https://openreview.net/forum?id=3x4SDbXbgl) | `ok` | - |
+| CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents | [x] | [Open](benchmarks-and-datasets/cua-suite-expert-trajectories-and-pixel-precise-grounding-for-computer-use-agents.md) | [Source](https://openreview.net/forum?id=IgTUGrZfMr) | `ok` | - |
+| Spider2-V: Data Science Workflows | [x] | [Open](benchmarks-and-datasets/spider2-v-data-science-workflows.md) | [Source](https://arxiv.org/abs/2407.10956) | `ok` | - |
+| VideoGUI: Instructional Video Automation | [x] | [Open](benchmarks-and-datasets/videogui-instructional-video-automation.md) | [Source](https://arxiv.org/abs/2406.10227) | `ok` | - |
+| GUICourse: Vision-Language to Agents | [x] | [Open](benchmarks-and-datasets/guicourse-vision-language-to-agents.md) | [Source](https://arxiv.org/abs/2406.11317) | `ok` | - |
 | AgentTrek Trajectories | [x] | [Open](benchmarks-and-datasets/agenttrek-trajectories.md) | [Source](https://agenttrek.github.io/) | `project-page` | - |
 | OS-Genesis Trajectories | [x] | [Open](benchmarks-and-datasets/os-genesis-trajectories.md) | [Source](https://qiushisun.github.io/OS-Genesis-Home/) | `project-page` | - |
 
@@ -94,10 +106,13 @@ Coverage: `63/68` entries currently have a paper report.
 | SeeAct: GPT-4V Web Agent via Visual Grounding | [x] | [Open](methods-and-techniques/seeact-gpt-4v-web-agent-via-visual-grounding.md) | [Source](https://arxiv.org/abs/2401.01614) | `ok` | - |
 | Ponder & Press: Advancing VLM Grounding | [x] | [Open](methods-and-techniques/ponder-press-advancing-vlm-grounding.md) | [Source](https://arxiv.org/abs/2409.04566) | `ok` | Confirmed link mismatch. |
 | GUI-Reflection: Self-Reflection for GUI Agents | [x] | [Open](methods-and-techniques/gui-reflection-self-reflection-for-gui-agents.md) | [Source](https://penghao-wu.github.io/GUI_Reflection) | `project-page` | Primary source is `website`. |
+| Grounding Computer Use Agents on Human Demonstrations | [x] | [Open](methods-and-techniques/grounding-computer-use-agents-on-human-demonstrations.md) | [Source](https://arxiv.org/abs/2511.07332) | `ok` | - |
+| ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory | [x] | [Open](methods-and-techniques/actionengine-from-reactive-to-programmatic-gui-agents-via-state-machine-memory.md) | [Source](https://arxiv.org/abs/2602.20502) | `ok` | - |
+| GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training | [x] | [Open](methods-and-techniques/gui-genesis-automated-synthesis-of-efficient-environments-with-verifiable-rewards-for-gui-agent-post-training.md) | [Source](https://arxiv.org/abs/2602.14093) | `ok` | - |
 | Chain-of-Agents: Multi-Agent Collaboration | [x] | [Open](methods-and-techniques/chain-of-agents-multi-agent-collaboration.md) | [Source](https://arxiv.org/abs/2508.13167) | `ok` | - |
 | Magentic-One: Multi-Agent with Human-in-Loop | [x] | [Open](methods-and-techniques/magentic-one-multi-agent-with-human-in-loop.md) | [Source](https://arxiv.org/abs/2411.04468) | `ok` | - |
 | UFO: Windows OS UI Agent via GPT-4V | [x] | [Open](methods-and-techniques/ufo-windows-os-ui-agent-via-gpt-4v.md) | [Source](https://arxiv.org/abs/2402.07939) | `ok` | - |
-| OS-Copilot: Towards Generalist Computer Agents |  |  |  |  | - |
+| OS-Copilot: Towards Generalist Computer Agents | [x] | [Open](methods-and-techniques/os-copilot-towards-generalist-computer-agents.md) | [Source](https://arxiv.org/abs/2402.07456) | `ok` | - |
 
 ## Safety and Security
 
@@ -109,6 +124,12 @@ Coverage: `63/68` entries currently have a paper report.
 | RedTeamCUA: Security Testing for Computer Use Agents | [x] | [Open](safety-and-security/redteamcua-security-testing-for-computer-use-agents.md) | [Source](https://arxiv.org/abs/2505.21936) | `limited-access` | - |
 | Attacking Vision-Language Computer Agents via Pop-ups | [x] | [Open](safety-and-security/attacking-vision-language-computer-agents-via-pop-ups.md) | [Source](https://arxiv.org/abs/2411.02391) | `ok` | - |
 | EIA: Environmental Injection Attack | [x] | [Open](safety-and-security/eia-environmental-injection-attack.md) | [Source](https://arxiv.org/abs/2409.02453) | `limited-access` | Confirmed link mismatch. |
+| OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents | [x] | [Open](safety-and-security/os-harm-a-benchmark-for-measuring-safety-of-computer-use-agents.md) | [Source](https://arxiv.org/abs/2506.14866) | `ok` | - |
+| VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents | [x] | [Open](safety-and-security/vpi-bench-visual-prompt-injection-attacks-for-computer-use-agents.md) | [Source](https://arxiv.org/abs/2506.02456) | `ok` | - |
+| HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities | [x] | [Open](safety-and-security/hackworld-evaluating-computer-use-agents-on-exploiting-web-application-vulnerabilities.md) | [Source](https://arxiv.org/abs/2510.12200) | `ok` | - |
+| GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents | [x] | [Open](safety-and-security/guiguard-toward-a-general-framework-for-privacy-preserving-gui-agents.md) | [Source](https://arxiv.org/abs/2601.18842) | `ok` | - |
+| When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents | [x] | [Open](safety-and-security/when-benign-inputs-lead-to-severe-harms-eliciting-unsafe-unintended-behaviors-of-computer-use-agents.md) | [Source](https://arxiv.org/abs/2602.08235) | `ok` | - |
+| Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible | [x] | [Open](safety-and-security/anonymization-enhanced-privacy-protection-for-mobile-gui-agents-available-but-invisible.md) | [Source](https://arxiv.org/abs/2602.10139) | `ok` | - |
 | Large Reasoning Models are Autonomous Jailbreak Agents | [x] | [Open](safety-and-security/large-reasoning-models-are-autonomous-jailbreak-agents.md) | [Source](https://www.nature.com/articles/s41467-026-69010-1) | `limited-access` | - |
-| Infectious Jailbreaks in Multi-Agent Systems |  |  |  |  | - |
+| Infectious Jailbreaks in Multi-Agent Systems | [x] | [Open](safety-and-security/infectious-jailbreaks-in-multi-agent-systems.md) | [Source](https://arxiv.org/abs/2402.08567) | `ok` | - |
 | AI Agents Under Threat: Key Security Challenges and Future Pathways | [x] | [Open](safety-and-security/ai-agents-under-threat-key-security-challenges-and-future-pathways.md) | [Source](https://dl.acm.org/doi/10.1145/3716628) | `script-blocked` | - |

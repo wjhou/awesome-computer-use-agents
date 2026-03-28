@@ -77,8 +77,8 @@ Most comprehensive benchmarking suite for GUI agents. ScreenSuite positions itse
 
 - ScreenSpot-v1, v2, Pro
 - OSWorld
-- Multiple other benchmarks
-- ## Specialized Benchmarks
+- ScreenSuite positions itself as a unified benchmark suite rather than a single new dataset.
+- Its value comes from packaging major GUI evaluation assets, including ScreenSpot variants and OSWorld, into one maintained interface so model and method papers can compare against a broader spread of tasks without assembling every benchmark by hand.
 
 ## Framework and Operating Logic
 

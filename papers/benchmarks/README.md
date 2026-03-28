@@ -238,6 +238,96 @@ Most comprehensive benchmarking suite for GUI agents.
 **Includes**:
 - ScreenSpot-v1, v2, Pro
 - OSWorld
+
+---
+
+### MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents
+- **Date**: July 2025
+- **Link**: [arXiv:2507.19478](https://arxiv.org/abs/2507.19478)
+- **Tags**: `benchmark` `cross-platform` `hierarchical` `efficiency`
+
+Hierarchical benchmark for GUI agents spanning desktop, mobile, and web platforms.
+
+**Statistics**:
+- Covers Windows, macOS, Linux, iOS, Android, and Web.
+- Evaluates four levels: content understanding, element grounding, task automation, and task collaboration.
+
+**Metrics**:
+- Efficiency-Quality Area (EQA) measures both task success and execution efficiency.
+
+**Key Findings**:
+- Accurate visual grounding is a primary determinant of end-to-end task success.
+- Existing agents remain highly inefficient, often taking many redundant steps.
+
+---
+
+### OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?
+- **Date**: July 2025
+- **Link**: [arXiv:2507.19132](https://arxiv.org/abs/2507.19132)
+- **Code**: [GitHub](https://github.com/OS-Copilot/OS-Map)
+- **Tags**: `benchmark` `desktop` `taxonomy` `generalization`
+
+Benchmark for daily computer-use automation organized by autonomy level and generalization scope.
+
+**Statistics**:
+- 416 realistic tasks across 15 applications.
+- Five automation levels combined with a user-demand hierarchy form a performance-generalization matrix.
+
+**Key Findings**:
+- Even frontier VLM-based agents struggle on higher-level tasks requiring perception, reasoning, and coordination.
+
+---
+
+### OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents
+- **Date**: October 2025
+- **Link**: [arXiv:2510.24563](https://arxiv.org/abs/2510.24563)
+- **Website**: [osworld-mcp.github.io](https://osworld-mcp.github.io/)
+- **Tags**: `benchmark` `tool-calling` `desktop` `mcp`
+
+Benchmark for fair evaluation of GUI control, MCP tool invocation, and decision-making in shared environments.
+
+**Statistics**:
+- 158 manually validated tools spanning 7 common applications.
+
+**Key Findings**:
+- Reported task success improves with tools, such as o3 from 8.3% to 20.4% at 15 steps.
+- Even strong models invoke tools infrequently, with the paper reporting only 36.3% tool usage at best.
+
+---
+
+### Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents
+- **Venue**: ICLR 2026 Poster
+- **Link**: [OpenReview](https://openreview.net/forum?id=3x4SDbXbgl)
+- **Tags**: `benchmark` `human-centric` `evaluation` `preference`
+
+Human-preference arena for measuring how computer-use agents actually feel in realistic use.
+
+**Statistics**:
+- 2,201 high-quality human preference votes comparing 12 different agents.
+
+**Key Findings**:
+- Human rankings can invert relative to static benchmark rankings.
+- Correctness matters most, but self-correction behavior and agent-human interaction quality also shape preference.
+
+---
+
+### CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents
+- **Venue**: LLA 2026 Poster
+- **Link**: [OpenReview](https://openreview.net/forum?id=IgTUGrZfMr)
+- **Tags**: `dataset` `grounding` `desktop` `human-demonstrations`
+
+Desktop CUA benchmark and training suite built from expert trajectories and dense grounding annotations.
+
+**Statistics**:
+- 56K screenshots with more than 5 million element annotations across 87 desktop applications.
+- Roughly 10,000 expert-demonstrated tasks with lengthy step-level reasoning annotations.
+
+**Includes**:
+- UI-Vision benchmark for desktop GUI understanding.
+- GroundCUA grounding data and ActCUA expert trajectory data.
+
+**Key Findings**:
+- Current foundation action models still struggle on professional desktop software despite the richer supervision.
 - Multiple other benchmarks
 
 ---
@@ -246,6 +336,7 @@ Most comprehensive benchmarking suite for GUI agents.
 
 ### Spider2-V: Data Science Workflows
 - **Date**: 2024
+- **Link**: [arXiv:2407.10956](https://arxiv.org/abs/2407.10956)
 - **Tags**: `benchmark` `data-science` `specialized`
 
 Benchmark for data science workflow automation.
@@ -254,6 +345,7 @@ Benchmark for data science workflow automation.
 
 ### VideoGUI: Instructional Video Automation
 - **Date**: 2024
+- **Link**: [arXiv:2406.10227](https://arxiv.org/abs/2406.10227)
 - **Tags**: `benchmark` `video` `instructions`
 
 Automation from instructional video content.
@@ -262,6 +354,7 @@ Automation from instructional video content.
 
 ### GUICourse: Vision-Language to Agents
 - **Date**: 2024
+- **Link**: [arXiv:2406.11317](https://arxiv.org/abs/2406.11317)
 - **Tags**: `benchmark` `training` `curriculum`
 
 Curriculum-based benchmark for agent development.

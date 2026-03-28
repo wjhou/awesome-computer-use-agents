@@ -115,9 +115,9 @@ Dual-model approach for GUI automation. Ponder & Press splits visual GUI control
 ## Connections In This Repo
 
 - [SeeAct: GPT-4V Web Agent via Visual Grounding](seeact-gpt-4v-web-agent-via-visual-grounding.md) - shared emphasis on precise UI localization and action placement.
+- [Grounding Computer Use Agents on Human Demonstrations](grounding-computer-use-agents-on-human-demonstrations.md) - shared emphasis on precise UI localization and action placement.
 - [OmniParser: Pure Vision Based GUI Agent](../models-and-architectures/omniparser-pure-vision-based-gui-agent.md) - shared emphasis on precise UI localization and action placement.
 - [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](../models-and-architectures/seeclick-harnessing-gui-grounding-for-advanced-visual-gui-agents.md) - shared emphasis on precise UI localization and action placement.
-- [Ferret-UI: Grounded Mobile UI Understanding](../models-and-architectures/ferret-ui-grounded-mobile-ui-understanding.md) - shared emphasis on precise UI localization and action placement.
 
 ## Source Basis
 

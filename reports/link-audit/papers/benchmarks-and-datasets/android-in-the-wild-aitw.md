@@ -114,8 +114,8 @@ Real-world device control scenarios for Android. There is a growing interest in 
 
 - [AMEX: Android Multi-annotation EXpo](amex-android-multi-annotation-expo.md) - shared focus on mobile GUI control and cross-app interaction constraints.
 - [AppAgent: Multimodal Agents as Smartphone Users](../models-and-architectures/appagent-multimodal-agents-as-smartphone-users.md) - shared focus on mobile GUI control and cross-app interaction constraints.
+- [Step-GUI Technical Report](../models-and-architectures/step-gui-technical-report.md) - shared focus on mobile GUI control and cross-app interaction constraints.
 - [DigiRL: Training In-The-Wild Device-Control](../methods-and-techniques/digirl-training-in-the-wild-device-control.md) - shared focus on mobile GUI control and cross-app interaction constraints.
-- [AndroidWorld: Dynamic Benchmarking Environment](androidworld-dynamic-benchmarking-environment.md) - shared focus on mobile GUI control and cross-app interaction constraints.
 
 ## Source Basis
 

@@ -114,10 +114,10 @@ Benchmark assessing LLM agents' capacity to resist harmful tasks. The robustness
 
 ## Connections In This Repo
 
+- [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](os-harm-a-benchmark-for-measuring-safety-of-computer-use-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
+- [GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents](guiguard-toward-a-general-framework-for-privacy-preserving-gui-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of Computer-Using Agents](../survey-papers/jarvis-or-ultron-safety-and-security-threats-of-computer-using-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [WebGuard: Safety Dataset for Web Agents](webguard-safety-dataset-for-web-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
-- [JARVIS or Ultron? Safety and Security Threats of CUAs](jarvis-or-ultron-safety-and-security-threats-of-cuas.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
-- [RedTeamCUA: Security Testing for Computer Use Agents](redteamcua-security-testing-for-computer-use-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 
 ## Source Basis
 

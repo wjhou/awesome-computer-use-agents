@@ -2,7 +2,7 @@
 
 Audit date: 2026-03-27 (Asia/Tokyo)
 
-This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md). The paper-by-paper dossier is in [per-paper-report.md](./per-paper-report.md), and the non-paper ecosystem dossier is in [ecosystem-report.md](./ecosystem-report.md).
+This audit checked 149 unique external URLs across 290 total link occurrences in this repository's Markdown files. The detailed inventory is in [inventory.md](./inventory.md). Actionable cleanup items are in [maintenance-findings.md](./maintenance-findings.md). The paper-by-paper dossier is in [per-paper-report.md](./per-paper-report.md), the non-paper ecosystem dossier is in [ecosystem-report.md](./ecosystem-report.md), and the focused post-2024 research expansion is in [post-2024-research-refresh.md](./post-2024-research-refresh.md).
 
 ## Visual Snapshot
 
@@ -44,6 +44,7 @@ pie showData
   - Modular stacks built from a planner plus browser/runtime/tooling layers such as Browser Use, Stagehand, Skyvern, Anthropic computer use, OpenAI CUA, Nova Act, Browserbase, and Browserless.
 - Commercial offerings overwhelmingly favor constrained environments. The official docs and product pages lean toward browser sandboxes, takeover prompts, system cards, or managed runtimes rather than unrestricted autonomous desktop control.
 - Safety is no longer an afterthought. The link set now includes a meaningful safety cluster: AgentHarm, RedTeamCUA, WebGuard, pop-up attacks, system cards, and higher-level security surveys. That said, the competence literature is still much denser than the safety literature.
+- The post-2024 refresh strengthens the repository's newer frontier: open computer-use foundations, tool-using evaluation, privacy-preserving GUI agents, and human-preference-based analysis are now much better represented than they were in the original audit pass.
 
 ## Cross-Link Connections
 

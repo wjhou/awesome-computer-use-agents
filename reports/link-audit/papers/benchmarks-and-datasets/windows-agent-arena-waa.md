@@ -114,10 +114,10 @@ Reproducible environment focusing on Windows OS. Large language models (LLMs) sh
 
 ## Connections In This Repo
 
+- [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](../safety-and-security/os-harm-a-benchmark-for-measuring-safety-of-computer-use-agents.md) - shared desktop or OS-level interaction surface.
 - [OSWorld: Multimodal Agents for Open-Ended Tasks in Real Computer Environments](osworld-multimodal-agents-for-open-ended-tasks-in-real-computer-environments.md) - shared desktop or OS-level interaction surface.
 - [macOSWorld](macosworld.md) - shared desktop or OS-level interaction surface.
 - [OmniACT](omniact.md) - shared desktop or OS-level interaction surface.
-- [ComputerRL: End-to-End Online RL for Computer Use Agents](../methods-and-techniques/computerrl-end-to-end-online-rl-for-computer-use-agents.md) - shared desktop or OS-level interaction surface.
 
 ## Source Basis
 

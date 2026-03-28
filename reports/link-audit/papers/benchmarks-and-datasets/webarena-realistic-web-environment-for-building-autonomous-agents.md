@@ -111,10 +111,10 @@ With advances in generative AI, there is now potential for autonomous agents to 
 
 ## Connections In This Repo
 
+- [HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities](../safety-and-security/hackworld-evaluating-computer-use-agents-on-exploiting-web-application-vulnerabilities.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [Mind2Web: Towards a Generalist Agent for the Web](mind2web-towards-a-generalist-agent-for-the-web.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [Online-Mind2Web](online-mind2web.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [VisualWebArena: Multimodal Web Tasks](visualwebarena-multimodal-web-tasks.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
-- [WebVoyager: End-to-End Web Agent with LMMs](webvoyager-end-to-end-web-agent-with-lmms.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 
 ## Source Basis
 

@@ -114,10 +114,10 @@ Privacy leakage study through environmental injection. EIA studies privacy leaka
 
 ## Connections In This Repo
 
+- [Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible](anonymization-enhanced-privacy-protection-for-mobile-gui-agents-available-but-invisible.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of Computer-Using Agents](../survey-papers/jarvis-or-ultron-safety-and-security-threats-of-computer-using-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of CUAs](jarvis-or-ultron-safety-and-security-threats-of-cuas.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [Attacking Vision-Language Computer Agents via Pop-ups](attacking-vision-language-computer-agents-via-pop-ups.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
-- [Large Reasoning Models are Autonomous Jailbreak Agents](large-reasoning-models-are-autonomous-jailbreak-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 
 ## Source Basis
 

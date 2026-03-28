@@ -111,9 +111,10 @@ Framework for autonomous desktop intelligence. We introduce ComputerRL, a framew
 
 ## Connections In This Repo
 
-- [OSWorld: Multimodal Agents for Open-Ended Tasks in Real Computer Environments](../benchmarks-and-datasets/osworld-multimodal-agents-for-open-ended-tasks-in-real-computer-environments.md) - shared desktop or OS-level interaction surface.
-- [Windows Agent Arena (WAA)](../benchmarks-and-datasets/windows-agent-arena-waa.md) - shared desktop or OS-level interaction surface.
-- [macOSWorld](../benchmarks-and-datasets/macosworld.md) - shared desktop or OS-level interaction surface.
+- [Grounding Computer Use Agents on Human Demonstrations](grounding-computer-use-agents-on-human-demonstrations.md) - shared desktop or OS-level interaction surface.
+- [OS-Copilot: Towards Generalist Computer Agents](os-copilot-towards-generalist-computer-agents.md) - shared desktop or OS-level interaction surface.
+- [OpenCUA: Open Foundations for Computer-Use Agents](../models-and-architectures/opencua-open-foundations-for-computer-use-agents.md) - shared desktop or OS-level interaction surface.
+- [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](../models-and-architectures/mobile-agent-v3-5-multi-platform-fundamental-gui-agents.md) - shared desktop or OS-level interaction surface.
 
 ## Source Basis
 

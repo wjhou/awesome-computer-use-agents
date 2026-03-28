@@ -113,10 +113,10 @@ Consolidates recent research on (M)LLM-based GUI agents, highlighting key innova
 
 ## Connections In This Repo
 
+- [How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction](how-smart-is-your-gui-agent-a-framework-for-the-future-of-software-interaction.md) - this report helps frame the survey papers side of the repo.
 - [JARVIS or Ultron? Safety and Security Threats of CUAs](../safety-and-security/jarvis-or-ultron-safety-and-security-threats-of-cuas.md) - this report helps frame the safety and security side of the repo.
 - [AI Agents Under Threat: Key Security Challenges and Future Pathways](../safety-and-security/ai-agents-under-threat-key-security-challenges-and-future-pathways.md) - this report helps frame the safety and security side of the repo.
 - [Large Language Model-Brained GUI Agents: A Survey](large-language-model-brained-gui-agents-a-survey.md) - this report helps frame the survey papers side of the repo.
-- [GUI Agents: A Survey](gui-agents-a-survey.md) - this report helps frame the survey papers side of the repo.
 
 ## Source Basis
 

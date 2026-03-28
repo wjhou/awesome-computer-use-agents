@@ -5,9 +5,11 @@ from __future__ import annotations
 import json
 import os
 import re
+import urllib.request
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
+from xml.etree import ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -42,6 +44,9 @@ SECTION_SLUGS = {
     "Methods and Techniques": "methods-and-techniques",
     "Safety and Security": "safety-and-security",
 }
+
+ARXIV_ABS_RE = re.compile(r"https?://arxiv\.org/abs/([0-9]+\.[0-9]+)")
+ARXIV_NS = {"atom": "http://www.w3.org/2005/Atom"}
 
 KIND_BY_SECTION = {
     "Survey Papers": "survey",
@@ -309,6 +314,51 @@ MANUAL_METADATA = {
         ),
         "source_note": "GitHub repository metadata and repo-local notes were the main basis because no primary paper was linked.",
     },
+    "Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents": {
+        "title": "Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents",
+        "summary": (
+            "Computer Agent Arena studies the gap between benchmark scores and actual user preference by building a "
+            "human-centric evaluation arena for computer-use agents. The benchmark collects 2,201 high-quality human "
+            "votes comparing 12 agents and shows that rankings based on user preference can differ sharply from "
+            "rankings on static capability benchmarks. The paper argues that correctness dominates preference, but "
+            "self-correction behavior and the quality of agent-human interaction materially shape which agent people "
+            "would actually choose."
+        ),
+        "authors": [
+            "Ameesh Shah",
+            "Jiaxin Cui",
+            "Tianbao Xie",
+            "Ari Holtzman",
+            "Caiming Xiong",
+            "Mohit Bansal",
+            "Robin Jia",
+        ],
+        "published": "2026-01-15T00:00:00Z",
+        "source_note": "Primary OpenReview abstract and metadata were used because this entry is not available through the arXiv API.",
+    },
+    "CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents": {
+        "title": "CUA-Suite: Expert Trajectories and Pixel-Precise Grounding for Computer-use Agents",
+        "summary": (
+            "CUA-Suite packages dense desktop supervision for computer-use agents by combining UI understanding, "
+            "grounding, and trajectory data into one suite. It spans 87 applications, 56K screenshots, and more "
+            "than 5 million UI-element annotations, plus roughly 10,000 expert-demonstrated tasks with detailed "
+            "reasoning traces. The paper positions this expert-driven corpus as a way to push current action models "
+            "beyond consumer-style interfaces toward professional desktop software."
+        ),
+        "authors": [
+            "Dongxu Li",
+            "Yizheng Pan",
+            "Guangchen Song",
+            "Yu-Qing Xie",
+            "Zeyi Li",
+            "Weixin Chen",
+            "Yizhe Yang",
+            "Tong Xiao",
+            "Jianmin Bao",
+        ],
+        "published": "2026-03-01T00:00:00Z",
+        "source_note": "Primary OpenReview abstract and metadata were used because this entry is not available through the arXiv API.",
+    },
 }
 
 
@@ -551,7 +601,39 @@ def load_metadata() -> dict[str, dict]:
     return by_title
 
 
-def pick_metadata(title: str, snapshot: dict[str, str], metadata: dict[str, dict]) -> dict:
+def arxiv_id_from_text(text: str) -> str | None:
+    match = ARXIV_ABS_RE.search(text or "")
+    return match.group(1) if match else None
+
+
+def fetch_arxiv_metadata(arxiv_id: str) -> dict:
+    url = f"https://export.arxiv.org/api/query?id_list={arxiv_id}"
+    try:
+        root = ET.fromstring(urllib.request.urlopen(url, timeout=30).read())
+    except Exception:
+        return {}
+
+    entry = root.find("atom:entry", ARXIV_NS)
+    if entry is None:
+        return {}
+
+    title = entry.findtext("atom:title", default="", namespaces=ARXIV_NS)
+    summary = entry.findtext("atom:summary", default="", namespaces=ARXIV_NS)
+    published = entry.findtext("atom:published", default="", namespaces=ARXIV_NS)
+    authors = [
+        author.findtext("atom:name", default="", namespaces=ARXIV_NS)
+        for author in entry.findall("atom:author", ARXIV_NS)
+    ]
+    return {
+        "title": " ".join(title.split()),
+        "summary": " ".join(summary.split()),
+        "authors": [author for author in authors if author],
+        "published": published,
+        "source_note": "Primary arXiv abstract metadata was fetched live from the linked paper page.",
+    }
+
+
+def pick_metadata(entry: RepoEntry, title: str, snapshot: dict[str, str], metadata: dict[str, dict]) -> dict:
     candidates = [
         title,
         markdown_cell_text(snapshot.get("Actual target", "")),
@@ -563,6 +645,21 @@ def pick_metadata(title: str, snapshot: dict[str, str], metadata: dict[str, dict
             continue
         item = metadata.get(normalize_title(candidate))
         if item:
+            return item
+
+    urls = [link[1] for link in entry.links.values()]
+    actual_target = snapshot.get("Actual target", "")
+    actual_target_match = re.search(r"\((https?://[^)]+)\)", actual_target)
+    if actual_target_match:
+        urls.append(actual_target_match.group(1))
+    for url in urls:
+        arxiv_id = arxiv_id_from_text(url)
+        if not arxiv_id:
+            continue
+        item = fetch_arxiv_metadata(arxiv_id)
+        if item:
+            metadata[normalize_title(item["title"])] = item
+            metadata.setdefault(normalize_title(title), item)
             return item
     return {}
 
@@ -1227,7 +1324,7 @@ def rewrite_reports() -> tuple[dict[str, Path], dict[str, dict], dict[str, RepoE
             entry = next((item for item in all_entries if item.title == report["title"]), None)
         if not entry:
             continue
-        paper = pick_metadata(report["title"], report["snapshot"], metadata)
+        paper = pick_metadata(entry, report["title"], report["snapshot"], metadata)
         body = generate_report_body(report, entry, paper, all_entries, report_paths_by_title)
         report["path"].write_text(report["prefix"] + body)
     return report_paths_by_title, report_snapshots_by_title, repo_entries
@@ -1313,7 +1410,11 @@ def rewrite_index(
     index.write_text("\n".join(lines).rstrip() + "\n")
 
 
-def rewrite_portal() -> None:
+def rewrite_portal(repo_entries: dict[str, RepoEntry]) -> None:
+    counts = {
+        section: sum(1 for entry in repo_entries.values() if entry.section == section)
+        for section, _ in README_SPECS
+    }
     portal = REPORTS_ROOT / "per-paper-report.md"
     portal.write_text(
         "\n".join(
@@ -1342,11 +1443,11 @@ def rewrite_portal() -> None:
                 "",
                 "| Section | Count |",
                 "| --- | --- |",
-                "| Survey Papers | 7 |",
-                "| Models and Architectures | 16 |",
-                "| Benchmarks and Datasets | 20 |",
-                "| Methods and Techniques | 12 |",
-                "| Safety and Security | 8 |",
+                f"| Survey Papers | {counts['Survey Papers']} |",
+                f"| Models and Architectures | {counts['Models and Architectures']} |",
+                f"| Benchmarks and Datasets | {counts['Benchmarks and Datasets']} |",
+                f"| Methods and Techniques | {counts['Methods and Techniques']} |",
+                f"| Safety and Security | {counts['Safety and Security']} |",
             ]
         )
         + "\n"
@@ -1356,7 +1457,7 @@ def rewrite_portal() -> None:
 def main() -> None:
     report_paths_by_title, report_snapshots_by_title, repo_entries = rewrite_reports()
     rewrite_index(repo_entries, report_paths_by_title, report_snapshots_by_title)
-    rewrite_portal()
+    rewrite_portal(repo_entries)
 
 
 if __name__ == "__main__":

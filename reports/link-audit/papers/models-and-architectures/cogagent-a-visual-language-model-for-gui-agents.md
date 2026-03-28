@@ -115,7 +115,7 @@ flowchart TB
 - [ScreenAgent: A VLM-driven Computer Control Agent](screenagent-a-vlm-driven-computer-control-agent.md) - neighbor entry in the same models and architectures cluster.
 - [Qwen2.5-VL Technical Report](qwen2-5-vl-technical-report.md) - neighbor entry in the same models and architectures cluster.
 - [AGUVIS: Unified Pure Vision Agents for GUI Interaction](aguvis-unified-pure-vision-agents-for-gui-interaction.md) - neighbor entry in the same models and architectures cluster.
-- [OmniACT](../benchmarks-and-datasets/omniact.md) - benchmark pressure here is a natural proving ground for the model.
+- [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](scalecua-scaling-open-source-computer-use-agents-with-cross-platform-data.md) - neighbor entry in the same models and architectures cluster.
 
 ## Source Basis
 

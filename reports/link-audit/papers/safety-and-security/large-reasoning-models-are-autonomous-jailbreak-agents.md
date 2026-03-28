@@ -111,6 +111,7 @@ Large reasoning models as jailbreak vectors. The paper studies large reasoning m
 
 ## Connections In This Repo
 
+- [Infectious Jailbreaks in Multi-Agent Systems](infectious-jailbreaks-in-multi-agent-systems.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of Computer-Using Agents](../survey-papers/jarvis-or-ultron-safety-and-security-threats-of-computer-using-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of CUAs](jarvis-or-ultron-safety-and-security-threats-of-cuas.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [Attacking Vision-Language Computer Agents via Pop-ups](attacking-vision-language-computer-agents-via-pop-ups.md) - shared concern with adversarial behavior, guardrails, or deployment risk.

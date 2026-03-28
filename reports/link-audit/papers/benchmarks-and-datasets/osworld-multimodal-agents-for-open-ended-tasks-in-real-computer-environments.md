@@ -114,10 +114,10 @@ First-of-its-kind scalable, real computer environment for multimodal agents. Aut
 
 ## Connections In This Repo
 
+- [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](../safety-and-security/os-harm-a-benchmark-for-measuring-safety-of-computer-use-agents.md) - shared desktop or OS-level interaction surface.
 - [Windows Agent Arena (WAA)](windows-agent-arena-waa.md) - shared desktop or OS-level interaction surface.
 - [macOSWorld](macosworld.md) - shared desktop or OS-level interaction surface.
 - [OmniACT](omniact.md) - shared desktop or OS-level interaction surface.
-- [VisualWebArena: Multimodal Web Tasks](visualwebarena-multimodal-web-tasks.md) - shared evaluative role in defining what progress means.
 
 ## Source Basis
 

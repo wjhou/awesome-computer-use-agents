@@ -114,7 +114,7 @@ Adversarial attacks through malicious pop-up injection. Autonomous agents powere
 - [JARVIS or Ultron? Safety and Security Threats of Computer-Using Agents](../survey-papers/jarvis-or-ultron-safety-and-security-threats-of-computer-using-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [JARVIS or Ultron? Safety and Security Threats of CUAs](jarvis-or-ultron-safety-and-security-threats-of-cuas.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 - [EIA: Environmental Injection Attack](eia-environmental-injection-attack.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
-- [Large Reasoning Models are Autonomous Jailbreak Agents](large-reasoning-models-are-autonomous-jailbreak-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
+- [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](vpi-bench-visual-prompt-injection-attacks-for-computer-use-agents.md) - shared concern with adversarial behavior, guardrails, or deployment risk.
 
 ## Source Basis
 

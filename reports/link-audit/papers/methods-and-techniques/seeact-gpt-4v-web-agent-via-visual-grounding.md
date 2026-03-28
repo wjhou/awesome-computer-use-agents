@@ -115,7 +115,7 @@ GPT-4V-based generalist web agent with visual grounding. The recent development 
 - [WebRL: Self-Evolving Online Curriculum RL for Web Agents](webrl-self-evolving-online-curriculum-rl-for-web-agents.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [AgentTrek: Agent Trajectory Synthesis via Web Tutorials](agenttrek-agent-trajectory-synthesis-via-web-tutorials.md) - shared focus on web-agent realism, dynamic pages, or browser-side risk.
 - [Ponder & Press: Advancing VLM Grounding](ponder-press-advancing-vlm-grounding.md) - shared emphasis on precise UI localization and action placement.
-- [OmniParser: Pure Vision Based GUI Agent](../models-and-architectures/omniparser-pure-vision-based-gui-agent.md) - shared emphasis on precise UI localization and action placement.
+- [Grounding Computer Use Agents on Human Demonstrations](grounding-computer-use-agents-on-human-demonstrations.md) - shared emphasis on precise UI localization and action placement.
 
 ## Source Basis
 

@@ -231,3 +231,97 @@ Addresses GUI element grounding across diverse platforms by reducing irrelevant 
 - **Tags**: `model` `grounding` `coordinate-free` `microsoft`
 
 Novel approach to GUI grounding without explicit coordinates.
+
+---
+
+### Step-GUI Technical Report
+- **Date**: December 2025
+- **Link**: [arXiv:2512.15431](https://arxiv.org/abs/2512.15431)
+- **Tags**: `model` `training-pipeline` `mcp` `android`
+
+Self-evolving GUI agent family with calibrated step rewards, GUI-MCP, and AndroidDaily.
+
+**Features**:
+- Calibrated Step Reward System reports over 90% annotation accuracy with 10-100x lower labeling cost.
+- Step-GUI 8B reports 80.2% on AndroidWorld, 48.5% on OSWorld, and 62.6% on ScreenSpot-Pro.
+- Introduces GUI-MCP for privacy-aware hierarchical GUI automation and AndroidDaily for real-world mobile usage.
+
+---
+
+### OpenCUA: Open Foundations for Computer-Use Agents
+- **Date**: August 2025
+- **Link**: [arXiv:2508.09123](https://arxiv.org/abs/2508.09123)
+- **Tags**: `model` `open-source` `foundation-model` `desktop`
+
+Open-source framework for scaling computer-use-agent data, models, and annotation infrastructure.
+
+**Features**:
+- AgentNet spans 3 operating systems and 200+ applications and websites.
+- Captures human demonstrations and converts them into reflective state-action training pairs.
+- OpenCUA-72B reaches 45.0% average success on OSWorld-Verified.
+
+---
+
+### ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data
+- **Date**: September 2025
+- **Link**: [arXiv:2509.15221](https://arxiv.org/abs/2509.15221)
+- **Code**: [GitHub](https://github.com/OpenGVLab/ScaleCUA)
+- **Tags**: `model` `data-scaling` `cross-platform` `open-source`
+
+Cross-platform open-source CUA trained on large-scale data spanning six operating systems.
+
+**Performance**:
+- Gains of +26.6 on WebArena-Lite-v2 and +10.7 on ScreenSpot-Pro over reported baselines.
+- Reports 94.4% on MMBench-GUI L1-Hard, 60.6% on OSWorld-G, and 47.4% on WebArena-Lite-v2.
+
+**Features**:
+- Uses a closed-loop data pipeline combining automated agents with human experts.
+
+---
+
+### Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+- **Organization**: Alibaba X-PLUG
+- **Date**: February 2026
+- **Link**: [arXiv:2602.16855](https://arxiv.org/abs/2602.16855)
+- **Code**: [GitHub](https://github.com/X-PLUG/MobileAgent)
+- **Tags**: `model` `mobile` `desktop` `cross-platform`
+
+GUI-Owl-1.5 native GUI agent family for desktop, browser, and mobile interaction.
+
+**Performance**:
+- Reports 56.5 on OSWorld, 71.6 on AndroidWorld, and 48.4 on WebArena.
+- Reports 80.3 on ScreenSpotPro and 47.6 on OSWorld-MCP.
+
+**Features**:
+- Hybrid data flywheel combining simulated environments and cloud sandboxes.
+- MRPO reinforcement learning for multi-platform, long-horizon GUI training.
+
+---
+
+### ShowUI-Aloha: Human-Taught GUI Agent
+- **Date**: January 2026
+- **Link**: [arXiv:2601.07181](https://arxiv.org/abs/2601.07181)
+- **Tags**: `model` `human-demonstrations` `desktop` `data-pipeline`
+
+Human-taught GUI agent pipeline that learns from in-the-wild desktop screen recordings.
+
+**Components**:
+- Recorder captures screen video together with clicks, keystrokes, and scrolls.
+- Learner converts raw interactions into descriptive task annotations.
+- Planner and executor turn parsed demonstrations into high-level plans and OS-level actions with safety checks.
+
+---
+
+### OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution
+- **Date**: January 2026
+- **Link**: [arXiv:2601.20380](https://arxiv.org/abs/2601.20380)
+- **Tags**: `model` `moe` `desktop` `mobile`
+
+General-purpose GUI agent for autonomous task execution across mobile and desktop platforms.
+
+**Features**:
+- Combines bottom-up autonomous exploration with top-down taxonomy-guided synthetic data generation.
+- Uses a two-stage SFT plus GRPO training recipe on a Mixture-of-Experts backbone.
+
+**Performance**:
+- Reports 96.3% on ScreenSpot-V2, 79.1% on AndroidControl, 74.24% on ChiM-Nav, and 55.9% on Ubu-Nav.

@@ -112,9 +112,9 @@ Pure vision-based framework for autonomous GUI agents. Automating GUI tasks rema
 ## Connections In This Repo
 
 - [CogAgent: A Visual Language Model for GUI Agents](cogagent-a-visual-language-model-for-gui-agents.md) - neighbor entry in the same models and architectures cluster.
+- [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](scalecua-scaling-open-source-computer-use-agents-with-cross-platform-data.md) - neighbor entry in the same models and architectures cluster.
+- [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](mobile-agent-v3-5-multi-platform-fundamental-gui-agents.md) - neighbor entry in the same models and architectures cluster.
 - [OmniACT](../benchmarks-and-datasets/omniact.md) - benchmark pressure here is a natural proving ground for the model.
-- [ScreenSuite (HuggingFace)](../benchmarks-and-datasets/screensuite-huggingface.md) - benchmark pressure here is a natural proving ground for the model.
-- [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](ui-tars-pioneering-automated-gui-interaction-with-native-agents.md) - neighbor entry in the same models and architectures cluster.
 
 ## Source Basis
 

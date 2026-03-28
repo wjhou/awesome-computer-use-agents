@@ -113,6 +113,7 @@ Multi-agent collaboration for complex GUI tasks. Recent advances in large langua
 
 - [Magentic-One: Multi-Agent with Human-in-Loop](magentic-one-multi-agent-with-human-in-loop.md) - neighbor entry in the same methods and techniques cluster.
 - [Mobile-Agent-v3: Fundamental Agents for GUI Automation](../models-and-architectures/mobile-agent-v3-fundamental-agents-for-gui-automation.md) - the method complements the model or benchmark side of the same research cluster.
+- [Infectious Jailbreaks in Multi-Agent Systems](../safety-and-security/infectious-jailbreaks-in-multi-agent-systems.md) - the papers sit in the same local research cluster in this repository.
 - [ComputerRL: End-to-End Online RL for Computer Use Agents](computerrl-end-to-end-online-rl-for-computer-use-agents.md) - neighbor entry in the same methods and techniques cluster.
 
 ## Source Basis

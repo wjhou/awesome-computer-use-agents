@@ -138,6 +138,57 @@ Self-reflection mechanism for GUI agents to improve performance.
 
 ---
 
+### Grounding Computer Use Agents on Human Demonstrations
+- **Date**: November 2025
+- **Link**: [arXiv:2511.07332](https://arxiv.org/abs/2511.07332)
+- **Tags**: `method` `grounding` `human-demonstrations` `desktop`
+
+Grounding pipeline and GroundNext model family built from expert human desktop demonstrations.
+
+**Statistics**:
+- Covers 87 applications with 56K screenshots and more than 3.56M human-verified annotations.
+
+**Results**:
+- GroundNext reaches state-of-the-art results across five grounding benchmarks at 3B and 7B scales.
+- Uses less than one-tenth the training data of earlier approaches while staying competitive in agentic OSWorld evaluation.
+
+---
+
+### ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory
+- **Date**: February 2026
+- **Link**: [arXiv:2602.20502](https://arxiv.org/abs/2602.20502)
+- **Tags**: `method` `program-synthesis` `web` `memory`
+
+Training-free framework that turns reactive GUI execution into programmatic planning with persistent state memory.
+
+**Components**:
+- Crawling Agent constructs an updatable GUI state-machine memory through offline exploration.
+- Execution Agent synthesizes complete Python programs for online task execution.
+- Vision-based re-grounding fallback repairs failures and updates memory when interfaces drift.
+
+**Performance**:
+- Reports 95% success on Reddit WebArena tasks with roughly one LLM call on average.
+- Cuts cost by 11.8x and end-to-end latency by 2x relative to the strongest reported vision-only baseline.
+
+---
+
+### GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training
+- **Date**: February 2026
+- **Link**: [arXiv:2602.14093](https://arxiv.org/abs/2602.14093)
+- **Tags**: `method` `data-synthesis` `post-training` `rl`
+
+Framework for automatically synthesizing efficient GUI training environments with verifiable rewards.
+
+**Features**:
+- Reconstructs real applications into lightweight web environments using multimodal code models.
+- Replaces noisy visual reward estimation with executable code-native reward assertions.
+
+**Performance**:
+- Reduces environment latency by 10x and cuts training cost by more than $28,000 per epoch.
+- Reports gains of 14.54% over the base model and 3.27% over real-world RL baselines on held-out tasks.
+
+---
+
 ## Multi-Agent Methods
 
 ### Chain-of-Agents: Multi-Agent Collaboration
@@ -179,6 +230,7 @@ First system to leverage GPT-4V for Windows environment interaction.
 
 ### OS-Copilot: Towards Generalist Computer Agents
 - **Date**: February 2024
+- **Link**: [arXiv:2402.07456](https://arxiv.org/abs/2402.07456)
 - **Tags**: `method` `desktop` `self-improvement`
 
 PC interaction with self-improvement capabilities.
