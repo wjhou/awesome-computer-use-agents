@@ -71,6 +71,23 @@ Connect LLMs to browsers with vision and HTML extraction.
 
 ---
 
+### BrowserTrace
+- **Stars**: 3
+- **Link**: [GitHub](https://github.com/aaronlab/browsertrace)
+- **Tags**: `web` `python` `debugging` `observability`
+
+Local flight recorder for AI browser agents.
+
+**Features**:
+- Records Browser Use, Stagehand, Skyvern, Playwright + LLM, and custom
+  computer-use runs
+- Captures step timelines with screenshots, URLs, model I/O, actions, status,
+  and errors
+- Exports public-safe standalone HTML traces for sharing failures without
+  prompts, screenshots, or URLs
+
+---
+
 ### Stagehand
 - **Organization**: Browserbase
 - **Stars**: 5k+
@@ -318,6 +335,7 @@ Learn to use CUA via API on multiple environments.
 |-----------|-------|----------|------------|----------|
 | UI-TARS Desktop | Desktop | TypeScript | Medium | Production desktop agents |
 | Browser Use | Web | Python | Low | Quick web automation |
+| BrowserTrace | Web debugging | Python | Low | Inspecting failed browser-agent runs |
 | Stagehand | Web | TypeScript | Medium | Fine-grained web control |
 | OpenInterpreter | General | Python | Low | Code + computer control |
 | AppAgent | Mobile | Python | Medium | Android automation |
