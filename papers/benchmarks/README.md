@@ -60,6 +60,23 @@ Benchmark specifically for macOS desktop environment.
 
 ## Web Benchmarks
 
+### ClawBench: Can AI Agents Complete Everyday Online Tasks?
+- **Authors**: Yuxuan Zhang et al.
+- **Date**: April 2026
+- **Link**: [arXiv:2604.08523](https://arxiv.org/abs/2604.08523)
+- **Website**: [claw-bench.com](https://claw-bench.com/)
+- **Code**: [GitHub](https://github.com/reacher-z/ClawBench)
+- **Tags**: `benchmark` `web` `live-sites` `multimodal`
+
+Evaluates GUI and browser agents on live production websites using request interception for task-success scoring.
+
+**Statistics**:
+- 283 tasks across 15 life categories
+- Nine selectable agent harnesses
+- Five-layer traces: video, screenshots, HTTP traffic, browser actions, and agent messages
+
+---
+
 ### WebArena: Realistic Web Environment for Building Autonomous Agents
 - **Venue**: ICLR 2024 Poster
 - **Link**: [arXiv:2307.13854](https://arxiv.org/abs/2307.13854)

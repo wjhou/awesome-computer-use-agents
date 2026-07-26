@@ -115,6 +115,7 @@ See [papers/models/](papers/models/) for detailed information.
 | GUI Odyssey: Cross-app Mobile Navigation | arXiv 2024 | `benchmark` `mobile` `cross-app` | [Paper](https://arxiv.org/abs/2411.00820) | [Report](reports/papers/benchmarks-and-datasets/gui-odyssey-cross-app-mobile-navigation.md) |
 | WebCanvas: Online Web Agent Benchmarking | arXiv 2024 | `benchmark` `web` `online` | [Paper](https://arxiv.org/abs/2406.12373) | [Report](reports/papers/benchmarks-and-datasets/webcanvas-online-web-agent-benchmarking.md) |
 | Online-Mind2Web | COLM 2025 | `benchmark` `web` `live-sites` | [Paper](https://arxiv.org/abs/2504.01382) | [Report](reports/papers/benchmarks-and-datasets/online-mind2web.md) |
+| ClawBench: Can AI Agents Complete Everyday Online Tasks? | arXiv 2026 | `benchmark` `web` `live-sites` `multimodal` | [Paper](https://arxiv.org/abs/2604.08523) | [Report](papers/benchmarks/README.md#clawbench-can-ai-agents-complete-everyday-online-tasks) |
 | MobileAgentBench | arXiv 2024 | `benchmark` `mobile` `efficiency` | [Paper](https://arxiv.org/abs/2406.08184) | [Report](reports/papers/benchmarks-and-datasets/mobileagentbench.md) |
 | OmniACT | arXiv 2024 | `benchmark` `desktop` `web` | [Paper](https://arxiv.org/abs/2402.17553) | [Report](reports/papers/benchmarks-and-datasets/omniact.md) |
 | ScreenSuite (HuggingFace) | GitHub 2025 | `benchmark` `comprehensive` | [GitHub](https://github.com/huggingface/screensuite) | [Report](reports/papers/benchmarks-and-datasets/screensuite-huggingface.md) |
