@@ -100,6 +100,7 @@ See [papers/models/](papers/models/) for detailed information.
 
 | Title | Venue/Date | Tags | Link | Report |
 |-------|------------|------|------|--------|
+| ClawBench: Can AI Agents Complete Everyday Online Tasks? | arXiv 2026 | `benchmark` `web` `live-sites` `trajectory` | [Paper](https://arxiv.org/abs/2604.08523) · [Code](https://github.com/reacher-z/ClawBench) · [Project](https://claw-bench.com/) | — |
 | OSWorld: Multimodal Agents for Open-Ended Tasks in Real Computer Environments | NeurIPS 2024 | `benchmark` `desktop` `multimodal` | [Paper](https://arxiv.org/abs/2404.07972) | [Report](reports/papers/benchmarks-and-datasets/osworld-multimodal-agents-for-open-ended-tasks-in-real-computer-environments.md) |
 | WebArena: Realistic Web Environment for Building Autonomous Agents | ICLR 2024 Poster | `benchmark` `web` | [Paper](https://arxiv.org/abs/2307.13854) | [Report](reports/papers/benchmarks-and-datasets/webarena-realistic-web-environment-for-building-autonomous-agents.md) |
 | Mind2Web: Towards a Generalist Agent for the Web | NeurIPS 2023 | `benchmark` `dataset` `web` | [Paper](https://arxiv.org/abs/2306.06070) | [Report](reports/papers/benchmarks-and-datasets/mind2web-towards-a-generalist-agent-for-the-web.md) |
