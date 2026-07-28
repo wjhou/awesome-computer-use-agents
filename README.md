@@ -128,6 +128,7 @@ See [papers/models/](papers/models/) for detailed information.
 | GUICourse: Vision-Language to Agents | arXiv 2024 | `benchmark` `training` `curriculum` | [Paper](https://arxiv.org/abs/2406.11317) | [Report](reports/papers/benchmarks-and-datasets/guicourse-vision-language-to-agents.md) |
 | AgentTrek Trajectories | Project 2024 | `dataset` `trajectories` `web` | [Project](https://agenttrek.github.io/) | [Report](reports/papers/benchmarks-and-datasets/agenttrek-trajectories.md) |
 | OS-Genesis Trajectories | Project 2024 | `dataset` `trajectories` `reverse-synthesis` | [Project](https://qiushisun.github.io/OS-Genesis-Home/) | [Report](reports/papers/benchmarks-and-datasets/os-genesis-trajectories.md) |
+| ClawBench | arXiv 2026 | `benchmark` `web` `browser-agent` `live-sites` | [Paper](https://arxiv.org/abs/2604.08523) · [Code](https://github.com/reacher-z/ClawBench) · [Project](https://claw-bench.com/) | — |
 
 See [papers/benchmarks/](papers/benchmarks/) for detailed information.
 
