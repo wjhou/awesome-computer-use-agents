@@ -21,6 +21,8 @@ A comprehensive collection of research papers, products, frameworks, and resourc
 
 ## Overview
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 Computer Use Agents (CUAs) are AI systems capable of interacting with digital interfaces just like humans do - clicking, typing, scrolling, and navigating through GUIs. This field has seen rapid advancement with the emergence of Vision-Language Models (VLMs) and Large Language Models (LLMs).
 
 ### Key Capabilities
