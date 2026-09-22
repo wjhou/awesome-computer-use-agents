@@ -55,6 +55,21 @@ Windows OS UI-focused agent using GPT-4V.
 
 ---
 
+### jevme
+- **Link**: [GitHub](https://github.com/danielyedaniel/jevme)
+- **Language**: Python
+- **Platform**: macOS
+- **Tags**: `macos` `desktop` `voice` `accessibility` `llm` `anthropic`
+
+Voice-controlled computer-use agent for macOS that acts on any app while the user is still speaking.
+
+**Features**:
+- Reads apps through the macOS accessibility tree instead of screenshots; Claude Haiku vision only as a fallback
+- A fast classifier (TypeSafe Jev) makes routine decisions; LLM reasoning results are memoized as classifier cases, so repeated tasks skip the LLM
+- Learns tasks from a single user demonstration after a failure
+
+---
+
 ## Web/Browser Frameworks
 
 ### Browser Use
