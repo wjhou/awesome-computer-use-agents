@@ -6,10 +6,10 @@ This index tracks research-style reports for non-paper entries across products, 
 pie showData
     title Ecosystem Report Coverage
     "Reports present" : 83
-    "Reports missing" : 0
+    "Reports missing" : 1
 ```
 
-Coverage: `83/83` tracked ecosystem entries currently have reports.
+Coverage: `83/84` tracked ecosystem entries currently have reports.
 
 ## Products & Services
 
@@ -30,6 +30,7 @@ Coverage: `83/83` tracked ecosystem entries currently have reports.
 | MultiOn | Startups | [x] | [Open](products-and-services/startups-multion.md) | [Website](https://www.multion.ai/) | `ok` |
 | Rabbit Inc - Rabbit R1 | Startups | [x] | [Open](products-and-services/startups-rabbit-inc-rabbit-r1.md) | [Website](https://www.rabbit.tech/rabbit-r1) | `error` |
 | Twin Labs - Twin | Startups | [x] | [Open](products-and-services/startups-twin-labs-twin.md) | [Website](https://twin.so/) | `error` |
+| vostride - agent-qa | Startups | [ ] | — | [Website](https://vostride.com) | `ok (2026-10-31)` |
 
 ## Frameworks & Tools
 

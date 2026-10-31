@@ -234,6 +234,22 @@ Advanced real-world application agent.
 
 ---
 
+### vostride - agent-qa
+- **Status**: Available as a public CLI package
+- **Platform**: Web, Android, iOS
+- **Links**: [Website](https://vostride.com), [Repository](https://github.com/vostride/agent-qa), [MCP guide](https://vostride.com/docs/agent-qa/mcp)
+- **Tags**: `web` `mobile` `android` `ios` `llm`
+
+**Key Features**:
+- Natural-language user-journey testing with recorded evidence
+- Persistent memidex memory for reusable facts and procedures
+- Validated self-improvement with knowledge provenance and lifecycle controls
+- CLI, dashboard, MCP and coding-agent skill interfaces
+
+**Access**: Self-hosted runtime licensed FSL-1.1-ALv2. Requires Node.js 24+, a configured model and test target; mobile testing also requires Appium and a device/simulator. Model-provider costs depend on configuration.
+
+---
+
 ## Browser Infrastructure Services
 
 ### Browserbase
@@ -283,3 +299,4 @@ Secure cloud-based browser for AI agents.
 | Twin | Web | Enterprise | Enterprise | Available |
 | HyperWrite | Browser | Consumers | Free-$45/mo | Available |
 | MultiOn | Web | Enterprise | API pricing | Available |
+| agent-qa | Web/Android/iOS | QA teams/developers | Self-hosted; model costs vary | Public CLI |

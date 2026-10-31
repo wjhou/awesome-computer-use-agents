@@ -201,6 +201,7 @@ The non-paper tables below now include a `Report` column that links to the gener
 | MultiOn | MultiOn | Browser Automation | `browser` `automation` `api` | [Website](https://www.multion.ai/) | [Report](reports/ecosystem/products-and-services/startups-multion.md) |
 | ACT-1 | Adept AI | Action Transformer | `enterprise` `acquired-amazon` | [Blog](https://www.adept.ai/blog/act-1/) | [Report](reports/ecosystem/products-and-services/startups-adept-ai-act-1.md) |
 | Runner H | H Company | Real-world Applications | `enterprise` `web` | [Website](https://www.hcompany.ai/) | [Report](reports/ecosystem/products-and-services/startups-h-company-runner-h.md) |
+| agent-qa | vostride | Web/mobile QA with persistent memory and validated self-improvement | `web` `mobile` `android` `ios` `llm` | [Website](https://vostride.com) | — |
 
 ### Browser Infrastructure
 
