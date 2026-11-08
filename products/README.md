@@ -262,6 +262,35 @@ Headless browser service for AI agents.
 
 ---
 
+### AdsCrawl
+- **Company**: AdsCrawl
+- **Status**: Available hosted service (no official GA/Beta designation documented)
+- **Platform**: Web/API
+- **Links**:
+  - [Website](https://www.adscrawl.net/)
+  - [API Docs](https://api.adscrawl.net/docs/agent-quickstart.md)
+- **Tags**: `infrastructure` `cloud` `api` `chromium` `playwright` `puppeteer` `cdp`
+
+Hosted Chromium browser infrastructure for content extraction and browser automation.
+
+**Features**:
+- Playwright, Puppeteer, and CDP browser connectivity
+- `POST /html` with `contentMode: markdown` for rendered Markdown content
+- `POST /spa-extract` for structured field extraction
+- `POST /screenshot` for PNG screenshots
+- Separate reusable Cloud Browser profile lifecycle
+- API key is server-side only
+
+**Example**:
+```bash
+curl --fail-with-body --max-time 90 "https://api.adscrawl.net/html" \
+  -H 'Content-Type: application/json' \
+  -H "x-api-key: $ADSCRAWL_API_KEY" \
+  -d '{"url":"https://example.com","contentMode":"markdown","timeoutMs":60000}'
+```
+
+---
+
 ### Amazon Bedrock AgentCore Browser
 - **Link**: [Docs](https://docs.aws.amazon.com/bedrock-agentcore/)
 - **Tags**: `infrastructure` `enterprise` `aws`
