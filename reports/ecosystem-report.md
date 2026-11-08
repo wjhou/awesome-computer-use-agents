@@ -9,8 +9,8 @@ flowchart LR
   Resources --> Papers["Paper reports for cross-links"]
 ```
 
-- Total ecosystem reports: `83`
-- Products & Services: `15`
+- Total ecosystem reports: `84`
+- Products & Services: `16`
 - Frameworks & Tools: `24`
 - Resources & Guides: `44`
 
