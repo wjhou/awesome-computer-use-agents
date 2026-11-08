@@ -5,16 +5,17 @@ This index tracks research-style reports for non-paper entries across products, 
 ```mermaid
 pie showData
     title Ecosystem Report Coverage
-    "Reports present" : 83
+    "Reports present" : 84
     "Reports missing" : 0
 ```
 
-Coverage: `83/83` tracked ecosystem entries currently have reports.
+Coverage: `84/84` tracked ecosystem entries currently have reports.
 
 ## Products & Services
 
 | Entry | Category | Report Included | Report | Primary URL | Audit status |
 | --- | --- | --- | --- | --- | --- |
+| AdsCrawl | Browser Infrastructure Services | [x] | [Open](products-and-services/browser-infrastructure-services-adscrawl.md) | [Website](https://www.adscrawl.net/) |  |
 | Amazon Bedrock AgentCore Browser | Browser Infrastructure Services | [x] | [Open](products-and-services/browser-infrastructure-services-amazon-bedrock-agentcore-browser.md) | [Docs](https://docs.aws.amazon.com/bedrock-agentcore/) | `ok` |
 | Browserbase | Browser Infrastructure Services | [x] | [Open](products-and-services/browser-infrastructure-services-browserbase.md) | [Website](https://www.browserbase.com/) | `ok` |
 | Browserless | Browser Infrastructure Services | [x] | [Open](products-and-services/browser-infrastructure-services-browserless.md) | [Website](https://www.browserless.io/) | `ok` |
