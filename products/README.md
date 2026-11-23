@@ -262,6 +262,23 @@ Headless browser service for AI agents.
 
 ---
 
+### Cloudbrowser
+- **Company**: Cloudbrowser
+- **Status**: Publicly available
+- **Platform**: Web/Browser (hosted Chrome)
+- **Links**:
+  - [Website](https://cloudbrowser.tv/)
+  - [Connection guide](https://cloudbrowser.tv/docs/connections)
+  - [Browser lifecycle](https://cloudbrowser.tv/docs/browsers)
+- **Tags**: `infrastructure` `cloud` `browser` `cdp` `api`
+
+**Features**:
+- Each remote Chrome browser has an isolated profile. Cookies and site storage survive pause and resume, subject to site-side session expiry.
+- A paused profile can be forked for independent runs. The authenticated REST API and Go CLI manage the lifecycle.
+- Agent clients attach over authenticated browser-level CDP. A separate Live View lets operators observe the full Chrome desktop.
+
+---
+
 ### Amazon Bedrock AgentCore Browser
 - **Link**: [Docs](https://docs.aws.amazon.com/bedrock-agentcore/)
 - **Tags**: `infrastructure` `enterprise` `aws`
